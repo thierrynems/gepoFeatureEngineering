@@ -6,8 +6,8 @@ geneFile <- args[1]
 
 proteinFile <- args[2]
 
-peptide_list_essential=readFASTA(proteinFile,sep=""))
-coding_list_essential=readFASTA(geneFile,sep=""))
+peptide_list_essential=readFASTA(proteinFile,sep="")
+coding_list_essential=readFASTA(geneFile,sep="")
 
 library(protr)
 
