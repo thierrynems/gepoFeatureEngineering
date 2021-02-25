@@ -1,4 +1,6 @@
 #Get command arguments - species prefix
+library(protr)
+library("rDNAse")
 
 args<-commandArgs(TRUE)
 
@@ -9,7 +11,7 @@ proteinFile <- args[2]
 peptide_list_essential=readFASTA(proteinFile,sep="")
 coding_list_essential=readFASTA(geneFile,sep="")
 
-library(protr)
+
 
 peptide_list_essential <- peptide_list_essential[(sapply(peptide_list_essential, protcheck))]
 #peptide_list_nessential <- peptide_list_nessential[(sapply(peptide_list_nessential, protcheck))]
@@ -158,7 +160,7 @@ colnames(a27) <- paste("APAAC", colnames(a27), sep = "_")
 
 ##rDNAse sequence features
 print("Fin extraction Protr")
-library("rDNAse")
+
 
 #coding_list_essential <- geneSequence
 #coding_list_nessential$FBgn0032224 <- NULL
