@@ -164,6 +164,8 @@ print("Fin extraction Protr")
 ##rDNAse sequence features
 library("rDNAse")
 
+# check if the sequence is 
+coding_list_essential = coding_list_essential[(sapply(coding_list_essential, dnacheck))]
 #coding_list_essential <- geneSequence
 #coding_list_nessential$FBgn0032224 <- NULL
 #coding_list_cessential$FBgn0030501 <- NULL
