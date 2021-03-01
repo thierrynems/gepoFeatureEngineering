@@ -7,6 +7,8 @@ geneFile <- args[1]
 
 proteinFile <- args[2]
 
+featureFile=proteinFile <- args[3]
+
 peptide_list_essential=readFASTA(proteinFile)
 coding_list_essential=readFASTA(geneFile)
 
@@ -378,9 +380,10 @@ x1=cbind(x1,a45)
 
 print("Fin extraction all and fusion")
 print(dim(x1))
-
-write.table(x1,"Feature_collection_Sequence.txt",quote=FALSE,sep="\t")
-write.table(x1,"Feature_collection_Sequence.csv",quote=FALSE,sep=",")
+featureFileTXT=paste(featureFile,"Feature_collection_Sequence.txt",sep="")
+featureFileCSV=paste(featureFile,"Feature_collection_Sequence.csv",sep="")
+write.table(x1,featureFileTXT,quote=FALSE,sep="\t")
+write.table(x1,featureFileCSV,quote=FALSE,sep=",")
 #write.table(x2,"Feature_collection_SequenceNEssential.txt",quote=FALSE,sep="\t")
 #write.table(x3,"Feature_collection_SequenceCEssential.txt",quote=FALSE,sep="\t")
 
