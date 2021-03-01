@@ -7,7 +7,7 @@ geneFile <- args[1]
 
 proteinFile <- args[2]
 
-featureFile=<- args[3]
+featureFile <- args[3]
 
 peptide_list_essential=readFASTA(proteinFile)
 coding_list_essential=readFASTA(geneFile)
