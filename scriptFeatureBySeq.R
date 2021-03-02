@@ -91,7 +91,7 @@ colnames(a13) <- paste("CTDD", colnames(a13), sep = "_")
 
 #colnames(c7) <- paste("CTDD", colnames(c7), sep = "_")
 
-a15 = t(sapply(peptide_list_essential, extractMoreauBroto, nlag=10))
+a15 = t(sapply(peptide_list_essential, extractMoreauBroto, nlag=30))
 #a16 = t(sapply(peptide_list_nessential, extractMoreauBroto, nlag=10))
 
 #c8 = t(sapply(peptide_list_cessential, extractMoreauBroto, nlag=10))
@@ -101,7 +101,7 @@ colnames(a15) <- paste("Moreau", colnames(a15), sep = "_")
 
 #colnames(c8) <- paste("Moreau", colnames(c8), sep = "_")
 
-a17 = t(sapply(peptide_list_essential, extractMoran, nlag=10))
+a17 = t(sapply(peptide_list_essential, extractMoran, nlag=30))
 #a18 = t(sapply(peptide_list_nessential, extractMoran, nlag=10))
 
 #c9 = t(sapply(peptide_list_cessential, extractMoran, nlag=10))
@@ -111,7 +111,7 @@ colnames(a17) <- paste("Moran", colnames(a17), sep = "_")
 
 #colnames(c9) <- paste("Moran", colnames(c9), sep = "_")
 
-a19 = t(sapply(peptide_list_essential, extractGeary, nlag=10))
+a19 = t(sapply(peptide_list_essential, extractGeary, nlag=30))
 #a20 = t(sapply(peptide_list_nessential, extractGeary, nlag=10))
 
 #c10 = t(sapply(peptide_list_cessential, extractGeary, nlag=10))
@@ -121,7 +121,7 @@ colnames(a19) <- paste("Geary", colnames(a19), sep = "_")
 
 #colnames(c10) <- paste("Geary", colnames(c10), sep = "_")
 
-a21 = t(sapply(peptide_list_essential, extractSOCN, nlag=10))
+a21 = t(sapply(peptide_list_essential, extractSOCN, nlag=30))
 #a22 = t(sapply(peptide_list_nessential, extractSOCN, nlag=10))
 
 #c11 = t(sapply(peptide_list_cessential, extractSOCN, nlag=10))
@@ -131,7 +131,7 @@ colnames(a21) <- paste("SOCN", colnames(a21), sep = "_")
 
 #colnames(c11) <- paste("SOCN", colnames(c11), sep = "_")
 
-a23 = t(sapply(peptide_list_essential, extractQSO,nlag=10))
+a23 = t(sapply(peptide_list_essential, extractQSO,nlag=30))
 #a24 = t(sapply(peptide_list_nessential, extractQSO,nlag=10))
 
 #c12 = t(sapply(peptide_list_cessential, extractQSO,nlag=10))
@@ -141,7 +141,7 @@ colnames(a23) <- paste("QSO", colnames(a23), sep = "_")
 
 #colnames(c12) <- paste("QSO", colnames(c12), sep = "_")
 
-a25 = t(sapply(peptide_list_essential, extractPAAC,lambda=10))
+a25 = t(sapply(peptide_list_essential, extractPAAC,lambda=30))
 #a26 = t(sapply(peptide_list_nessential, extractPAAC,lambda=10))
 
 #c13 = t(sapply(peptide_list_cessential, extractPAAC,lambda=10))
@@ -151,7 +151,7 @@ colnames(a25) <- paste("PAAC", colnames(a25), sep = "_")
 
 #colnames(c13) <- paste("PAAC", colnames(c13), sep = "_")
 
-a27 = t(sapply(peptide_list_essential, extractAPAAC,lambda=10))
+a27 = t(sapply(peptide_list_essential, extractAPAAC,lambda=30))
 #a28 = t(sapply(peptide_list_nessential, extractAPAAC,lambda=10))
 
 #c14 = t(sapply(peptide_list_cessential, extractAPAAC,lambda=10))
