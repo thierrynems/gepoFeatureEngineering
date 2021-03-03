@@ -8,7 +8,7 @@ seqaaDict_E=dict()
 for fasta in fastaSequences:
   name, sequence = fasta.id, str(fasta.seq)
   seqaaDict_E[name]=sequence
-print(seqaaDict_E)
+#print(seqaaDict_E)
 
 #aa
 fastaSequences = SeqIO.parse(open("EssentialsequenceNT.fasta"), 'fasta')
@@ -16,7 +16,7 @@ seqntDict_E=dict()
 for fasta in fastaSequences:
   name, sequence = fasta.id, str(fasta.seq)
   seqntDict_E[name]=sequence
-print(seqntDict_E)
+#print(seqntDict_E)
 index=0
 fileSeqAA=open("EssentialsequenceAA-clean.fasta", 'a')
 fileSeqNT=open("EssentialsequenceNT-clean.fasta", 'a')
