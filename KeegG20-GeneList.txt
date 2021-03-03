@@ -1,0 +1,3364 @@
+dde:Dde_0001	Chromosomal replication initiator DnaA domain-containing protein
+dde:Dde_0002	DNA polymerase III, beta subunit
+dde:Dde_0003	DNA gyrase, B subunit
+dde:Dde_0004	DNA gyrase, A subunit
+dde:Dde_0005	putative lipoprotein
+dde:Dde_0009	Methyltransferase type 11
+dde:Dde_0011	histidyl-tRNA synthetase
+dde:Dde_0012	aspartyl-tRNA synthetase
+dde:Dde_0013	peptide deformylase
+dde:Dde_0014	methionyl-tRNA formyltransferase
+dde:Dde_0015	protein of unknown function DUF116
+dde:Dde_0016	protein of unknown function DUF116
+dde:Dde_0017	Fmu (Sun) domain protein
+dde:Dde_0019	DnaJ-like, subfamily C, domain-containing protein
+dde:Dde_0020	hypothetical protein
+dde:Dde_0021	Mammalian cell entry related domain protein
+dde:Dde_0022	Sulfate-transporting ATPase
+dde:Dde_0023	protein of unknown function DUF140
+dde:Dde_0024	anti-anti-sigma factor
+dde:Dde_0028	D-glycero-D-manno-heptose-7-phosphate 1-kinase
+dde:Dde_0029	parB-like partition protein
+dde:Dde_0030	hypothetical protein
+dde:Dde_0031	Cobyrinic acid ac-diamide synthase
+dde:Dde_0033	UDP-N-acetylglucosamine 4-epimerase
+dde:Dde_0036	band 7 protein
+dde:Dde_0037	protein of unknown function DUF107
+dde:Dde_0038	hypothetical protein
+dde:Dde_0039	phosphopantothenoylcysteine decarboxylase/phosphopantothenate/cysteine ligase
+dde:Dde_0040	putative lipoprotein
+dde:Dde_0042	S-adenosylmethionine/tRNA-ribosyltransferase-isomerase
+dde:Dde_0043	Ferrodoxin-like protein
+dde:Dde_0044	2-oxoisovalerate oxidoreductase, beta subunit
+dde:Dde_0045	2-oxoglutarate synthase
+dde:Dde_0046	Pyruvate/ketoisovalerate oxidoreductase
+dde:Dde_0047	Radical SAM domain protein
+dde:Dde_0048	UspA domain-containing protein
+dde:Dde_0050	Alcohol dehydrogenase (NADP(+))
+dde:Dde_0053	hypothetical protein
+dde:Dde_0054	Proline dehydrogenase / 1-pyrroline-5-carboxylate dehydrogenase
+dde:Dde_0056	dihydroorotate dehydrogenase family protein
+dde:Dde_0057	Dihydroorotate dehydrogenase, electron transfer subunit, iron-sulfur cluster binding domain-containing protein
+dde:Dde_0058	peptidase U32
+dde:Dde_0059	ADP-ribosylation/Crystallin J1
+dde:Dde_0060	hypothetical protein
+dde:Dde_0062	GTP-binding protein engA
+dde:Dde_0063	putative lipoprotein
+dde:Dde_0064	peptidase M15B and M15C DD-carboxypeptidase VanY/endolysin
+dde:Dde_0065	branched-chain amino acid aminotransferase
+dde:Dde_0066	DNA polymerase III, subunits gamma and tau
+dde:Dde_0067	Uncharacterized protein family UPF0133
+dde:Dde_0068	Recombination protein recR
+dde:Dde_0070	Ste24 endopeptidase
+dde:Dde_0071	response regulator receiver protein
+dde:Dde_0073	protein of unknown function DUF309
+dde:Dde_0074	hydrolase, TatD family
+dde:Dde_0075	glycosyl transferase group 1
+dde:Dde_0076	Methylthioribose salvage protein
+dde:Dde_0077	diguanylate cyclase
+dde:Dde_0079	Tryptophan synthase beta chain
+dde:Dde_R0001	16S ribosomal RNA
+dde:Dde_R0002	tRNA-Ile
+dde:Dde_R0003	tRNA-Ala
+dde:Dde_R0004	23S ribosomal RNA
+dde:Dde_R0082	5S ribosomal RNA
+dde:Dde_0081	Periplasmic (fe) hydrogenase large subunit
+dde:Dde_0082	Periplasmic (fe) hydrogenase small subunit precursor
+dde:Dde_0084	hypothetical protein
+dde:Dde_0085	hypothetical protein
+dde:Dde_0086	6,7-dihydropteridine reductase
+dde:Dde_0087	transcriptional regulator, LysR family
+dde:Dde_0088	hypothetical protein
+dde:Dde_0089	CoA-substrate-specific enzyme activase
+dde:Dde_0090	2-hydroxyglutaryl-CoA dehydratase family
+dde:Dde_0092	Hydantoinaseoxoprolinase domain protein
+dde:Dde_0093	hypothetical protein
+dde:Dde_0095	rRNA methylase
+dde:Dde_0096	hypothetical protein
+dde:Dde_0097	protein of unknown function DUF939
+dde:Dde_0098	UspA domain-containing protein
+dde:Dde_0099	asparaginyl-tRNA synthetase
+dde:Dde_0102	glutamine synthetase catalytic region
+dde:Dde_0104	glutamine synthetase, type I
+dde:Dde_0106	DNA topoisomerase I
+dde:Dde_0107	peptidase M48 Ste24p
+dde:Dde_0108	hypothetical protein
+dde:Dde_0109	two component, sigma54 specific, transcriptional regulator, Fis family
+dde:Dde_0110	signal transduction histidine kinase, nitrogen specific, NtrB
+dde:Dde_0111	zinc resistance-associated protein
+dde:Dde_0113	ribonucleoside-diphosphate reductase, adenosylcobalamin-dependent
+dde:Dde_0114	cell division ATP-binding protein FtsE
+dde:Dde_0115	protein of unknown function DUF214
+dde:Dde_0116	dihydroxy-acid dehydratase
+dde:Dde_0119	DNA binding domain protein, excisionase family
+dde:Dde_0120	pseudouridine synthase
+dde:Dde_0121	hypothetical protein
+dde:Dde_0122	Putative 23S rRNA m(5)C methyltransferase
+dde:Dde_0123	3'(2'),5'-bisphosphate nucleotidase
+dde:Dde_0124	NLP/P60 protein
+dde:Dde_0125	histone family protein DNA-binding protein
+dde:Dde_0126	MerR family transcriptional regulator
+dde:Dde_0127	PdxA-like dehydrogenase
+dde:Dde_0128	type III effector Hrp-dependent outer protein
+dde:Dde_0129	2-keto-3-deoxygluconate permease
+dde:Dde_0130	transcriptional regulator, DeoR family
+dde:Dde_0132	Protein of unknown function DUF318, transmembrane
+dde:Dde_0133	Ferritin Dps family protein
+dde:Dde_0136	adenine deaminase
+dde:Dde_0137	ABC-type transporter, integral membrane subunit
+dde:Dde_0138	ABC-type transporter, integral membrane subunit
+dde:Dde_0139	Monosaccharide-transporting ATPase
+dde:Dde_0140	Adenine phosphoribosyltransferase
+dde:Dde_0141	basic membrane lipoprotein
+dde:Dde_0145	ABC-type glycine betaine transport, periplasmic subunit
+dde:Dde_0146	ABC-type glycine betaine transport, periplasmic subunit
+dde:Dde_0147	PEP motif putative anchor domain protein
+dde:Dde_R0006	tRNA-Arg
+dde:Dde_0150	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+dde:Dde_0151	beta-lactamase domain protein
+dde:Dde_4011	Excinuclease ABC C subunit domain protein
+dde:Dde_0152	DEAD/DEAH box helicase domain protein
+dde:Dde_0153	hypothetical protein
+dde:Dde_0154	Molybdenum ABC transporter, permease protein
+dde:Dde_0155	molybdenum ABC transporter, periplasmic molybdate-binding protein
+dde:Dde_0157	transcriptional regulator, GntR family with aminotransferase domain-containing protein
+dde:Dde_0158	AzlC family protein
+dde:Dde_0159	branched-chain amino acid transport
+dde:Dde_0160	signal transduction histidine kinase, LytS
+dde:Dde_0161	two component transcriptional regulator, LytTR family
+dde:Dde_0163	DSBA oxidoreductase
+dde:Dde_0166	Phosphonate-transporting ATPase
+dde:Dde_0167	polar amino acid ABC transporter, inner membrane subunit
+dde:Dde_0168	ABC-type transporter, periplasmic subunit family 3
+dde:Dde_0171	threonine synthase
+dde:Dde_0172	Membrane protein YgiH
+dde:Dde_0173	ribonuclease II
+dde:Dde_0174	Phosphoribosylaminoimidazolecarboxamide formyltransferase
+dde:Dde_4008	hypothetical protein
+dde:Dde_0175	Transglycosylase, Slt family
+dde:Dde_0176	adenylosuccinate synthetase
+dde:Dde_0177	DNA polymerase III subunit delta'
+dde:Dde_0178	response regulator receiver protein
+dde:Dde_0179	deoxyribodipyrimidine photolyase
+dde:Dde_0180	response regulator receiver protein
+dde:Dde_0181	hypothetical protein
+dde:Dde_0182	D-lactate dehydrogenase (cytochrome)
+dde:Dde_0183	polar amino acid ABC transporter, inner membrane subunit
+dde:Dde_0184	Phosphonate-transporting ATPase
+dde:Dde_0185	polar amino acid ABC transporter, inner membrane subunit
+dde:Dde_0186	ABC-type transporter, periplasmic subunit family 3
+dde:Dde_0187	flavin reductase domain protein FMN-binding protein
+dde:Dde_0188	Beta-lysine N-acetyltransferase
+dde:Dde_0189	lysine 2,3-aminomutase YodO family protein
+dde:Dde_0191	protein of unknown function DUF355
+dde:Dde_0193	Long-chain-fatty-acid--CoA ligase
+dde:Dde_0194	Stress responsive alpha-beta barrel domain-containing protein
+dde:Dde_R0007	tRNA-Lys
+dde:Dde_0196	seryl-tRNA synthetase
+dde:Dde_0197	hypothetical protein
+dde:Dde_0201	hypothetical protein
+dde:Dde_0202	Class I peptide chain release factor
+dde:Dde_0203	type IV pilus assembly PilZ
+dde:Dde_0204	Dinitrogenase iron-molybdenum cofactor biosynthesis protein
+dde:Dde_0205	SEC-C motif domain protein
+dde:Dde_0206	hypothetical protein
+dde:Dde_0207	hypothetical protein
+dde:Dde_0208	lysine transporter from the Na+/H+ antiporter superfamily
+dde:Dde_0209	Peptidylprolyl isomerase
+dde:Dde_0210	Thioredoxin-disulfide reductase
+dde:Dde_0211	diguanylate cyclase with PAS/PAC sensor
+dde:Dde_0212	A/G-specific adenine glycosylase
+dde:Dde_0213	Polyamine-transporting ATPase
+dde:Dde_0214	aminoglycoside phosphotransferase
+dde:Dde_0215	glycosyl transferase family 2
+dde:Dde_0216	amine oxidase
+dde:Dde_0217	peptidase M24
+dde:Dde_0218	methyl-accepting chemotaxis sensory transducer
+dde:Dde_0220	Sel1 domain protein repeat-containing protein
+dde:Dde_0221	response regulator receiver protein
+dde:Dde_0222	protein of unknown function DUF1641
+dde:Dde_0223	FAD-dependent pyridine nucleotide-disulfide oxidoreductase
+dde:Dde_0224	transcriptional regulator, BadM/Rrf2 family
+dde:Dde_0225	protein of unknown function DUF748
+dde:Dde_0227	carbon starvation protein CstA
+dde:Dde_0228	Tyrosyl-tRNA synthetase
+dde:Dde_0229	Conserved hypothetical protein CHP00282
+dde:Dde_0230	molybdenum cofactor synthesis domain protein
+dde:Dde_0232	Fe(3+)-transporting ATPase
+dde:Dde_0233	ABC-type transporter, integral membrane subunit
+dde:Dde_0234	ABC transporter periplasmic substrate-binding protein
+dde:Dde_0235	transcriptional regulator, BadM/Rrf2 family
+dde:Dde_0236	NAD-dependent epimerase/dehydratase
+dde:Dde_0237	GPR1/FUN34/yaaH family protein
+dde:Dde_0239	multi-sensor signal transduction histidine kinase
+dde:Dde_0240	Fumarate hydratase class II
+dde:Dde_0241	ABC-type transporter, periplasmic subunit family 3
+dde:Dde_0243	Peptidase M23
+dde:Dde_0244	PP-loop domain protein
+dde:Dde_0246	hypothetical protein
+dde:Dde_0247	DNA-directed RNA polymerase, omega subunit
+dde:Dde_0248	chaperone protein DnaJ
+dde:Dde_0249	molybdenum cofactor biosynthesis protein C
+dde:Dde_0250	ABC transporter related protein
+dde:Dde_0251	NUDIX hydrolase
+dde:Dde_0252	protein of unknown function DUF606
+dde:Dde_0253	hemerythrin-like metal-binding protein
+dde:Dde_0254	aspartate-semialdehyde dehydrogenase
+dde:Dde_0255	aminotransferase class IV
+dde:Dde_0256	glycosyl transferase group 1
+dde:Dde_0257	PAS/PAC sensor hybrid histidine kinase
+dde:Dde_0258	Extracellular ligand-binding receptor
+dde:Dde_0259	ABC-type transporter, integral membrane subunit
+dde:Dde_0260	ABC-type transporter, integral membrane subunit
+dde:Dde_0261	Monosaccharide-transporting ATPase
+dde:Dde_0262	Fe(3+)-transporting ATPase
+dde:Dde_0263	metal dependent phosphohydrolase
+dde:Dde_0264	hypothetical protein
+dde:Dde_0265	4Fe-4S ferredoxin iron-sulfur binding domain-containing protein
+dde:Dde_0266	GCN5-related N-acetyltransferase
+dde:Dde_0267	protein of unknown function DUF224 cysteine-rich region domain protein
+dde:Dde_0268	hypothetical protein
+dde:Dde_0269	Bifunctional transpeptidase/transglycosylase
+dde:Dde_0270	alpha-2-macroglobulin domain protein
+dde:Dde_0271	oligopeptide/dipeptide ABC transporter, ATPase subunit
+dde:Dde_0272	oligopeptide/dipeptide ABC transporter, ATPase subunit
+dde:Dde_0273	ABC-type transporter, integral membrane subunit
+dde:Dde_0274	ABC-type transporter, integral membrane subunit
+dde:Dde_0275	ABC-type transporter, periplasmic subunit
+dde:Dde_0276	Cystathionine beta-lyase
+dde:Dde_0277	anaerobic ribonucleoside-triphosphate reductase
+dde:Dde_0278	Anaerobic ribonucleoside-triphosphate reductase activating enzyme
+dde:Dde_0281	CheC domain protein
+dde:Dde_0282	TPR repeat-containing protein
+dde:Dde_0283	hypothetical protein
+dde:Dde_0284	protein of unknown function DUF1007
+dde:Dde_0285	high-affinity nickel-transporter
+dde:Dde_0286	Ferredoxin II
+dde:Dde_0287	hypothetical protein
+dde:Dde_0288	hypothetical protein
+dde:Dde_0289	proprionate catabolism activator, Fis family
+dde:Dde_4005	hypothetical protein
+dde:Dde_0291	cytochrome c class I
+dde:Dde_0292	hypothetical protein
+dde:Dde_0293	Polyketide cyclase/dehydrase
+dde:Dde_0294	putative transcriptional acitvator, Baf family
+dde:Dde_0295	enolase
+dde:Dde_0296	Methylenetetrahydrofolate dehydrogenase (NADP(+))
+dde:Dde_0298	flagellar hook-basal body protein
+dde:Dde_0299	NapC/NirT cytochrome c domain protein
+dde:Dde_0300	hypothetical protein
+dde:Dde_0301	protein of unknown function DUF6 transmembrane
+dde:Dde_0303	transcriptional regulator, MucR family
+dde:Dde_0304	Glyoxalase/bleomycin resistance protein/dioxygenase
+dde:Dde_0305	alkyl hydroperoxide reductase/Thiol specific antioxidant/Mal allergen
+dde:Dde_0306	Redoxin domain protein
+dde:Dde_0307	Predicted 23S rRNA-ribose 2'-O-methyltransferase
+dde:Dde_0308	binding-protein-dependent transport systems inner membrane component
+dde:Dde_0309	ABC-type transporter, integral membrane subunit
+dde:Dde_0310	Cl-channel voltage-gated family protein
+dde:Dde_0312	FAD linked oxidase domain protein
+dde:Dde_0314	Holliday junction resolvase YqgF
+dde:Dde_0315	aminodeoxychorismate lyase
+dde:Dde_0316	hypothetical protein
+dde:Dde_0318	PAS modulated sigma54 specific transcriptional regulator, Fis family
+dde:Dde_0319	hypothetical protein
+dde:Dde_0320	integral membrane sensor signal transduction histidine kinase
+dde:Dde_0321	response regulator receiver protein
+dde:Dde_0322	histidine kinase A domain protein
+dde:Dde_0323	response regulator receiver protein
+dde:Dde_0324	response regulator receiver protein
+dde:Dde_0325	CBS domain containing protein
+dde:Dde_0326	sodium/sulphate symporter
+dde:Dde_0327	response regulator receiver protein
+dde:Dde_0328	response regulator receiver protein
+dde:Dde_0329	GCN5-related N-acetyltransferase
+dde:Dde_0331	imidazoleglycerol phosphate synthase, cyclase subunit
+dde:Dde_0332	imidazole glycerol phosphate synthase, glutamine amidotransferase subunit
+dde:Dde_0333	carbamoyl-phosphate synthase, large subunit
+dde:Dde_0334	amidophosphoribosyltransferase
+dde:Dde_0335	KpsF/GutQ family protein
+dde:Dde_0336	thioesterase superfamily protein
+dde:Dde_0337	glycosyl transferase family 2
+dde:Dde_0339	membrane protein involved in aromatic hydrocarbon degradation
+dde:Dde_0340	hypothetical protein
+dde:Dde_0341	DEAD/DEAH box helicase domain protein
+dde:Dde_0342	Precorrin-8X methylmutase
+dde:Dde_0343	cobyrinic acid a,c-diamide synthase
+dde:Dde_0344	hypothetical protein
+dde:Dde_0346	transcriptional regulator, MucR family
+dde:Dde_0347	methyl-accepting chemotaxis sensory transducer
+dde:Dde_0348	transmembrane pair domain-containing protein
+dde:Dde_0349	transcriptional regulator, LysR family
+dde:Dde_0350	flagellar protein export ATPase FliI
+dde:Dde_0351	flagellar assembly protein FliH
+dde:Dde_0352	flagellar motor switch protein FliG
+dde:Dde_0353	flagellar M-ring protein FliF
+dde:Dde_0354	flagellar hook-basal body complex subunit FliE
+dde:Dde_0355	flagellar basal-body rod protein FlgC
+dde:Dde_0356	flagellar basal-body rod protein FlgB
+dde:Dde_0357	Tetratricopeptide TPR_1 repeat-containing protein
+dde:Dde_0358	UDP-glucose 4-epimerase
+dde:Dde_0359	sugar O-acyltransferase, sialic acid O-acetyltransferase NeuD family
+dde:Dde_0360	polysaccharide biosynthesis protein CapD
+dde:Dde_0361	DegT/DnrJ/EryC1/StrS aminotransferase
+dde:Dde_0362	sugar transferase
+dde:Dde_0363	hydrogenase expression/formation protein HypE
+dde:Dde_0364	hydrogenase expression/formation protein HypD
+dde:Dde_0365	metal-dependent phosphohydrolase HD sub domain-containing protein
+dde:Dde_0366	D-alanine/D-alanine ligase
+dde:Dde_0367	Three-deoxy-D-manno-octulosonic-acid transferase domain-containing protein
+dde:Dde_0369	methyl-accepting chemotaxis sensory transducer
+dde:Dde_0370	multi-sensor hybrid histidine kinase
+dde:Dde_0371	ABC-type transporter, periplasmic subunit
+dde:Dde_0372	hypothetical protein
+dde:Dde_0373	phosphoesterase PA-phosphatase related protein
+dde:Dde_0374	CoA-disulfide reductase
+dde:Dde_0376	GTP-binding proten HflX
+dde:Dde_0377	Phosphoribosylaminoimidazolecarboxamide formyltransferase
+dde:Dde_0378	flagellar biosynthetic protein FliR
+dde:Dde_0379	flagellar biosynthetic protein FlhB
+dde:Dde_0380	flagellar biosynthesis protein FlhA
+dde:Dde_0381	GTP-binding signal recognition particle SRP54 G-domain-containing protein
+dde:Dde_0382	Cobyrinic acid ac-diamide synthase
+dde:Dde_0383	RNA polymerase, sigma 28 subunit, FliA/WhiG
+dde:Dde_0384	response regulator receiver protein
+dde:Dde_0385	flagellar basal body-associated protein FliL
+dde:Dde_0386	hypothetical protein
+dde:Dde_0387	hypothetical protein
+dde:Dde_0388	hypothetical protein
+dde:Dde_0389	dihydrouridine synthase DuS
+dde:Dde_0390	hydroxymethylbutenyl pyrophosphate reductase
+dde:Dde_0391	response regulator receiver modulated CheW protein
+dde:Dde_0392	hypothetical protein
+dde:Dde_0393	hypothetical protein
+dde:Dde_0394	glycosyl transferase group 1
+dde:Dde_0395	ABC-type transporter, periplasmic subunit family 3
+dde:Dde_0396	polar amino acid ABC transporter, inner membrane subunit
+dde:Dde_0398	acetolactate synthase, large subunit, biosynthetic type
+dde:Dde_0399	amino acid-binding ACT domain protein
+dde:Dde_0400	RND efflux system, outer membrane lipoprotein, NodT family
+dde:Dde_0401	transporter, hydrophobe/amphiphile efflux-1 (HAE1) family
+dde:Dde_0402	efflux transporter, RND family, MFP subunit
+dde:Dde_0403	regulatory protein MarR
+dde:Dde_0404	PEP motif putative anchor domain protein
+dde:Dde_0407	transcriptional regulator, DeoR family
+dde:Dde_0408	Glycerol-3-phosphate dehydrogenase
+dde:Dde_0409	major intrinsic protein
+dde:Dde_0410	glycerol kinase
+dde:Dde_0411	protein of unknown function DUF214
+dde:Dde_0412	Polyamine-transporting ATPase
+dde:Dde_0413	Arylesterase
+dde:Dde_0414	ybaK/ebsC protein
+dde:Dde_0415	glycoside hydrolase family protein
+dde:Dde_0416	myo-inositol catabolism protein
+dde:Dde_0417	Acetylornithine transaminase
+dde:Dde_0418	Phosphoribosylglycinamide synthetase, ATP-grasp (A) domain-containing protein
+dde:Dde_0419	polysaccharide pyruvyl transferase
+dde:Dde_0420	Methyltransferase type 12
+dde:Dde_0421	acylneuraminate cytidylyltransferase
+dde:Dde_0422	GCN5-related N-acetyltransferase
+dde:Dde_0423	N-acetylneuraminic acid synthase domain-containing protein
+dde:Dde_0425	GDP-L-fucose synthase
+dde:Dde_0426	glycosyl transferase family 2
+dde:Dde_0427	UDP-glucose 4-epimerase
+dde:Dde_0428	glycosyl transferase group 1
+dde:Dde_0429	Methyltransferase type 11
+dde:Dde_0430	glycosyl transferase family 2
+dde:Dde_0431	CDP-glycerol:poly(glycerophosphate) glycerophosphotransferase
+dde:Dde_0432	GDP-mannose 4,6-dehydratase
+dde:Dde_0434	methyl-accepting chemotaxis sensory transducer
+dde:Dde_0435	glycerophosphoryl diester phosphodiesterase
+dde:Dde_0436	magnesium and cobalt transport protein CorA
+dde:Dde_0437	Antibiotic biosynthesis monooxygenase
+dde:Dde_0438	UDP-N-acetylglucosamine pyrophosphorylase related protein
+dde:Dde_0439	CDP-glycerol:poly(glycerophosphate) glycerophosphotransferase
+dde:Dde_0441	NADPH-dependent FMN reductase
+dde:Dde_0444	peptidase M16 domain protein
+dde:Dde_0445	ABC transporter related protein
+dde:Dde_0446	hypothetical protein
+dde:Dde_0447	TonB-dependent receptor plug
+dde:Dde_0448	ABC-type transporter, periplasmic subunit
+dde:Dde_0449	ABC-type transporter, integral membrane subunit
+dde:Dde_0450	ABC-type transporter, integral membrane subunit
+dde:Dde_0451	Nickel-transporting ATPase., Fe(3+)-transporting ATPase
+dde:Dde_0452	hypothetical protein
+dde:Dde_0453	MotA/TolQ/ExbB proton channel
+dde:Dde_0454	MotA/TolQ/ExbB proton channel
+dde:Dde_0455	Biopolymer transport protein ExbD/TolR
+dde:Dde_0456	TonB family protein
+dde:Dde_0457	Tetratricopeptide TPR_2 repeat-containing protein
+dde:Dde_0458	methyl-accepting chemotaxis sensory transducer
+dde:Dde_0459	ABC-type transporter, periplasmic subunit family 3
+dde:Dde_0461	Na+/H+ antiporter NhaC
+dde:Dde_0462	sulfatase
+dde:Dde_0463	transcriptional regulator, Crp/Fnr family
+dde:Dde_0464	glutaredoxin
+dde:Dde_0465	Thioredoxin-disulfide reductase
+dde:Dde_0466	hypothetical protein
+dde:Dde_0467	thiamine pyrophosphate TPP-binding domain-containing protein
+dde:Dde_0468	CoA-binding domain-containing protein
+dde:Dde_0473	formate dehydrogenase, alpha subunit
+dde:Dde_0474	Hydrogenase FeS protein, cytoplasmic
+dde:Dde_0475	Fe-only hydrogenase, large & small subunits, cytoplasmic
+dde:Dde_0476	Hydrogenase FeS protein, cytoplasmic
+dde:Dde_0477	transposase IS200-family protein
+dde:Dde_0479	glycosyl transferase group 1
+dde:Dde_0480	O-antigen polymerase
+dde:Dde_0481	exopolysaccharide biosynthesis polyprenyl glycosylphosphotransferase
+dde:Dde_0483	ATPase associated with various cellular activities AAA_3
+dde:Dde_0484	Protein of unknown function DUF2201, metallopeptidase-related protein
+dde:Dde_0485	hypothetical protein
+dde:Dde_0486	putative transposase for insertion sequence element
+dde:Dde_0487	hypothetical protein
+dde:Dde_0488	hypothetical protein
+dde:Dde_0489	heavy metal translocating P-type ATPase
+dde:Dde_0490	hypothetical protein
+dde:Dde_0491	hypothetical protein
+dde:Dde_0492	hypothetical protein
+dde:Dde_0493	hypothetical protein
+dde:Dde_0494	hypothetical protein
+dde:Dde_0495	heavy metal translocating P-type ATPase
+dde:Dde_0496	FeoA family protein
+dde:Dde_0497	ferric uptake regulator, Fur family
+dde:Dde_0498	Cation transport ATPase, iron related protein
+dde:Dde_0499	hypothetical protein
+dde:Dde_0500	addiction module antidote protein
+dde:Dde_0501	addiction module killer protein
+dde:Dde_0502	glucosamine/fructose-6-phosphate aminotransferase, isomerizing
+dde:Dde_0503	HPP family protein
+dde:Dde_0504	non-canonical purine NTP pyrophosphatase, rdgB/HAM1 family
+dde:Dde_0505	PAS/PAC sensor signal transduction histidine kinase
+dde:Dde_0506	MiaB-like tRNA modifying enzyme YliG
+dde:Dde_0507	ribosomal protein S1
+dde:Dde_0508	signal peptide peptidase SppA, 36K type
+dde:Dde_0510	4-alpha-glucanotransferase
+dde:Dde_0511	Phosphoglycerate mutase
+dde:Dde_0512	hypothetical protein
+dde:Dde_0513	Aspartate transaminase
+dde:Dde_0514	uracil-DNA glycosylase
+dde:Dde_0515	Radical SAM domain protein
+dde:Dde_0517	histone family protein DNA-binding protein
+dde:Dde_0518	Amidase
+dde:Dde_0519	rare lipoprotein A
+dde:Dde_0520	putative cache sensor protein
+dde:Dde_0521	hypothetical protein
+dde:Dde_0523	hypothetical protein
+dde:Dde_0524	hypothetical protein
+dde:Dde_0526	sulfite reductase, dissimilatory-type alpha subunit
+dde:Dde_0527	sulfite reductase, dissimilatory-type beta subunit
+dde:Dde_0528	Dissimilatory sulfite reductase D
+dde:Dde_0529	Cobyrinic acid A,C-diamide synthase
+dde:Dde_0530	protein of unknown function DUF6 transmembrane
+dde:Dde_0531	rare lipoprotein A
+dde:Dde_0532	response regulator receiver modulated diguanylate cyclase/phosphodiesterase with PAS/PAC sensor(s)
+dde:Dde_0533	pseudogene
+dde:Dde_0534	Integrase catalytic region
+dde:Dde_0536	oxygen-independent coproporphyrinogen III oxidase
+dde:Dde_4002	protein of unknown function DUF208
+dde:Dde_0537	ribonuclease, Rne/Rng family
+dde:Dde_0538	Radical SAM domain protein
+dde:Dde_0539	tRNA methyltransferase complex GCD14 subunit
+dde:Dde_0540	Coenzyme F390 synthetase family
+dde:Dde_0541	protein of unknown function DUF399
+dde:Dde_0542	formamidopyrimidine-DNA glycosylase
+dde:Dde_0543	integral membrane protein MviN
+dde:Dde_0544	multi-sensor hybrid histidine kinase
+dde:Dde_R0008	tRNA-His
+dde:Dde_0546	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+dde:Dde_0547	ComEC/Rec2-related protein
+dde:Dde_0548	acriflavin resistance protein
+dde:Dde_0549	efflux transporter, RND family, MFP subunit
+dde:Dde_0550	diguanylate cyclase/phosphodiesterase with PAS/PAC sensor(s)
+dde:Dde_4012	hypothetical protein
+dde:Dde_0551	exodeoxyribonuclease III
+dde:Dde_0552	hypothetical protein
+dde:Dde_0553	AAA-4 family protein
+dde:Dde_0554	hypothetical protein
+dde:Dde_0555	(NiFe) hydrogenase maturation protein HypF
+dde:Dde_0556	Cupin 2 conserved barrel domain protein
+dde:Dde_0557	Long-chain-fatty-acid--CoA ligase
+dde:Dde_0558	signal transduction histidine kinase, nitrogen specific, NtrB
+dde:Dde_0560	signal recognition particle-docking protein FtsY
+dde:Dde_0561	cytochrome c family protein
+dde:Dde_0563	hypothetical protein
+dde:Dde_0564	hypothetical protein
+dde:Dde_0565	glycosyl transferase family 9
+dde:Dde_0566	TrkA-N domain protein
+dde:Dde_0567	H(+)-transporting two-sector ATPase
+dde:Dde_0568	Leucyl aminopeptidase
+dde:Dde_0569	diguanylate cyclase
+dde:Dde_0571	arginine decarboxylase
+dde:Dde_0572	Carboxynorspermidine synthase
+dde:Dde_0573	carboxynorspermidine decarboxylase
+dde:Dde_0574	agmatinase
+dde:Dde_0575	CheW protein
+dde:Dde_0576	Protein of unknown function DUF2207, membrane
+dde:Dde_0577	LemA family protein
+dde:Dde_0579	hypothetical protein
+dde:Dde_0580	cytochrome c
+dde:Dde_0581	NADH:quinone oxidoreductase subunit RnfC
+dde:Dde_0582	NADH:quinone oxidoreductase subunit RnfD
+dde:Dde_0583	NADH:quinone oxidoreductase subunit RnfG
+dde:Dde_0584	NADH:quinone oxidoreductase subunit RnfE
+dde:Dde_0585	NADH:quinone oxidoreductase subunit RnfA
+dde:Dde_0586	NADH:quinone oxidoreductase subunit RnfB
+dde:Dde_0587	ApbE family lipoprotein
+dde:Dde_0589	UspA domain-containing protein
+dde:Dde_0590	phospholipase D/Transphosphatidylase
+dde:Dde_0591	hypothetical protein
+dde:Dde_0592	glycosyl transferase group 1
+dde:Dde_0593	glycosyl transferase group 1
+dde:Dde_0594	type 1 secretion target domain-containing protein
+dde:Dde_0597	protein of unknown function DUF169
+dde:Dde_0598	protein of unknown function DUF81
+dde:Dde_0600	hypothetical protein
+dde:Dde_0601	phosphonate ABC transporter, periplasmic phosphonate-binding protein
+dde:Dde_0602	multi-sensor signal transduction histidine kinase
+dde:Dde_0603	response regulator receiver protein
+dde:Dde_0604	Pyruvate, water dikinase
+dde:Dde_0605	dual specificity protein phosphatase
+dde:Dde_0607	hypothetical protein
+dde:Dde_0608	Monosaccharide-transporting ATPase
+dde:Dde_0609	Sulfate-transporting ATPase
+dde:Dde_0610	ABC-type transporter, integral membrane subunit
+dde:Dde_0611	ABC-type transporter, integral membrane subunit
+dde:Dde_0612	Extracellular ligand-binding receptor
+dde:Dde_0618	Integrase catalytic region
+dde:Dde_0620	integrase family protein
+dde:Dde_R0009	tRNA-Glu
+dde:Dde_R0010	tRNA-Gln
+dde:Dde_0621	transcriptional regulator, GntR family with aminotransferase domain-containing protein
+dde:Dde_0625	pseudogene
+dde:Dde_0624	Integrase catalytic region
+dde:Dde_0626	glutaminyl-tRNA synthetase
+dde:Dde_0628	DNA polymerase III, epsilon subunit
+dde:Dde_0629	putative CBS domain and cyclic nucleotide-regulated nucleotidyltransferase
+dde:Dde_0630	putative sodium symporter protein
+dde:Dde_0631	putative solute symporter protein
+dde:Dde_0634	Extracellular solute-binding protein, family 7
+dde:Dde_0635	tripartite ATP-independent periplasmic transporter DctQ component
+dde:Dde_0636	TRAP dicarboxylate transporter, DctM subunit
+dde:Dde_0637	hypothetical protein
+dde:Dde_0638	Anti-sigma-28 factor FlgM family protein
+dde:Dde_0639	hypothetical protein
+dde:Dde_0640	maf protein
+dde:Dde_0641	phosphatidylglycerophosphatase A
+dde:Dde_0642	NADH dehydrogenase (ubiquinone)
+dde:Dde_0643	metal dependent phosphohydrolase
+dde:Dde_0644	PAS modulated sigma54 specific transcriptional regulator, Fis family
+dde:Dde_0645	hypothetical protein
+dde:Dde_0647	transcriptional regulator, BadM/Rrf2 family
+dde:Dde_0648	HmcF, 52.7 kd protein in hmc operon
+dde:Dde_0649	HmcE, 25.3 kd protein in hmc operon
+dde:Dde_0650	HmcD, 5.8 kd protein in hmc operon
+dde:Dde_0651	HmcC, 43.2 kd protein in hmc operon
+dde:Dde_0652	HmcB, 40.1 kd protein in hmc operon
+dde:Dde_0653	HmcA, High-molecular-weight cytochrome c
+dde:Dde_0655	Xylose isomerase domain-containing protein TIM barrel
+dde:Dde_0656	4Fe-4S ferredoxin iron-sulfur binding domain protein
+dde:Dde_0657	4Fe-4S ferredoxin iron-sulfur binding domain-containing protein
+dde:Dde_0659	PAS modulated sigma54 specific transcriptional regulator, Fis family
+dde:Dde_R0011	tRNA-Val
+dde:Dde_0661	hypothetical protein
+dde:Dde_4013	hypothetical protein
+dde:Dde_0664	hypothetical protein
+dde:Dde_0665	Maltose O-acetyltransferase
+dde:Dde_0667	Endonuclease/exonuclease/phosphatase
+dde:Dde_0668	drug resistance transporter, Bcr/CflA subfamily
+dde:Dde_0669	transcriptional regulator, MarR family
+dde:Dde_0670	acriflavin resistance protein
+dde:Dde_0671	efflux transporter, RND family, MFP subunit
+dde:Dde_0673	glycine betaine/L-proline ABC transporter, ATPase subunit
+dde:Dde_0674	ABC-type transporter, integral membrane subunit
+dde:Dde_0675	ABC-type glycine betaine transport, periplasmic subunit
+dde:Dde_0676	protein of unknown function DUF156
+dde:Dde_0677	TorD-like chaperone
+dde:Dde_0678	Rhodanese-like protein
+dde:Dde_0679	Rhodanese-like protein
+dde:Dde_0680	cytochrome b/b6 domain-containing protein
+dde:Dde_0681	4Fe-4S ferredoxin iron-sulfur binding domain-containing protein
+dde:Dde_0682	Nitrate reductase
+dde:Dde_0683	cytochrome c family protein
+dde:Dde_0685	formylmethanofuran dehydrogenase subunit E region
+dde:Dde_R0012	tRNA-Glu
+dde:Dde_0689	hypothetical protein
+dde:Dde_0691	Integral membrane protein TerC
+dde:Dde_0692	response regulator receiver protein
+dde:Dde_0693	Citrate transporter
+dde:Dde_0694	response regulator receiver protein
+dde:Dde_0695	response regulator receiver protein
+dde:Dde_0696	integral membrane sensor signal transduction histidine kinase
+dde:Dde_0697	Sigma 54 interacting domain protein
+dde:Dde_0698	ABC-2 type transporter
+dde:Dde_0699	Sulfate-transporting ATPase
+dde:Dde_0700	secretion protein HlyD family protein
+dde:Dde_0701	xanthine permease
+dde:Dde_0702	S-adenosylhomocysteine deaminase
+dde:Dde_0703	methyl-accepting chemotaxis sensory transducer with Pas/Pac sensor
+dde:Dde_0704	methionine-R-sulfoxide reductase
+dde:Dde_0706	formate dehydrogenase accessory protein
+dde:Dde_0707	formate dehydrogenase subunit FdhD
+dde:Dde_0708	Molybdopterin-guanine dinucleotide biosynthesis protein A
+dde:Dde_0709	molybdenum cofactor biosynthesis protein A
+dde:Dde_0710	anti-sigma-factor antagonist
+dde:Dde_0711	multi-sensor signal transduction histidine kinase
+dde:Dde_0712	Extracellular ligand-binding receptor
+dde:Dde_0713	alkyl hydroperoxide reductase/Thiol specific antioxidant/Mal allergen
+dde:Dde_0714	transposase, putative
+dde:Dde_0715	hypothetical protein
+dde:Dde_0717	formate dehydrogenase, alpha subunit
+dde:Dde_0718	formate dehydrogenase, beta subunit, putative
+dde:Dde_0719	Fe-S cluster domain protein
+dde:Dde_0720	anti-anti-sigma factor
+dde:Dde_0721	protein serine/threonine phosphatase with Cache sensor
+dde:Dde_0722	Xenobiotic-transporting ATPase., Beta-glucan-transporting ATPase
+dde:Dde_0723	putative transcriptional regulator, Crp/Fnr family
+dde:Dde_0725	Ferredoxin hydrogenase
+dde:Dde_0727	sodium/hydrogen exchanger
+dde:Dde_0728	Oligopeptide transporter OPT superfamily protein
+dde:Dde_0729	hypothetical protein
+dde:Dde_0730	protein of unknown function DUF214
+dde:Dde_0731	Phosphonate-transporting ATPase
+dde:Dde_0732	hypothetical protein
+dde:Dde_0733	protein of unknown function DUF214
+dde:Dde_0734	polysaccharide deacetylase
+dde:Dde_0735	hypothetical protein
+dde:Dde_0736	Phosphoglycerate mutase
+dde:Dde_0737	glycosyl transferase group 1
+dde:Dde_0738	glycosyl transferase group 1
+dde:Dde_0739	Glycosyltransferase 28 domain-containing protein
+dde:Dde_0740	Radical SAM domain protein
+dde:Dde_0741	Integrase catalytic region
+dde:Dde_0743	hypothetical protein
+dde:Dde_0746	pseudogene
+dde:Dde_0745	Integrase catalytic region
+dde:Dde_0747	regulatory protein ArsR
+dde:Dde_0748	hypothetical protein
+dde:Dde_0749	GntR domain protein
+dde:Dde_0750	(S)-2-hydroxy-acid oxidase
+dde:Dde_0751	protein of unknown function DUF81
+dde:Dde_0752	hypothetical protein
+dde:Dde_0753	ferric uptake regulator, Fur family
+dde:Dde_0754	Extracellular solute-binding protein, family 7
+dde:Dde_0755	hypothetical protein
+dde:Dde_0756	putative transposase for insertion sequence element
+dde:Dde_0757	hypothetical protein
+dde:Dde_0758	PAS/PAC sensor signal transduction histidine kinase
+dde:Dde_0759	putative ABC transporter solute-binding protein
+dde:Dde_0760	Inosine/uridine-preferring nucleoside hydrolase
+dde:Dde_0761	hypothetical protein
+dde:Dde_0762	sulfite reductase, dissimilatory-type gamma subunit
+dde:Dde_0765	CBS domain containing membrane protein
+dde:Dde_0766	protein of unknown function DUF111
+dde:Dde_0767	hypothetical protein
+dde:Dde_0768	hypothetical protein
+dde:Dde_0769	hypothetical protein
+dde:Dde_0770	hypothetical protein
+dde:Dde_0772	protein serine/threonine phosphatase with extracellular sensor
+dde:Dde_0773	import inner membrane translocase subunit Tim44
+dde:Dde_0774	response regulator receiver protein
+dde:Dde_4014	pseudogene
+dde:Dde_0779	helicase domain-containing protein
+dde:Dde_0780	hypothetical protein
+dde:Dde_0781	helicase domain-containing protein
+dde:Dde_0784	phosphoribosyltransferase
+dde:Dde_0785	NADPH-dependent FMN reductase
+dde:Dde_0786	beta-lactamase domain protein
+dde:Dde_0787	nitroreductase
+dde:Dde_0788	Tetratricopeptide TPR_1 repeat-containing protein
+dde:Dde_0789	5'-nucleotidase
+dde:Dde_0791	protein of unknown function DUF6 transmembrane
+dde:Dde_0792	GCN5-related N-acetyltransferase
+dde:Dde_0793	RNP-1 like RNA-binding protein
+dde:Dde_0795	hypothetical protein
+dde:Dde_0796	protein of unknown function DUF178
+dde:Dde_0797	FO synthase, subunit 2
+dde:Dde_0798	FO synthase, subunit 2
+dde:Dde_0799	hypothetical protein
+dde:Dde_0800	4Fe-4S ferredoxin iron-sulfur binding domain-containing protein
+dde:Dde_0801	precorrin-4 C11-methyltransferase
+dde:Dde_0802	ABC-type transporter, periplasmic subunit family 3
+dde:Dde_0803	precorrin-6y C5,15-methyltransferase (decarboxylating), CbiE subunit
+dde:Dde_0804	cobalamin (vitamin B12) biosynthesis CbiD protein
+dde:Dde_0805	DoxX family protein
+dde:Dde_0806	Rhodanese-like protein
+dde:Dde_0807	hypothetical protein
+dde:Dde_0808	sodium:dicarboxylate symporter
+dde:Dde_0809	endoribonuclease L-PSP
+dde:Dde_0810	YheO-like domain-containing protein
+dde:Dde_0811	peptidase M24
+dde:Dde_0812	Formate dehydrogenase beta subunit
+dde:Dde_0813	formate dehydrogenase, alpha subunit
+dde:Dde_0814	hypothetical protein
+dde:Dde_0816	diguanylate cyclase
+dde:Dde_0817	diguanylate cyclase with PAS/PAC sensor
+dde:Dde_0818	type IV pilus assembly PilZ
+dde:Dde_0819	Patatin
+dde:Dde_0820	putative two component, sigma54 specific, transcriptional regulator
+dde:Dde_0821	type IV pilus assembly PilZ
+dde:Dde_0822	UBA/THIF-type NAD/FAD binding protein
+dde:Dde_0823	PEP motif putative anchor domain protein
+dde:Dde_0824	CAAX prenyl protease-related protein
+dde:Dde_0825	biotin/lipoyl attachment domain-containing protein
+dde:Dde_0826	Phosphonate-transporting ATPase
+dde:Dde_0827	protein of unknown function DUF214
+dde:Dde_0828	PEP-CTERM system TPR-repeat lipoprotein
+dde:Dde_0829	exopolysaccharide biosynthesis polyprenyl glycosylphosphotransferase
+dde:Dde_0830	polysaccharide export protein, PEP-CTERM sytem-associated
+dde:Dde_0831	polysaccharide chain length determinant protein, PEP-CTERM locus subfamily
+dde:Dde_0832	Non-specific protein-tyrosine kinase
+dde:Dde_0833	secretion ATPase, PEP-CTERM locus subfamily
+dde:Dde_0834	PEP-CTERM system associated protein
+dde:Dde_0835	pseudogene
+dde:Dde_0836	CapK related-protein
+dde:Dde_0837	glycosyl transferase family 2
+dde:Dde_0838	glycosyl transferase group 1
+dde:Dde_0839	glycosyl transferase group 1
+dde:Dde_0840	hypothetical protein
+dde:Dde_0841	ABC-2 type transporter
+dde:Dde_0842	asparagine synthase
+dde:Dde_0843	glycosyl transferase family 2
+dde:Dde_0844	glycosyl transferase family 2
+dde:Dde_0845	O-antigen polymerase
+dde:Dde_0846	glycosyl transferase group 1
+dde:Dde_0847	eight transmembrane protein EpsH
+dde:Dde_0848	EpsI family protein
+dde:Dde_0849	multi-sensor signal transduction histidine kinase
+dde:Dde_0850	two component, sigma54 specific, transcriptional regulator, Fis family
+dde:Dde_0851	Teichoic-acid-transporting ATPase
+dde:Dde_0857	CRISPR-associated protein Cas2
+dde:Dde_0858	pseudogene
+dde:Dde_0860	CRISPR-associated protein, Cse3 family
+dde:Dde_0861	CRISPR-associated protein Cas5 family
+dde:Dde_0862	CRISPR-associated protein, Cse4 family
+dde:Dde_0863	CRISPR-associated protein, Cse2 family
+dde:Dde_0864	CRISPR-associated protein, Cse1 family
+dde:Dde_0865	metal dependent phosphohydrolase
+dde:Dde_0867	diguanylate cyclase with PAS/PAC sensor
+dde:Dde_0868	sodium/hydrogen exchanger
+dde:Dde_0869	Integrase catalytic region ISDde2
+dde:Dde_0871	molybdenum-pterin binding protein
+dde:Dde_0872	membrane bound O-acyl transferase MBOAT family protein
+dde:Dde_0873	hypothetical protein
+dde:Dde_R0013	tRNA-Leu
+dde:Dde_0876	Uncharacterized protein family UPF0324
+dde:Dde_0877	hypothetical protein
+dde:Dde_0878	multi-sensor signal transduction histidine kinase
+dde:Dde_0879	two component, sigma54 specific, transcriptional regulator, Fis family
+dde:Dde_0880	Auxin Efflux Carrier
+dde:Dde_0881	glycosyl transferase group 1
+dde:Dde_0882	Superoxide dismutase
+dde:Dde_0884	hypothetical protein
+dde:Dde_0885	hypothetical protein
+dde:Dde_0886	diguanylate cyclase
+dde:Dde_R0014	tRNA-Leu
+dde:Dde_0888	Domain of unknown function DUF1786 putative pyruvate format-lyase activating enzyme
+dde:Dde_0890	hypothetical protein
+dde:Dde_0891	hypothetical protein
+dde:Dde_0892	hypothetical protein
+dde:Dde_0893	SOS-response transcriptional repressor, LexA
+dde:Dde_0894	hypothetical protein
+dde:Dde_0895	bacteriophage-related protein
+dde:Dde_0896	Resolvase domain-containing protein
+dde:Dde_0897	putative phage-like protein
+dde:Dde_0899	hypothetical protein
+dde:Dde_0900	RNA polymerase sigma factor, sigma-70 family
+dde:Dde_0901	hypothetical protein
+dde:Dde_0902	hypothetical protein
+dde:Dde_0903	hypothetical protein
+dde:Dde_0904	protein of unknown function DUF669
+dde:Dde_0905	ERCC4 domain protein
+dde:Dde_0906	UvrD/REP helicase
+dde:Dde_0907	DNA primase catalytic core domain-containing protein
+dde:Dde_0908	filamentation induced by cAMP protein Fic
+dde:Dde_0910	hypothetical protein
+dde:Dde_4015	hypothetical protein
+dde:Dde_0911	hypothetical protein
+dde:Dde_0912	integrase family protein
+dde:Dde_0913	hypothetical protein
+dde:Dde_0914	hypothetical protein
+dde:Dde_0915	hypothetical protein
+dde:Dde_0916	hypothetical protein
+dde:Dde_0917	hypothetical protein
+dde:Dde_0918	hypothetical protein
+dde:Dde_0919	phage head morphogenesis protein, SPP1 gp7 family
+dde:Dde_0920	hypothetical protein
+dde:Dde_0921	hypothetical protein
+dde:Dde_0922	Site-specific DNA-methyltransferase (adenine-specific)
+dde:Dde_0923	hypothetical protein
+dde:Dde_0924	hypothetical protein
+dde:Dde_0925	hypothetical protein
+dde:Dde_0926	hypothetical protein
+dde:Dde_0927	hypothetical protein
+dde:Dde_0928	hypothetical protein
+dde:Dde_0929	hypothetical protein
+dde:Dde_0930	hypothetical protein
+dde:Dde_0931	phage tail sheath protein
+dde:Dde_0932	Conserved hypothetical protein CHP02241, phage tail region protein
+dde:Dde_0933	hypothetical protein
+dde:Dde_0934	phage tail tape measure protein, TP901 family
+dde:Dde_0935	hypothetical protein
+dde:Dde_0936	hypothetical protein
+dde:Dde_0937	hypothetical protein
+dde:Dde_0938	phage protein D-like protein
+dde:Dde_0939	Peptidase M15A
+dde:Dde_0940	protein of unknown function DUF1353
+dde:Dde_0941	hypothetical protein
+dde:Dde_0942	hypothetical protein
+dde:Dde_0943	PaaR repeat-containing protein
+dde:Dde_4016	hypothetical protein
+dde:Dde_0944	hypothetical protein
+dde:Dde_0945	hypothetical protein
+dde:Dde_0946	GPW/gp25 family protein
+dde:Dde_0947	Baseplate J family protein
+dde:Dde_0948	phage tail protein
+dde:Dde_0949	hypothetical protein
+dde:Dde_0950	hypothetical protein
+dde:Dde_4017	hypothetical protein
+dde:Dde_4018	hypothetical protein
+dde:Dde_0953	hypothetical protein
+dde:Dde_0954	BNR repeat-containing glycosyl hydrolase
+dde:Dde_0955	hypothetical protein
+dde:Dde_0956	putative amidoligase enzyme
+dde:Dde_0957	hypothetical protein
+dde:Dde_0958	glucosamine 6-phosphate synthetase-like protein
+dde:Dde_0959	AIG2 family protein
+dde:Dde_0960	regulatory protein TetR
+dde:Dde_0961	outer membrane efflux protein
+dde:Dde_0962	efflux transporter, RND family, MFP subunit
+dde:Dde_0963	Patatin
+dde:Dde_4019	hypothetical protein
+dde:Dde_0965	acriflavin resistance protein
+dde:Dde_0966	metal dependent phosphohydrolase
+dde:Dde_0967	CoA-substrate-specific enzyme activase
+dde:Dde_0970	filamentation induced by cAMP protein Fic
+dde:Dde_0971	Domain of unknown function DUF1786 putative pyruvate format-lyase activating enzyme
+dde:Dde_0972	Phenylacetate--CoA ligase
+dde:Dde_0973	protein of unknown function DUF456
+dde:Dde_0974	tRNA/rRNA methyltransferase (SpoU)
+dde:Dde_0975	pseudouridine synthase
+dde:Dde_0976	hypothetical protein
+dde:Dde_0977	two component transcriptional regulator, LuxR family
+dde:Dde_0978	2,3 cyclic-nucleotide 2-phosphodiesterase
+dde:Dde_0979	hypothetical protein
+dde:Dde_0980	hypothetical protein
+dde:Dde_0981	UDP-N-acetylglucosamine pyrophosphorylase
+dde:Dde_0984	ATP synthase F1, epsilon subunit
+dde:Dde_0985	ATP synthase F1, beta subunit
+dde:Dde_0986	ATP synthase F1, gamma subunit
+dde:Dde_0987	ATP synthase F1, alpha subunit
+dde:Dde_0988	ATP synthase subunit delta
+dde:Dde_0989	ATP synthase subunit b
+dde:Dde_0990	H+transporting two-sector ATPase B/B' subunit
+dde:Dde_0991	protein of unknown function DUF583
+dde:Dde_0992	rod shape-determining protein RodA
+dde:Dde_0993	penicillin-binding protein 2
+dde:Dde_0994	hypothetical protein
+dde:Dde_0995	rod shape-determining protein MreC
+dde:Dde_0996	cell shape determining protein, MreB/Mrl family
+dde:Dde_0997	Conserved hypothetical protein CHP01212
+dde:Dde_0998	methylated-DNA/protein-cysteine methyltransferase
+dde:Dde_0999	malto-oligosyltrehalose trehalohydrolase
+dde:Dde_1000	hypothetical protein
+dde:Dde_1001	hypothetical protein
+dde:Dde_1002	peptide methionine sulfoxide reductase
+dde:Dde_1003	Peptide methionine sulfoxide reductase msrB
+dde:Dde_R0015	tRNA-Ser
+dde:Dde_R0089	ffs; SRP RNA; RNA component of signal recognition
+dde:Dde_R0017	tRNA-Ser
+dde:Dde_1005	hypothetical protein
+dde:Dde_1006	Enoyl-(acyl-carrier-protein) reductase (NADH)
+dde:Dde_1007	phosphoribosylaminoimidazole-succinocarboxamide synthase
+dde:Dde_1008	histidinol dehydrogenase
+dde:Dde_1010	hypothetical protein
+dde:Dde_1011	hypothetical protein
+dde:Dde_1014	excinuclease ABC, C subunit
+dde:Dde_1015	histidine kinase
+dde:Dde_1016	two component, sigma54 specific, transcriptional regulator, Fis family
+dde:Dde_1017	hypothetical protein
+dde:Dde_1018	response regulator receiver protein
+dde:Dde_1019	tRNA methyl transferase-like protein
+dde:Dde_1020	glutamyl-tRNA(Gln) amidotransferase, A subunit
+dde:Dde_1021	glutamyl-tRNA(Gln) amidotransferase, C subunit
+dde:Dde_1022	hypothetical protein
+dde:Dde_1023	chaperone protein DnaK
+dde:Dde_1024	hypothetical protein
+dde:Dde_1025	GrpE protein
+dde:Dde_1026	heat-inducible transcription repressor HrcA
+dde:Dde_1027	alkyl hydroperoxide reductase/Thiol specific antioxidant/Mal allergen
+dde:Dde_1028	AsmA family protein
+dde:Dde_1029	type IV pilus assembly PilZ
+dde:Dde_1030	Cobyric acid synthase
+dde:Dde_1031	metal dependent phosphohydrolase
+dde:Dde_1032	pyruvate kinase
+dde:Dde_1033	MraZ protein
+dde:Dde_1034	Ribosomal RNA small subunit methyltransferase H
+dde:Dde_1035	hypothetical protein
+dde:Dde_1036	Peptidoglycan glycosyltransferase
+dde:Dde_1037	UDP-N-acetylmuramyl-tripeptide synthetase
+dde:Dde_1038	UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate/D-alanyl-D-alanyl ligase
+dde:Dde_1039	phospho-N-acetylmuramoyl-pentapeptide-transferase
+dde:Dde_1040	UDP-N-acetylmuramoylalanine/D-glutamate ligase
+dde:Dde_1041	cell division protein FtsW
+dde:Dde_1042	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+dde:Dde_1043	UDP-N-acetylmuramate--L-alanine ligase
+dde:Dde_1044	UDP-N-acetylenolpyruvoylglucosamine reductase
+dde:Dde_1045	Polypeptide-transport-associated domain protein FtsQ-type
+dde:Dde_1046	cell division protein FtsA
+dde:Dde_1047	cell division protein FtsZ
+dde:Dde_1049	phenylacetic acid degradation-related protein
+dde:Dde_1050	3,4-dihydroxy-2-butanone 4-phosphate synthase
+dde:Dde_1051	peptidase M48 Ste24p
+dde:Dde_1052	4Fe-4S ferredoxin iron-sulfur binding domain-containing protein
+dde:Dde_1054	N-(5'phosphoribosyl)anthranilate isomerase (PRAI)
+dde:Dde_1055	ABC transporter related protein
+dde:Dde_1057	histidinol phosphate phosphatase HisJ family
+dde:Dde_1058	Late competence development protein ComFB
+dde:Dde_1059	PhoH family protein
+dde:Dde_1060	phosphate ABC transporter, inner membrane subunit PstA
+dde:Dde_1061	phosphate ABC transporter, inner membrane subunit PstC
+dde:Dde_1062	phosphate binding protein
+dde:Dde_1063	hypothetical protein
+dde:Dde_1065	hypothetical protein
+dde:Dde_1066	hypothetical protein
+dde:Dde_1067	hypothetical protein
+dde:Dde_1069	diguanylate cyclase
+dde:Dde_1070	transaldolase
+dde:Dde_1071	multi-sensor signal transduction histidine kinase
+dde:Dde_1072	hypothetical protein
+dde:Dde_1073	diguanylate phosphodiesterase
+dde:Dde_1074	L-lactate transport
+dde:Dde_1075	4Fe-4S ferredoxin iron-sulfur binding domain-containing protein
+dde:Dde_1076	Nitrate reductase
+dde:Dde_1077	methyl-accepting chemotaxis sensory transducer
+dde:Dde_1078	CheW protein
+dde:Dde_1079	Nitrite reductase (NAD(P)H)
+dde:Dde_R0018	tRNA-Ser
+dde:Dde_1081	arginine biosynthesis bifunctional protein ArgJ
+dde:Dde_1082	preprotein translocase, SecA subunit
+dde:Dde_1083	hypothetical protein
+dde:Dde_1085	4Fe-4S ferredoxin iron-sulfur binding domain-containing protein
+dde:Dde_1086	hypothetical protein
+dde:Dde_1087	D-lactate dehydrogenase (cytochrome)
+dde:Dde_1088	SsrA-binding protein
+dde:Dde_1089	phosphoenolpyruvate-protein phosphotransferase
+dde:Dde_1090	Phosphotransferase system, phosphocarrier protein HPr
+dde:Dde_1091	PTS system mannose/fructose/sorbose family IID component
+dde:Dde_1092	protein of unknown function UPF0011
+dde:Dde_1093	Uncharacterized protein family UPF0102
+dde:Dde_1094	Ribonuclease H
+dde:Dde_1095	ribosomal protein L19
+dde:Dde_1096	tRNA (guanine-N1)-methyltransferase
+dde:Dde_1097	16S rRNA processing protein RimM
+dde:Dde_1098	hypothetical protein
+dde:Dde_1099	ribosomal protein S16
+dde:Dde_1100	signal recognition particle protein
+dde:Dde_1102	sulphate transporter
+dde:Dde_1103	Aspartate transaminase
+dde:Dde_1104	pyridoxamine 5'-phosphate oxidase-related FMN-binding protein
+dde:Dde_1105	hypothetical protein
+dde:Dde_1106	5-enolpyruvylshikimate-3-phosphate synthase-like protein
+dde:Dde_1109	adenylylsulfate reductase, beta subunit
+dde:Dde_1110	adenylylsulfate reductase, alpha subunit
+dde:Dde_1111	Quinone-interacting membrane-bound oxidoreductase
+dde:Dde_1112	Quinone-interacting membrane-bound oxidoreductase
+dde:Dde_1113	Quinone-interacting membrane-bound oxidoreductase
+dde:Dde_1114	hypothetical protein
+dde:Dde_1115	hypothetical protein
+dde:Dde_1116	MJ0042 family finger-like protein
+dde:Dde_1117	glycosyl transferase family 2
+dde:Dde_1118	glycosyl transferase group 1
+dde:Dde_1119	flagellar protein FliS
+dde:Dde_1120	flagellar hook-associated 2 domain-containing protein
+dde:Dde_1121	peptidase M22 glycoprotease
+dde:Dde_1122	membrane-associated zinc metalloprotease
+dde:Dde_1123	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+dde:Dde_1124	Aromatic-L-amino-acid decarboxylase
+dde:Dde_1125	phosphatidate cytidylyltransferase
+dde:Dde_1126	Undecaprenyl pyrophosphate synthase
+dde:Dde_1128	ribosome recycling factor
+dde:Dde_1129	uridylate kinase
+dde:Dde_1130	glycosyl transferase family 2
+dde:Dde_1131	Glutamine--scyllo-inositol transaminase
+dde:Dde_1132	translation elongation factor Ts
+dde:Dde_1133	ribosomal protein S2
+dde:Dde_1135	asparagine synthase
+dde:Dde_1136	phospholipid/glycerol acyltransferase
+dde:Dde_1137	RNA-metabolising metallo-beta-lactamase
+dde:Dde_1138	5-carboxymethyl-2-hydroxymuconate Delta-isomerase
+dde:Dde_1140	MgtC/SapB transporter
+dde:Dde_1143	hypothetical protein
+dde:Dde_1145	hypothetical protein
+dde:Dde_1146	protein of unknown function DUF6 transmembrane
+dde:Dde_1147	ATP-binding region ATPase domain protein
+dde:Dde_1148	hypothetical protein
+dde:Dde_1149	hypothetical protein
+dde:Dde_4020	hypothetical protein
+dde:Dde_1150	17 kDa surface antigen
+dde:Dde_1151	metal dependent phosphohydrolase
+dde:Dde_1152	hypothetical protein
+dde:Dde_1153	hypothetical protein
+dde:Dde_1154	hypothetical protein
+dde:Dde_1155	single-strand binding protein/primosomal replication protein N
+dde:Dde_1156	hypothetical protein
+dde:Dde_1157	hypothetical protein
+dde:Dde_1158	putative phage repressor
+dde:Dde_1159	hypothetical protein
+dde:Dde_1161	hypothetical protein
+dde:Dde_1162	ABC-type transporter, periplasmic subunit family 3
+dde:Dde_1164	Alcohol dehydrogenase
+dde:Dde_1165	PAS/PAC sensor signal transduction histidine kinase
+dde:Dde_1166	diguanylate cyclase with PAS/PAC sensor
+dde:Dde_1167	hypothetical protein
+dde:Dde_1168	TPR repeat-containing protein
+dde:Dde_1169	intracellular protease, PfpI family
+dde:Dde_1170	NADPH-dependent FMN reductase
+dde:Dde_1171	diguanylate cyclase
+dde:Dde_1172	ATP-dependent helicase HrpB
+dde:Dde_1173	protein of unknown function DUF306 Meta and HslJ
+dde:Dde_1174	malate synthase G
+dde:Dde_1175	RNP-1 like RNA-binding protein
+dde:Dde_1177	Mandelate racemase/muconate lactonizing protein
+dde:Dde_1178	dihydroxyacetone kinase, DhaK subunit
+dde:Dde_1179	dihydroxyacetone kinase, L subunit
+dde:Dde_1180	phosphoenolpyruvate-protein phosphotransferase
+dde:Dde_1181	oligopeptide/dipeptide ABC transporter, ATPase subunit
+dde:Dde_1182	oligopeptide/dipeptide ABC transporter, ATPase subunit
+dde:Dde_1183	ABC-type transporter, integral membrane subunit
+dde:Dde_1184	ABC-type transporter, integral membrane subunit
+dde:Dde_1185	ABC-type transporter, periplasmic subunit
+dde:Dde_1186	peptidase M20
+dde:Dde_1188	Na+/Ca+ antiporter, CaCA family
+dde:Dde_1189	Nickel transport complex protein, NikM subunit, transmembrane
+dde:Dde_1190	cobalamin (vitamin B12) biosynthesis CbiM protein
+dde:Dde_1191	additional component of nickel ABC transport system
+dde:Dde_1192	cobalt ABC transporter, inner membrane subunit CbiQ
+dde:Dde_1193	component of nickel ABC transport system
+dde:Dde_1194	ABC-type transporter, periplasmic subunit family 3
+dde:Dde_1195	nitroreductase
+dde:Dde_1196	CheC domain protein
+dde:Dde_1197	metal dependent phosphohydrolase
+dde:Dde_1198	MCP methyltransferase, CheR-type
+dde:Dde_1200	transcriptional regulator, Crp/Fnr family
+dde:Dde_1201	sulfatase
+dde:Dde_1202	Thioredoxin domain-containing protein
+dde:Dde_1203	Thioredoxin-disulfide reductase
+dde:Dde_1204	sodium/sulphate symporter
+dde:Dde_1205	protein of unknown function DUF6 transmembrane
+dde:Dde_1207	heterodisulfide reductase, C subunit
+dde:Dde_1208	CoB--CoM heterodisulfide reductase
+dde:Dde_1209	4Fe-4S ferredoxin iron-sulfur binding domain-containing protein
+dde:Dde_1210	methyl-viologen-reducing hydrogenase delta subunit
+dde:Dde_1211	4Fe-4S ferredoxin iron-sulfur binding domain-containing protein
+dde:Dde_1212	hydrogenase, putative
+dde:Dde_1213	Dihydroorotate dehydrogenase, electron transfer subunit, iron-sulfur cluster binding domain-containing protein
+dde:Dde_1214	Rubrerythrin
+dde:Dde_1215	HNH endonuclease
+dde:Dde_1216	Alkaline phosphatase
+dde:Dde_1217	YibE/F family protein
+dde:Dde_1218	ferredoxin-dependent glutamate synthase
+dde:Dde_1222	Rubrerythrin
+dde:Dde_R0019	tRNA-Thr
+dde:Dde_1225	Formyltetrahydrofolate dehydrogenase
+dde:Dde_1226	hypothetical protein
+dde:Dde_1227	hypothetical protein
+dde:Dde_1228	hypothetical protein
+dde:Dde_1229	hypothetical protein
+dde:Dde_1230	CI repressor
+dde:Dde_1234	pseudogene
+dde:Dde_1233	Integrase catalytic region
+dde:Dde_1237	hypothetical protein
+dde:Dde_1239	hypothetical protein
+dde:Dde_1241	acyltransferase 3
+dde:Dde_1244	GntR domain protein
+dde:Dde_1245	protein of unknown function DUF81
+dde:Dde_1246	Methyltransferase type 11
+dde:Dde_1247	Methicillin resistance protein
+dde:Dde_1248	GreA/GreB family elongation factor
+dde:Dde_1250	glutamate synthase (NADPH), homotetrameric
+dde:Dde_1251	oxidoreductase FAD/NAD(P)-binding domain protein
+dde:Dde_1252	Citrate transporter
+dde:Dde_1253	malic protein NAD-binding protein
+dde:Dde_1254	hydro-lyase, Fe-S type, tartrate/fumarate subfamily, beta subunit
+dde:Dde_1255	hydro-lyase, Fe-S type, tartrate/fumarate subfamily, alpha subunit
+dde:Dde_1256	fumarate reductase, iron sulfur protein
+dde:Dde_1257	succinate dehydrogenase or fumarate reductase, flavoprotein subunit
+dde:Dde_1258	Fumarate reductase respiratory complex
+dde:Dde_1260	putative two component, sigma54 specific, transcriptional regulator
+dde:Dde_1261	integral membrane sensor hybrid histidine kinase
+dde:Dde_1263	DSBA oxidoreductase
+dde:Dde_1264	PAS modulated sigma54 specific transcriptional regulator, Fis family
+dde:Dde_1265	endoribonuclease L-PSP
+dde:Dde_1266	diaminopropionate ammonia-lyase
+dde:Dde_1267	peptidase M20
+dde:Dde_1268	Na+/solute symporter
+dde:Dde_1269	N-acyl-D-amino-acid deacylase
+dde:Dde_1270	PAS modulated sigma54 specific transcriptional regulator, Fis family
+dde:Dde_1272	glycyl-radical enzyme activating protein family
+dde:Dde_1273	pyruvate formate-lyase PFL
+dde:Dde_1274	TRAP dicarboxylate transporter, DctM subunit
+dde:Dde_1275	TRAP dicarboxylate transporter, DctP subunit
+dde:Dde_1278	amidohydrolase 2
+dde:Dde_1279	methyl-accepting chemotaxis sensory transducer with Pas/Pac sensor
+dde:Dde_1280	hypothetical protein
+dde:Dde_1281	ABC transporter related protein
+dde:Dde_1283	transcriptional regulator, TetR family
+dde:Dde_1285	response regulator receiver protein
+dde:Dde_1286	integral membrane sensor hybrid histidine kinase
+dde:Dde_1288	Tetratricopeptide TPR_1 repeat-containing protein
+dde:Dde_1289	Integrase catalytic region
+dde:Dde_R0020	16S ribosomal RNA
+dde:Dde_R0021	tRNA-Ile
+dde:Dde_R0022	tRNA-Ala
+dde:Dde_R0023	23S ribosomal RNA
+dde:Dde_R0084	5S ribosomal RNA
+dde:Dde_1298	Integrase catalytic region
+dde:Dde_1299	pseudogene
+dde:Dde_1300	DNA methylase N-4/N-6 domain protein
+dde:Dde_R0025	tRNA-Lys
+dde:Dde_1301	Protein-disulfide reductase
+dde:Dde_R0026	tRNA-Lys
+dde:Dde_1302	heat shock protein DnaJ domain protein
+dde:Dde_1303	protein of unknown function UPF0153
+dde:Dde_1304	CoA-binding domain protein
+dde:Dde_1305	peptidase M24
+dde:Dde_1306	ATPase-like, ParA/MinD
+dde:Dde_1307	hydrogenase accessory protein HypB
+dde:Dde_1308	hydrogenase expression/synthesis HypA
+dde:Dde_1309	tetratricopeptide TPR_2 repeat protein
+dde:Dde_1310	hypothetical protein
+dde:Dde_1311	alkyl hydroperoxide reductase/Thiol specific antioxidant/Mal allergen
+dde:Dde_1312	Heavy metal transport/detoxification protein
+dde:Dde_1313	copper-translocating P-type ATPase
+dde:Dde_1314	hypothetical protein
+dde:Dde_1315	UTP--glucose-1-phosphate uridylyltransferase
+dde:Dde_1317	protein of unknown function UPF0029
+dde:Dde_1318	DNA topoisomerase III
+dde:Dde_1320	Rubrerythrin
+dde:Dde_1322	methyl-accepting chemotaxis sensory transducer with Pas/Pac sensor
+dde:Dde_1323	Carboxylyase-related protein
+dde:Dde_1324	6-phosphogluconolactonase
+dde:Dde_1325	ABC transporter related protein
+dde:Dde_1326	ABC transporter related protein
+dde:Dde_1327	ABC-type transporter, integral membrane subunit
+dde:Dde_1328	ABC-type transporter, integral membrane subunit
+dde:Dde_1329	ABC-type transporter, periplasmic subunit
+dde:Dde_1331	beta-lactamase domain protein
+dde:Dde_1333	hypothetical protein
+dde:Dde_1334	acyl-ACP thioesterase
+dde:Dde_1335	protein of unknown function DUF214
+dde:Dde_1336	protein of unknown function DUF214
+dde:Dde_1337	Na+/solute symporter
+dde:Dde_1338	hypothetical protein
+dde:Dde_1339	Phosphonate-transporting ATPase
+dde:Dde_1340	efflux transporter, RND family, MFP subunit
+dde:Dde_1341	GCN5-related N-acetyltransferase
+dde:Dde_1342	hypothetical protein
+dde:Dde_1343	heat shock protein Hsp20
+dde:Dde_1344	heat shock protein Hsp20
+dde:Dde_1345	hypothetical protein
+dde:Dde_1346	hypothetical protein
+dde:Dde_1347	hypothetical protein
+dde:Dde_1349	hypothetical protein
+dde:Dde_1350	RarD protein, DMT superfamily transporter
+dde:Dde_1351	diguanylate cyclase/phosphodiesterase with PAS/PAC sensor(s)
+dde:Dde_1352	transcriptional regulator, HxlR family
+dde:Dde_1353	nitroreductase
+dde:Dde_1354	hypothetical protein
+dde:Dde_1355	Rhodanese-like protein
+dde:Dde_1356	SlyX family protein
+dde:Dde_1357	Uncharacterized protein family UPF0310
+dde:Dde_1358	hypothetical protein
+dde:Dde_4021	hypothetical protein
+dde:Dde_1359	Radical SAM domain protein
+dde:Dde_1360	multi-sensor hybrid histidine kinase
+dde:Dde_1361	protein of unknown function DUF342
+dde:Dde_1362	calcium-binding EF-hand-containing protein
+dde:Dde_R0027	tRNA-Asn
+dde:Dde_R0028	tRNA-Asn
+dde:Dde_1365	Lysyl-tRNA synthetase
+dde:Dde_1366	lipoprotein releasing system, transmembrane protein, LolC/E family
+dde:Dde_1367	Phosphonate-transporting ATPase
+dde:Dde_1368	outer membrane protein assembly complex, YaeT protein
+dde:Dde_1370	cell wall hydrolase/autolysin
+dde:Dde_1371	outer membrane chaperone Skp (OmpH)
+dde:Dde_1372	UDP-3-O-(3-hydroxymyristoyl) glucosamine N-acyltransferase
+dde:Dde_1373	beta-hydroxyacyl-(acyl-carrier-protein) dehydratase FabZ
+dde:Dde_1374	Acyl-(acyl-carrier-protein)--UDP-N-acetylglucosamine O-acyltransferase
+dde:Dde_1375	protein of unknown function DUF1009
+dde:Dde_1376	putative transcriptional regulator, GntR family
+dde:Dde_1377	putative transcriptional regulator, GntR family
+dde:Dde_1378	hydroxyethylthiazole kinase
+dde:Dde_1379	Thiamine-phosphate pyrophosphorylase
+dde:Dde_1380	Dinitrogenase iron-molybdenum cofactor biosynthesis protein
+dde:Dde_1381	oxidoreductase FAD/NAD(P)-binding domain protein
+dde:Dde_1382	Glu/Leu/Phe/Val dehydrogenase
+dde:Dde_1384	hypothetical protein
+dde:Dde_1385	ABC-type transporter, periplasmic subunit family 3
+dde:Dde_1386	polar amino acid ABC transporter, inner membrane subunit
+dde:Dde_1387	Phosphate-transporting ATPase
+dde:Dde_1388	Lysine exporter protein (LYSE/YGGA)
+dde:Dde_1389	hypothetical protein
+dde:Dde_1390	molybdenum cofactor synthesis domain protein
+dde:Dde_1391	metal dependent phosphohydrolase
+dde:Dde_1392	4-hydroxybenzoate polyprenyltransferase
+dde:Dde_1393	hypothetical protein
+dde:Dde_1394	hypothetical protein
+dde:Dde_1395	Uncharacterized protein family UPF0307
+dde:Dde_1396	pseudogene
+dde:Dde_1397	Integrase catalytic region, ISDde3
+dde:Dde_1400	putative signal transduction protein
+dde:Dde_1401	Histidinol-phosphate transaminase
+dde:Dde_1402	glycosyl transferase group 1
+dde:Dde_4000	glycosyl transferase group 1
+dde:Dde_1404	1-(5-phosphoribosyl)-5-amino-4-imidazole-carboxylate (AIR) carboxylase
+dde:Dde_1405	two component, sigma54 specific, transcriptional regulator, Fis family
+dde:Dde_1406	aconitate hydratase
+dde:Dde_1407	PpiC-type peptidyl-prolyl cis-trans isomerase
+dde:Dde_1408	hypothetical protein
+dde:Dde_1409	replicative DNA helicase
+dde:Dde_1410	50S ribosomal protein L9
+dde:Dde_1411	ribosomal protein S18
+dde:Dde_1412	ribosomal protein S6
+dde:Dde_1413	Organic solvent tolerance protein
+dde:Dde_1415	type I secretion outer membrane protein, TolC family
+dde:Dde_1416	type 1 secretion target domain-containing protein
+dde:Dde_1418	type I secretion system ATPase
+dde:Dde_1419	type I secretion membrane fusion protein, HlyD family
+dde:Dde_1420	transglutaminase family protein cysteine peptidase BTLCP
+dde:Dde_1421	putative PAS/PAC sensor protein
+dde:Dde_1422	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase trmFO
+dde:Dde_1423	ABC-type transporter, periplasmic subunit family 3
+dde:Dde_1424	alpha-glucan phosphorylase
+dde:Dde_1425	deoxyuridine 5'-triphosphate nucleotidohydrolase Dut
+dde:Dde_1426	acetylornithine and succinylornithine aminotransferase
+dde:Dde_1427	hypothetical protein
+dde:Dde_1428	Phosphate-transporting ATPase
+dde:Dde_1429	ABC-type transporter, periplasmic subunit family 3
+dde:Dde_1430	polar amino acid ABC transporter, inner membrane subunit
+dde:Dde_1431	polar amino acid ABC transporter, inner membrane subunit
+dde:Dde_1432	ribosomal L11 methyltransferase
+dde:Dde_1433	glycosyl transferase family 9
+dde:Dde_1435	HhH-GPD family protein
+dde:Dde_1436	Peptidase M23
+dde:Dde_1437	carboxyl-terminal protease
+dde:Dde_1438	protein of unknown function DUF610 YibQ
+dde:Dde_1439	Nucleoside-diphosphate kinase
+dde:Dde_1440	pyrroline-5-carboxylate reductase
+dde:Dde_1441	Smr protein/MutS2
+dde:Dde_1442	signal peptide peptidase SppA, 36K type
+dde:Dde_1443	Protein of unknown function DUF457, transmembrane
+dde:Dde_1444	SufBD protein
+dde:Dde_1445	ABC transporter related protein
+dde:Dde_1446	Rhomboid family protein
+dde:Dde_1447	Dephospho-CoA kinase
+dde:Dde_1448	uracil phosphoribosyltransferase
+dde:Dde_1449	uracil-xanthine permease
+dde:Dde_1450	hypothetical protein
+dde:Dde_1452	Cytidylate kinase
+dde:Dde_1453	histidinol-phosphate aminotransferase
+dde:Dde_1454	UspA domain-containing protein
+dde:Dde_1455	hypothetical protein
+dde:Dde_1457	Methyltransferase type 11
+dde:Dde_1458	CinA domain protein
+dde:Dde_1459	ABC-type transporter, periplasmic subunit family 3
+dde:Dde_1460	type IV pilus assembly PilZ
+dde:Dde_1461	Glucokinase
+dde:Dde_1462	hypothetical protein
+dde:Dde_1463	Dihydrolipoyl dehydrogenase
+dde:Dde_1464	hypothetical protein
+dde:Dde_1465	1-(5-phosphoribosyl)-5-((5-phosphoribosylamino)methylideneamino) imidazole-4-carboxamide isomerase
+dde:Dde_1466	putative lipoprotein
+dde:Dde_1467	Imidazoleglycerol-phosphate dehydratase
+dde:Dde_1468	Sec-independent protein translocase, TatC subunit
+dde:Dde_1469	twin-arginine translocation protein, TatB subunit
+dde:Dde_1470	GMP synthase, large subunit
+dde:Dde_1471	inosine-5'-monophosphate dehydrogenase
+dde:Dde_1473	tetratricopeptide TPR_2 repeat protein
+dde:Dde_4022	hypothetical protein
+dde:Dde_1474	cytochrome c assembly protein
+dde:Dde_1475	cytochrome c-type biogenesis protein CcmB
+dde:Dde_1476	Heme-transporting ATPase
+dde:Dde_1477	cytochrome c assembly protein
+dde:Dde_1478	cytochrome c biogenesis protein CcmE
+dde:Dde_1479	protein of unknown function DUF21
+dde:Dde_1481	hydrolase, HAD-superfamily, subfamily IIIA
+dde:Dde_1482	glycosyl transferase family 9
+dde:Dde_1483	citrate transporter
+dde:Dde_1484	tRNA guanosine-2'-O-methyltransferase
+dde:Dde_1485	glycosyl transferase family 2
+dde:Dde_1486	glycosyl transferase family 2
+dde:Dde_1487	glycosyl transferase family 2
+dde:Dde_1488	rRNA (guanine-N(2)-)-methyltransferase
+dde:Dde_1489	Adenosine kinase
+dde:Dde_1490	CutA1 divalent ion tolerance protein
+dde:Dde_1491	endonuclease III
+dde:Dde_1492	hypothetical protein
+dde:Dde_1493	response regulator receiver modulated CheW protein
+dde:Dde_1494	Chloramphenicol O-acetyltransferase
+dde:Dde_1495	hypothetical protein
+dde:Dde_1496	S-adenosylmethionine synthetase
+dde:Dde_1497	protein of unknown function DUF502
+dde:Dde_1498	pantoate/beta-alanine ligase
+dde:Dde_1499	hypothetical protein
+dde:Dde_1500	3-methyl-2-oxobutanoate hydroxymethyltransferase
+dde:Dde_1501	flagellin domain protein
+dde:Dde_1502	flagellin domain protein
+dde:Dde_1503	Uncharacterized conserved protein UCP020606
+dde:Dde_1504	metal dependent phosphohydrolase
+dde:Dde_1506	Xanthine phosphoribosyltransferase
+dde:Dde_1507	basic membrane lipoprotein
+dde:Dde_1508	ABC-type transporter, integral membrane subunit
+dde:Dde_1509	ABC-type transporter, integral membrane subunit
+dde:Dde_1510	Monosaccharide-transporting ATPase
+dde:Dde_1511	cation diffusion facilitator family transporter
+dde:Dde_1512	regulatory protein, FmdB family
+dde:Dde_R0029	tRNA-Sec
+dde:Dde_1513	ATP-dependent metalloprotease FtsH
+dde:Dde_1514	dihydropteroate synthase
+dde:Dde_1515	Conserved hypothetical protein CHP00159
+dde:Dde_1516	YbbR family protein
+dde:Dde_1517	phosphoglucosamine mutase
+dde:Dde_1518	UTP-glucose-1-phosphate uridylyltransferase
+dde:Dde_1519	primosomal protein N'
+dde:Dde_1520	hypothetical protein
+dde:Dde_1521	response regulator receiver protein
+dde:Dde_1522	response regulator receiver sensor hybrid histidine kinase
+dde:Dde_1524	Integrase catalytic region
+dde:Dde_1527	pseudogene
+dde:Dde_1528	tRNA/rRNA methyltransferase (SpoU)
+dde:Dde_1529	cobalamin biosynthesis protein CobD
+dde:Dde_1530	HI0933 family protein
+dde:Dde_1531	alpha/beta hydrolase fold protein
+dde:Dde_1532	hypothetical protein
+dde:Dde_1533	GTP-binding protein TypA
+dde:Dde_1534	protein of unknown function DUF342
+dde:Dde_4023	hypothetical protein
+dde:Dde_1536	hypothetical protein
+dde:Dde_1537	inosine guanosine and xanthosine phosphorylase family
+dde:Dde_1538	MotA/TolQ/ExbB proton channel
+dde:Dde_1539	OmpA/MotB domain protein
+dde:Dde_1540	type IV pilus assembly PilZ
+dde:Dde_1541	Pyruvate carboxylase
+dde:Dde_1542	Acetyl-CoA carboxylase
+dde:Dde_1543	hypothetical protein
+dde:Dde_1544	hypothetical protein
+dde:Dde_1545	single-strand binding protein
+dde:Dde_1546	transcriptional regulator, IclR family
+dde:Dde_1547	Alanine racemase
+dde:Dde_1548	TRAP dicarboxylate transporter, DctP subunit
+dde:Dde_1549	Tripartite ATP-independent periplasmic transporter DctQ component
+dde:Dde_1550	TRAP dicarboxylate transporter, DctM subunit
+dde:Dde_1551	peptidase M15D vanX D-ala-D-ala dipeptidase
+dde:Dde_1552	PAS modulated sigma54 specific transcriptional regulator, Fis family
+dde:Dde_1553	alanine dehydrogenase
+dde:Dde_1554	thiamine biosynthesis protein ThiS
+dde:Dde_1555	thiazole biosynthesis family protein
+dde:Dde_1556	thiazole biosynthesis protein ThiH
+dde:Dde_1557	UBA/THIF-type NAD/FAD binding protein
+dde:Dde_1558	thiamine-phosphate pyrophosphorylase
+dde:Dde_1559	hypothetical protein
+dde:Dde_1560	regulatory protein MarR
+dde:Dde_1561	regulatory protein TetR
+dde:Dde_1562	efflux transporter, RND family, MFP subunit
+dde:Dde_1563	acriflavin resistance protein
+dde:Dde_1564	SNF2-related protein
+dde:Dde_1565	ABC-type transporter, periplasmic subunit
+dde:Dde_1566	hypothetical protein
+dde:Dde_1567	putative transposase for insertion sequence element
+dde:Dde_1568	ABC-type transporter, periplasmic subunit
+dde:Dde_1569	(p)ppGpp synthetase I, SpoT/RelA
+dde:Dde_1570	flagellin domain protein
+dde:Dde_R0030	tRNA-Pro
+dde:Dde_1571	response regulator receiver modulated CheB methylesterase
+dde:Dde_1572	PBS lyase heat domain protein repeat-containing protein
+dde:Dde_1573	MCP methyltransferase, CheR-type
+dde:Dde_1574	Cobyrinic acid ac-diamide synthase
+dde:Dde_1575	CheW protein
+dde:Dde_1576	response regulator receiver protein
+dde:Dde_1577	CheA signal transduction histidine kinase
+dde:Dde_1579	hypothetical protein
+dde:Dde_1580	tol-pal system protein YbgF
+dde:Dde_1581	DNA protecting protein DprA
+dde:Dde_1582	hypothetical protein
+dde:Dde_1583	putative signal transduction protein
+dde:Dde_1584	response regulator receiver modulated diguanylate cyclase
+dde:Dde_1585	integrase family protein
+dde:Dde_1586	2-nitropropane dioxygenase NPD
+dde:Dde_1587	hypothetical protein
+dde:Dde_1588	UvrD/REP helicase
+dde:Dde_1589	6-phosphofructokinase
+dde:Dde_1590	glycosyl transferase family 2
+dde:Dde_1591	metal dependent phosphohydrolase
+dde:Dde_1593	PSP1 domain protein
+dde:Dde_1594	Methionyl-tRNA synthetase
+dde:Dde_1595	hypothetical protein
+dde:Dde_4024	hypothetical protein
+dde:Dde_1596	glycosyl transferase family 2
+dde:Dde_R0031	tRNA-Met
+dde:Dde_1598	GTP-binding protein HSR1-related protein
+dde:Dde_1599	FeoA family protein
+dde:Dde_1600	TonB-dependent receptor
+dde:Dde_1601	Xenobiotic-transporting ATPase
+dde:Dde_1602	Xenobiotic-transporting ATPase
+dde:Dde_1603	hypothetical protein
+dde:Dde_1604	4'-phosphopantetheinyl transferase
+dde:Dde_1605	Oleoyl-(acyl-carrier-protein) hydrolase
+dde:Dde_1606	hypothetical protein
+dde:Dde_1607	putative transposase for insertion sequence element
+dde:Dde_1608	amino acid adenylation domain protein
+dde:Dde_1609	amino acid adenylation domain protein
+dde:Dde_1611	transcriptional regulator, AraC family
+dde:Dde_1612	hypothetical protein
+dde:Dde_1614	regulatory protein GntR HTH
+dde:Dde_4025	hypothetical protein
+dde:Dde_1615	amino acid transporter, AAT family
+dde:Dde_1616	metallo-beta-lactamase family protein
+dde:Dde_1617	cobalamin synthesis protein P47K
+dde:Dde_1618	NAD(P)H dehydrogenase (quinone)
+dde:Dde_1619	protein of unknown function DUF1566
+dde:Dde_1620	peptidase C26
+dde:Dde_1621	hypothetical protein
+dde:Dde_1622	ABC-type transporter, periplasmic subunit
+dde:Dde_1623	ABC-type transporter, integral membrane subunit
+dde:Dde_1624	Phosphonate-transporting ATPase
+dde:Dde_1625	formylmethanofuran dehydrogenase subunit E region
+dde:Dde_1627	methyl-accepting chemotaxis sensory transducer
+dde:Dde_1628	diguanylate cyclase/phosphodiesterase with CBS domains
+dde:Dde_1629	glycosyl transferase family 9
+dde:Dde_1630	Tetratricopeptide TPR_1 repeat-containing protein
+dde:Dde_1631	response regulator receiver modulated diguanylate cyclase with PAS/PAC sensor
+dde:Dde_1632	nicotinate (nicotinamide) nucleotide adenylyltransferase
+dde:Dde_1633	gamma-glutamyl phosphate reductase
+dde:Dde_1634	hypothetical protein
+dde:Dde_1635	transcriptional regulator, NifA subfamily, Fis Family
+dde:Dde_1636	hypothetical protein
+dde:Dde_1637	2-oxoglutarate synthase
+dde:Dde_1638	2-oxoglutarate synthase
+dde:Dde_1639	2-oxoglutarate synthase
+dde:Dde_4026	4Fe-4S ferredoxin iron-sulfur binding domain-containing protein
+dde:Dde_1641	Gamma-glutamyltransferase
+dde:Dde_1642	hypothetical protein
+dde:Dde_1643	hypothetical protein
+dde:Dde_1644	degV family protein
+dde:Dde_1646	intracellular protease, PfpI family
+dde:Dde_1647	major facilitator superfamily MFS_1
+dde:Dde_1648	Integrase catalytic region
+dde:Dde_4027	hypothetical protein
+dde:Dde_1650	methyl-accepting chemotaxis sensory transducer with Pas/Pac sensor
+dde:Dde_1651	protein of unknown function UPF0054
+dde:Dde_1652	7TM receptor with intracellular metal dependent phosphohydrolase
+dde:Dde_1653	PhoH family protein
+dde:Dde_1654	hypothetical protein
+dde:Dde_1656	glycosyl transferase group 1
+dde:Dde_1657	Threonine aldolase
+dde:Dde_1658	polysaccharide deacetylase
+dde:Dde_1659	chaperone DnaJ domain protein
+dde:Dde_1660	hypothetical protein
+dde:Dde_1661	ATP-dependent chaperone ClpB
+dde:Dde_1662	Peptidylprolyl isomerase
+dde:Dde_1663	Aspartate ammonia-lyase
+dde:Dde_1664	cyclase family protein
+dde:Dde_1665	methyl-accepting chemotaxis sensory transducer with Cache sensor
+dde:Dde_1667	Tetratricopeptide TPR_1 repeat-containing protein
+dde:Dde_R0032	tRNA-Pro
+dde:Dde_1668	Hpt domain protein
+dde:Dde_1669	ATP:corrinoid adenosyltransferase BtuR/CobO/CobP
+dde:Dde_1670	Radical SAM domain protein
+dde:Dde_1671	hypothetical protein
+dde:Dde_1672	phosphoribosylformylglycinamidine cyclo-ligase
+dde:Dde_1673	Integrase catalytic region, ISDde2
+dde:Dde_1676	Radical SAM domain protein
+dde:Dde_1677	hypothetical protein
+dde:Dde_1678	hypothetical protein
+dde:Dde_1679	hypothetical protein
+dde:Dde_1680	thiamine biosynthesis protein ThiC
+dde:Dde_1681	Phosphoglycerate dehydrogenase
+dde:Dde_1682	AsmA family protein
+dde:Dde_1684	signal transduction histidine kinase, nitrogen specific, NtrB
+dde:Dde_1685	two component, sigma54 specific, transcriptional regulator, Fis family
+dde:Dde_1686	Hpt domain protein
+dde:Dde_1687	hypothetical protein
+dde:Dde_1688	hypothetical protein
+dde:Dde_1689	OmpA/MotB domain protein
+dde:Dde_1690	Dihydrolipoyl dehydrogenase
+dde:Dde_1691	Glycine cleavage system P-protein
+dde:Dde_1692	Glycine dehydrogenase (decarboxylating)
+dde:Dde_1693	glycine cleavage system H protein
+dde:Dde_1694	response regulator receiver protein
+dde:Dde_1695	phosphoglucomutase, alpha-D-glucose phosphate-specific
+dde:Dde_1696	channel protein, hemolysin III family
+dde:Dde_1697	multi-sensor hybrid histidine kinase
+dde:Dde_1698	GTP-binding protein YchF
+dde:Dde_1699	processing peptidase
+dde:Dde_1700	Hpt protein
+dde:Dde_1701	Protein of unknown function DUF2344
+dde:Dde_1702	hypothetical protein
+dde:Dde_1703	major facilitator superfamily MFS_1
+dde:Dde_1704	hypothetical protein
+dde:Dde_1705	DRTGG domain protein
+dde:Dde_1708	ribonuclease III
+dde:Dde_1709	flagellin domain protein
+dde:Dde_1710	hypothetical protein
+dde:Dde_1711	flagellar hook-basal body protein
+dde:Dde_1712	flagellar hook capping protein
+dde:Dde_1713	flagellar hook-length control protein
+dde:Dde_1714	glycosyl transferase family 9
+dde:Dde_1715	CgeB family protein
+dde:Dde_1716	OmpA/MotB domain protein
+dde:Dde_1717	MotA/TolQ/ExbB proton channel
+dde:Dde_1718	protein of unknown function DUF342
+dde:Dde_1719	anti-anti-sigma factor
+dde:Dde_1720	hypothetical protein
+dde:Dde_1721	putative transposase for insertion sequence element
+dde:Dde_1722	putative anti-sigma regulatory factor, serine/threonine protein kinase
+dde:Dde_1723	response regulator receiver modulated serine phosphatase
+dde:Dde_1724	D-tyrosyl-tRNA(Tyr) deacylase
+dde:Dde_1725	Long-chain-fatty-acid--CoA ligase
+dde:Dde_1726	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+dde:Dde_R0085	rnpB; RNA component of RNaseP
+dde:Dde_1728	protein of unknown function DUF164
+dde:Dde_1729	NGG1p interacting factor 3 protein, NIF3
+dde:Dde_R0034	tRNA-Ser
+dde:Dde_1730	integrase family protein
+dde:Dde_1731	phage regulatory protein, Rha family
+dde:Dde_1732	prophage antirepressor
+dde:Dde_1734	hypothetical protein
+dde:Dde_1735	Resolvase domain-containing protein
+dde:Dde_4028	hypothetical protein
+dde:Dde_1737	phage regulatory protein, Rha family
+dde:Dde_1738	heat shock protein Hsp20
+dde:Dde_1739	Phage P22, antirepressor protein
+dde:Dde_1741	prophage antirepressor
+dde:Dde_1742	Type III site-specific deoxyribonuclease
+dde:Dde_1743	pseudogene
+dde:Dde_1744	Integrase catalytic region, ISDde3
+dde:Dde_1747	hypothetical protein
+dde:Dde_1748	helicase domain-containing protein
+dde:Dde_1752	methyl-accepting chemotaxis sensory transducer with HNOB (heme) sensor
+dde:Dde_1753	protein of unknown function UPF0057
+dde:Dde_1755	methyl-accepting chemotaxis sensory transducer with Cache sensor
+dde:Dde_1756	iojap-like protein
+dde:Dde_1757	phosphoglycerate mutase, 2,3-bisphosphoglycerate-independent
+dde:Dde_1758	hypothetical protein
+dde:Dde_1759	hypothetical protein
+dde:Dde_1761	sodium:neurotransmitter symporter
+dde:Dde_1762	hypothetical protein
+dde:Dde_1763	hypothetical protein
+dde:Dde_1764	Phosphoribosylformylglycinamidine synthase
+dde:Dde_1765	CTP synthase
+dde:Dde_1766	2-dehydro-3-deoxyphosphooctonate aldolase
+dde:Dde_1767	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase, YrbI family
+dde:Dde_1768	hypothetical protein
+dde:Dde_1769	OstA family protein
+dde:Dde_1770	Sulfate-transporting ATPase
+dde:Dde_1771	RNA polymerase, sigma 54 subunit, RpoN
+dde:Dde_1772	sigma 54 modulation protein/ribosomal protein S30EA
+dde:Dde_1773	putative PTS IIA-like nitrogen-regulatory protein PtsN
+dde:Dde_1774	UPF0042 nucleotide-binding protein yhbJ
+dde:Dde_1775	PTS system fructose subfamily IIA component
+dde:Dde_1776	PTS system sorbose subfamily IIB component
+dde:Dde_1777	hypothetical protein
+dde:Dde_1778	Inorganic diphosphatase
+dde:Dde_1779	CMP/dCMP deaminase zinc-binding protein
+dde:Dde_1780	Conserved hypothetical protein CHP00730
+dde:Dde_1781	RNA-metabolising metallo-beta-lactamase
+dde:Dde_1782	methyltransferase
+dde:Dde_1783	pantetheine-phosphate adenylyltransferase
+dde:Dde_1784	tRNA dimethylallyltransferase
+dde:Dde_1785	SpoIID/LytB domain protein
+dde:Dde_1786	Lytic transglycosylase catalytic
+dde:Dde_1787	outer membrane chaperone Skp (OmpH)
+dde:Dde_R0035	tRNA-Arg
+dde:Dde_R0036	tRNA-Arg
+dde:Dde_R0037	tRNA-Arg
+dde:Dde_1788	pyridoxamine 5'-phosphate oxidase-related FMN-binding protein
+dde:Dde_1789	phosphoadenosine phosphosulfate reductase
+dde:Dde_1790	hypothetical protein
+dde:Dde_1791	Ferroxidase
+dde:Dde_1792	2-oxoacid:acceptor oxidoreductase, alpha subunit
+dde:Dde_1793	pyruvate ferredoxin/flavodoxin oxidoreductase, beta subunit
+dde:Dde_1794	putative cytoplasmic protein
+dde:Dde_1795	hypothetical protein
+dde:Dde_1796	fructose-1,6-bisphosphatase, class II
+dde:Dde_1797	dihydrodipicolinate synthase
+dde:Dde_1798	diaminopimelate epimerase
+dde:Dde_1799	histone family protein DNA-binding protein
+dde:Dde_1800	flagellar synthesis regulator FleN
+dde:Dde_1801	diguanylate cyclase
+dde:Dde_1802	putative transposase for insertion sequence element
+dde:Dde_1803	hypothetical protein
+dde:Dde_1804	GGDEF domain containing protein
+dde:Dde_1805	Peptide chain release factor 2
+dde:Dde_1806	apolipoprotein N-acyltransferase
+dde:Dde_1807	CBS domain containing protein
+dde:Dde_1808	hypothetical protein
+dde:Dde_1809	glucose inhibited division protein A
+dde:Dde_1810	acetylornithine deacetylase or succinyl-diaminopimelate desuccinylase
+dde:Dde_1811	hypothetical protein
+dde:Dde_1812	S-adenosylhomocysteine deaminase
+dde:Dde_1813	putative carboxylesterase
+dde:Dde_1814	Glutamate synthase (NADPH)
+dde:Dde_1815	glutamine amidotransferase class-II
+dde:Dde_1816	glutamate synthase alpha subunit domain protein
+dde:Dde_1817	preprotein translocase, YajC subunit
+dde:Dde_1818	protein-export membrane protein SecD
+dde:Dde_1819	protein-export membrane protein SecF
+dde:Dde_1821	cytochrome c class I
+dde:Dde_1822	Copper delivery protein (cytochrome c oxidase assembly)
+dde:Dde_1823	Cytochrome aa3-type quinol oxidase
+dde:Dde_1824	Cytochrome aa3-type quinol oxidase subunit III
+dde:Dde_1825	Cytochrome aa3-type quinol oxidase subunit IV
+dde:Dde_1826	Cytochrome aa3-type quinol oxidase subunit II
+dde:Dde_1827	Protoheme IX farnesyltransferase
+dde:Dde_1828	hypothetical protein
+dde:Dde_1829	L-aspartate oxidase
+dde:Dde_1830	quinolinate synthetase complex, A subunit
+dde:Dde_1831	nicotinate-nucleotide pyrophosphorylase
+dde:Dde_1832	magnesium transporter
+dde:Dde_1833	protein of unknown function DUF165
+dde:Dde_1834	diguanylate cyclase
+dde:Dde_1835	glycosyl transferase group 1
+dde:Dde_1836	glycosyl transferase group 1
+dde:Dde_1837	lipase class 2
+dde:Dde_1838	hypothetical protein
+dde:Dde_1839	hypothetical protein
+dde:Dde_1840	multiple antibiotic resistance (MarC)-related protein
+dde:Dde_1841	Serine 3-dehydrogenase
+dde:Dde_1842	protein of unknown function DUF224 cysteine-rich region domain protein
+dde:Dde_1843	iron-sulfur cluster binding protein
+dde:Dde_1844	Lactate utilization protein B/C
+dde:Dde_1846	amino acid carrier protein
+dde:Dde_1847	hypothetical protein
+dde:Dde_1849	type IV pilus assembly PilZ
+dde:Dde_1850	hypothetical protein
+dde:Dde_4001	hypothetical protein
+dde:Dde_1852	glycosyl transferase group 1
+dde:Dde_1853	hypothetical protein
+dde:Dde_1854	Na+/Ca+ antiporter, CaCA family
+dde:Dde_1855	peptidase M48 Ste24p
+dde:Dde_1856	MscS Mechanosensitive ion channel
+dde:Dde_1857	hypothetical protein
+dde:Dde_1858	restriction endonuclease
+dde:Dde_1859	Restriction endonuclease, type I, EcoRI, R subunit/Type III
+dde:Dde_1860	restriction modification system DNA specificity domain-containing protein
+dde:Dde_1861	N-6 DNA methylase
+dde:Dde_1862	DNA binding domain protein, excisionase family
+dde:Dde_1863	AIG2 family protein
+dde:Dde_1864	glucosamine 6-phosphate synthetase-like protein
+dde:Dde_1865	hypothetical protein
+dde:Dde_1866	putative amidoligase enzyme
+dde:Dde_1867	hypothetical protein
+dde:Dde_1868	BNR repeat-containing glycosyl hydrolase
+dde:Dde_1869	hypothetical protein
+dde:Dde_1870	hypothetical protein
+dde:Dde_4029	hypothetical protein
+dde:Dde_1871	hypothetical protein
+dde:Dde_1872	hypothetical protein
+dde:Dde_1873	phage tail protein
+dde:Dde_1874	Baseplate J family protein
+dde:Dde_1875	GPW/gp25 family protein
+dde:Dde_1876	hypothetical protein
+dde:Dde_1877	hypothetical protein
+dde:Dde_4030	hypothetical protein
+dde:Dde_1878	PaaR repeat-containing protein
+dde:Dde_1879	hypothetical protein
+dde:Dde_1880	hypothetical protein
+dde:Dde_1881	protein of unknown function DUF1353
+dde:Dde_1882	Peptidase M15A
+dde:Dde_1883	phage protein D-like protein
+dde:Dde_4031	hypothetical protein
+dde:Dde_1884	hypothetical protein
+dde:Dde_1885	hypothetical protein
+dde:Dde_1886	phage tail tape measure protein, TP901 family
+dde:Dde_1887	hypothetical protein
+dde:Dde_1888	Conserved hypothetical protein CHP02241, phage tail region protein
+dde:Dde_1889	phage tail sheath protein
+dde:Dde_4032	hypothetical protein
+dde:Dde_1890	hypothetical protein
+dde:Dde_1891	metallophosphoesterase
+dde:Dde_1892	regulatory protein TetR
+dde:Dde_1893	ATPase, P-type (transporting), HAD superfamily, subfamily IC
+dde:Dde_4009	hypothetical protein
+dde:Dde_1895	hypothetical protein
+dde:Dde_1896	Dihem cytochrome c
+dde:Dde_1897	protein of unknown function DUF107
+dde:Dde_4033	hypothetical protein
+dde:Dde_1899	hypothetical protein
+dde:Dde_4034	hypothetical protein
+dde:Dde_1900	hypothetical protein
+dde:Dde_1901	hypothetical protein
+dde:Dde_1902	hypothetical protein
+dde:Dde_1903	hypothetical protein
+dde:Dde_1904	Site-specific DNA-methyltransferase (adenine-specific)
+dde:Dde_1905	hypothetical protein
+dde:Dde_1906	hypothetical protein
+dde:Dde_1907	phage head morphogenesis protein, SPP1 gp7 family
+dde:Dde_1908	hypothetical protein
+dde:Dde_1909	hypothetical protein
+dde:Dde_1910	hypothetical protein
+dde:Dde_1911	hypothetical protein
+dde:Dde_1912	hypothetical protein
+dde:Dde_1913	hypothetical protein
+dde:Dde_1914	integrase family protein
+dde:Dde_1915	hypothetical protein
+dde:Dde_1916	hypothetical protein
+dde:Dde_1917	hypothetical protein
+dde:Dde_1919	abortive phage resistance protein-like protein
+dde:Dde_1920	abortive phage resistance protein-like protein
+dde:Dde_1921	DNA primase catalytic core domain-containing protein
+dde:Dde_1922	UvrD/REP helicase
+dde:Dde_1923	ERCC4 domain protein
+dde:Dde_1924	protein of unknown function DUF669
+dde:Dde_1925	hypothetical protein
+dde:Dde_1926	hypothetical protein
+dde:Dde_1927	hypothetical protein
+dde:Dde_1928	RNA polymerase sigma factor, sigma-70 family
+dde:Dde_1929	hypothetical protein
+dde:Dde_1930	hypothetical protein
+dde:Dde_1931	hypothetical protein
+dde:Dde_1932	SOS-response transcriptional repressor, LexA
+dde:Dde_1933	hypothetical protein
+dde:Dde_1934	putative bacteriophage-like protein
+dde:Dde_1935	Resolvase domain-containing protein
+dde:Dde_1936	putative phage-like protein
+dde:Dde_4035	hypothetical protein
+dde:Dde_R0086	ssrA; tmRNA as predicted by Rfam (RF00023), score 201.83
+dde:Dde_1940	hypothetical protein
+dde:Dde_1941	response regulator receiver sensor signal transduction histidine kinase
+dde:Dde_1942	response regulator receiver modulated metal dependent phosphohydrolase
+dde:Dde_1943	pseudogene
+dde:Dde_1944	Integrase catalytic region
+dde:Dde_R0039	tRNA-Met
+dde:Dde_R0040	tRNA-Met
+dde:Dde_1946	undecaprenol kinase
+dde:Dde_1947	hypothetical protein
+dde:Dde_1948	permease YjgP/YjgQ family protein
+dde:Dde_1949	permease YjgP/YjgQ family protein
+dde:Dde_1950	ribosome biogenesis GTP-binding protein YsxC
+dde:Dde_1952	3-dehydroquinate dehydratase
+dde:Dde_1953	translation elongation factor P
+dde:Dde_1955	cell division protein FtsK/SpoIIIE
+dde:Dde_1956	outer membrane lipoprotein carrier protein LolA
+dde:Dde_1958	pseudouridine synthase Rsu
+dde:Dde_1959	selenium metabolism protein YedF
+dde:Dde_1960	lipid A ABC exporter, fused ATPase and inner membrane subunits MsbA
+dde:Dde_1961	protein of unknown function DUF374
+dde:Dde_1962	lipid A biosynthesis acyltransferase
+dde:Dde_1968	TRASH domain protein
+dde:Dde_1969	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+dde:Dde_1970	LL-diaminopimelate aminotransferase
+dde:Dde_1971	tyrosine recombinase XerD
+dde:Dde_1972	Polynucleotide adenylyltransferase region
+dde:Dde_1973	histidine triad (HIT) protein
+dde:Dde_1974	histidine triad (HIT) protein
+dde:Dde_1975	tetratricopeptide TPR_4
+dde:Dde_1976	DNA mismatch repair protein MutS
+dde:Dde_1977	lipoprotein
+dde:Dde_1978	diaminopimelate decarboxylase
+dde:Dde_1979	methylglyoxal synthase
+dde:Dde_1980	putative phage repressor
+dde:Dde_1981	hypothetical protein
+dde:Dde_1982	protein of unknown function DUF330
+dde:Dde_1983	Mammalian cell entry related domain protein
+dde:Dde_1984	Fe(3+)-transporting ATPase
+dde:Dde_1985	protein of unknown function DUF140
+dde:Dde_1987	glycosyl transferase family 2
+dde:Dde_R0041	tRNA-Leu
+dde:Dde_1988	preprotein translocase, SecG subunit
+dde:Dde_1989	triosephosphate isomerase
+dde:Dde_1990	ribosomal-protein-alanine acetyltransferase
+dde:Dde_1991	NUDIX hydrolase
+dde:Dde_1992	inositol monophosphatase
+dde:Dde_1993	cell shape determining protein, MreB/Mrl family
+dde:Dde_1994	GAF domain protein
+dde:Dde_1995	hypothetical protein
+dde:Dde_1996	glycine cleavage system T protein
+dde:Dde_1997	Ribosomal RNA small subunit methyltransferase E
+dde:Dde_1998	AAA ATPase central domain protein
+dde:Dde_1999	glycosyl transferase, group 2 family protein
+dde:Dde_2000	transport-associated protein
+dde:Dde_2001	phospholipid/glycerol acyltransferase
+dde:Dde_2002	transcriptional regulator, TetR family
+dde:Dde_2003	hypothetical protein
+dde:Dde_2004	Glutamyl/glutaminyl-tRNA synthetase, class Ic, catalytic domain-containing protein
+dde:Dde_R0042	tRNA-Arg
+dde:Dde_2005	hypothetical protein
+dde:Dde_2006	hypothetical protein
+dde:Dde_2007	peptidase S16 lon domain protein
+dde:Dde_2008	heat shock protein Hsp20
+dde:Dde_2010	PpiC-type peptidyl-prolyl cis-trans isomerase
+dde:Dde_2011	RNA binding S1 domain protein
+dde:Dde_2012	acetyl hydrolace
+dde:Dde_2013	protease Do
+dde:Dde_2014	heat shock protein HslVU, ATPase subunit HslU
+dde:Dde_2015	acetylglutamate kinase
+dde:Dde_2016	Uracil phosphoribosyltransferase
+dde:Dde_2018	HesB/YadR/YfhF-family protein
+dde:Dde_2020	HesB/YadR/YfhF-family protein
+dde:Dde_2021	CgeB family protein
+dde:Dde_2022	glycosyl transferase family 9
+dde:Dde_2023	siroheme synthase
+dde:Dde_2024	cytochrome c assembly protein
+dde:Dde_2025	glutamyl-tRNA reductase
+dde:Dde_2026	hypothetical protein
+dde:Dde_2027	tRNA(Ile)-lysidine synthetase
+dde:Dde_2028	Adenylate kinase
+dde:Dde_2029	potassium uptake protein, TrkH family
+dde:Dde_2030	TrkA-N domain protein
+dde:Dde_2031	30S ribosomal protein S20
+dde:Dde_2032	Integrase catalytic region
+dde:Dde_2033	glycyl-tRNA synthetase, beta subunit
+dde:Dde_2034	glycyl-tRNA synthetase, alpha subunit
+dde:Dde_2035	DNA repair protein RecO
+dde:Dde_2036	transcriptional regulator, XRE family
+dde:Dde_2037	SurA domain-containing protein
+dde:Dde_2038	SurA domain-containing protein
+dde:Dde_2039	transcription-repair coupling factor
+dde:Dde_2040	CheW protein
+dde:Dde_2041	hypothetical protein
+dde:Dde_2042	nucleotide sugar dehydrogenase
+dde:Dde_2043	pyridoxal phosphate biosynthetic protein PdxJ
+dde:Dde_2044	phosphopantetheine-protein transferase
+dde:Dde_2045	YjeF-related protein
+dde:Dde_2046	CBS domain containing membrane protein
+dde:Dde_2047	Uncharacterized protein family UPF0079, ATPase
+dde:Dde_2048	aspartate kinase
+dde:Dde_2049	2-isopropylmalate synthase/homocitrate synthase family protein
+dde:Dde_2050	diguanylate cyclase
+dde:Dde_2051	nuclease (SNase domain-containing protein)
+dde:Dde_2052	RNA polymerase, sigma 70 subunit, RpoD subfamily
+dde:Dde_2053	DNA primase
+dde:Dde_2054	Smr protein/MutS2
+dde:Dde_2055	GatB/YqeY family protein
+dde:Dde_2056	30S ribosomal protein S21
+dde:Dde_2057	hypothetical protein
+dde:Dde_2058	histone family protein DNA-binding protein
+dde:Dde_2059	dimethyladenosine transferase
+dde:Dde_2060	Alpha,alpha-trehalose-phosphate synthase (UDP-forming)
+dde:Dde_2061	trehalose-phosphatase
+dde:Dde_2062	Protein of unknown function DUF2062
+dde:Dde_2063	translation elongation factor G
+dde:Dde_2064	hypothetical protein
+dde:Dde_2065	outer membrane assembly lipoprotein YfiO
+dde:Dde_2066	thioredoxin reductase
+dde:Dde_2067	thioredoxin
+dde:Dde_2068	metalloendopeptidase, glycoprotease family
+dde:Dde_2069	Fructose-bisphosphatase
+dde:Dde_2070	Sporulation domain-containing protein
+dde:Dde_2071	hypothetical protein
+dde:Dde_2072	Septum formation initiator
+dde:Dde_2073	hypothetical protein
+dde:Dde_2074	CDP-diacylglycerol/glycerol-3-phosphate 3-phosphatidyltransferase
+dde:Dde_2075	ATPase-like, ParA/MinD
+dde:Dde_2076	hypothetical protein
+dde:Dde_2077	protein-L-isoaspartate O-methyltransferase
+dde:Dde_2078	CBS domain containing membrane protein
+dde:Dde_2079	Peptidase M23
+dde:Dde_2080	Pyruvate, water dikinase., Phosphoenolpyruvate--protein phosphotransferase
+dde:Dde_2081	Pyruvate carboxylase
+dde:Dde_2082	biotin/acetyl-CoA-carboxylase ligase
+dde:Dde_2083	Polynucleotide adenylyltransferase region
+dde:Dde_2084	Phenylacetate--CoA ligase
+dde:Dde_2085	4Fe-4S ferredoxin iron-sulfur binding domain-containing protein
+dde:Dde_2086	Glutamate synthase (NADPH)
+dde:Dde_2088	amino acid-binding ACT domain protein
+dde:Dde_2089	protein of unknown function UPF0027
+dde:Dde_2090	molybdopterin oxidoreductase
+dde:Dde_2091	NAD+ synthetase
+dde:Dde_2092	dihydrodipicolinate reductase
+dde:Dde_2093	DNA ligase
+dde:Dde_2094	hypothetical protein
+dde:Dde_2095	TrkA-N domain protein
+dde:Dde_2096	excinuclease ABC, B subunit
+dde:Dde_2097	hypothetical protein
+dde:Dde_2098	leucyl/phenylalanyl-tRNA/protein transferase
+dde:Dde_2099	ATP-dependent Clp protease, ATP-binding subunit clpA
+dde:Dde_2100	ATP-dependent Clp protease adaptor protein ClpS
+dde:Dde_2101	adenylate cyclase
+dde:Dde_2102	CrcB-like protein
+dde:Dde_2103	protein of unknown function DUF190
+dde:Dde_2104	response regulator receiver modulated CheB methylesterase
+dde:Dde_2105	MCP methyltransferase, CheR-type
+dde:Dde_2106	CheA signal transduction histidine kinase
+dde:Dde_2107	response regulator receiver protein
+dde:Dde_2108	chemotaxis sensory transducer
+dde:Dde_2110	DNA repair protein RadA
+dde:Dde_2111	MJ0042 family finger-like protein
+dde:Dde_2112	hypoxanthine phosphoribosyltransferase
+dde:Dde_2113	GCN5-related N-acetyltransferase
+dde:Dde_2114	alkyl hydroperoxide reductase/Thiol specific antioxidant/Mal allergen
+dde:Dde_2115	Methionine synthase
+dde:Dde_2116	putative RNA polymerase, sigma 70 family subunit
+dde:Dde_2117	Tetratricopeptide TPR_2 repeat-containing protein
+dde:Dde_2118	hypothetical protein
+dde:Dde_2119	hypothetical protein
+dde:Dde_2120	ribose 5-phosphate isomerase B
+dde:Dde_2121	cysteinyl-tRNA synthetase
+dde:Dde_2122	peptidase M48 Ste24p
+dde:Dde_2123	Appr-1-p processing domain protein
+dde:Dde_2124	20S proteasome A and B subunits
+dde:Dde_2125	4-diphosphocytidyl-2C-methyl-D-erythritol kinase
+dde:Dde_R0043	tRNA-Gln
+dde:Dde_2126	ribose-phosphate pyrophosphokinase
+dde:Dde_2127	ribosomal 5S rRNA E-loop binding protein Ctc/L25/TL5
+dde:Dde_2128	peptidyl-tRNA hydrolase
+dde:Dde_2129	transcriptional regulator, CarD family
+dde:Dde_2130	transcription termination factor Rho
+dde:Dde_2134	hydrogenase (NiFe) small subunit HydA
+dde:Dde_2135	periplasmic (NiFeSe) hydrogenase, large subunit, selenocysteine-containing
+dde:Dde_2136	hydrogenase maturation protease
+dde:Dde_2137	periplasmic (NiFe) hydrogenase, small subunit, isozyme 1
+dde:Dde_2138	Cytochrome-c3 hydrogenase
+dde:Dde_2139	hydrogenase expression/formation protein
+dde:Dde_2140	hydrogenase assembly chaperone hypC/hupF
+dde:Dde_2141	lipolytic protein G-D-S-L family
+dde:Dde_2142	isoleucyl-tRNA synthetase
+dde:Dde_2143	lipoprotein signal peptidase
+dde:Dde_4036	hypothetical protein
+dde:Dde_2144	hypothetical protein
+dde:Dde_2145	tol-pal system protein YbgF
+dde:Dde_2146	NIL domain-containing protein
+dde:Dde_2147	type IV pilus assembly PilZ
+dde:Dde_2148	chemotaxis phosphatase, CheZ
+dde:Dde_2151	Thioredoxin-disulfide reductase
+dde:Dde_R0044	tRNA-Met
+dde:Dde_2152	hypothetical protein
+dde:Dde_2153	MotA/TolQ/ExbB proton channel
+dde:Dde_2154	MotA/TolQ/ExbB proton channel
+dde:Dde_2155	Biopolymer transport protein ExbD/TolR
+dde:Dde_2156	TonB family protein
+dde:Dde_2157	Tetratricopeptide TPR_1 repeat-containing protein
+dde:Dde_2159	methyl-accepting chemotaxis sensory transducer
+dde:Dde_2160	protein of unknown function DUF1499
+dde:Dde_2161	peptidase M48 Ste24p
+dde:Dde_2162	MATE efflux family protein
+dde:Dde_2164	acylphosphatase
+dde:Dde_2165	hypothetical protein
+dde:Dde_2166	Ketol-acid reductoisomerase / Dehydropantoate reductase
+dde:Dde_2167	acetolactate synthase, small subunit
+dde:Dde_2168	acetolactate synthase, large subunit, biosynthetic type
+dde:Dde_2169	hypothetical protein
+dde:Dde_2170	protein of unknown function DUF167
+dde:Dde_2171	DivIVA domain-containing protein
+dde:Dde_2172	protein of unknown function YGGT
+dde:Dde_2173	HAD-superfamily hydrolase, subfamily IA, variant 1
+dde:Dde_2174	hypothetical protein
+dde:Dde_2175	hypothetical protein
+dde:Dde_2176	FAD-dependent pyridine nucleotide-disulfide oxidoreductase
+dde:Dde_2177	twin-arginine translocation protein, TatA/E family subunit
+dde:Dde_2178	putative lipoprotein
+dde:Dde_2179	hypothetical protein
+dde:Dde_2180	hypothetical protein
+dde:Dde_2181	anaerobic cobalt chelatase
+dde:Dde_2182	dTDP-glucose 4,6-dehydratase
+dde:Dde_2183	dTDP-4-dehydrorhamnose reductase
+dde:Dde_2184	nucleoside recognition domain protein
+dde:Dde_2185	lipid-A-disaccharide synthase
+dde:Dde_2187	UDP-glucose 4-epimerase
+dde:Dde_2188	hypothetical protein
+dde:Dde_2189	geranylgeranyl reductase
+dde:Dde_2190	HAD-superfamily hydrolase, subfamily IA, variant 3
+dde:Dde_2191	Methyltransferase type 11
+dde:Dde_2192	Aspartate transaminase
+dde:Dde_2193	metal-dependent phosphohydrolase HD sub domain-containing protein
+dde:Dde_2194	hypothetical protein
+dde:Dde_2196	DNA polymerase III, alpha subunit
+dde:Dde_2197	queuosine biosynthesis protein QueD
+dde:Dde_2198	multiple antibiotic resistance (MarC)-related protein
+dde:Dde_2199	nitroreductase
+dde:Dde_2200	deoxyxylulose-5-phosphate synthase
+dde:Dde_2201	Polyprenyl synthetase
+dde:Dde_2202	Exonuclease VII small subunit
+dde:Dde_2203	Peptidase M23
+dde:Dde_2204	exodeoxyribonuclease VII, large subunit
+dde:Dde_2206	prolyl-tRNA synthetase
+dde:Dde_2207	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase
+dde:Dde_2208	periplasmic component of zinc ABC transporter
+dde:Dde_2209	ATPase component of zinc ABC transporter
+dde:Dde_2210	permease component of zinc ABC transporter
+dde:Dde_2211	Zinc uptake transcriptional regulator ZUR, Fur family
+dde:Dde_2212	hypothetical protein
+dde:Dde_4037	hypothetical protein
+dde:Dde_2213	hypothetical protein
+dde:Dde_2214	TRAP dicarboxylate transporter, DctM subunit
+dde:Dde_2215	Tripartite ATP-independent periplasmic transporter DctQ component
+dde:Dde_2216	TRAP-type C4-dicarboxylate transport system, periplasmic component, DctP
+dde:Dde_2217	regulatory protein TetR
+dde:Dde_2218	anti-sigma H sporulation factor, LonB
+dde:Dde_2219	ATP-dependent Clp protease, ATP-binding subunit ClpX
+dde:Dde_2220	ATP-dependent Clp protease, proteolytic subunit ClpP
+dde:Dde_2222	trigger factor
+dde:Dde_2224	hypothetical protein
+dde:Dde_R0045	tRNA-Leu
+dde:Dde_2225	selenide, water dikinase
+dde:Dde_2226	transcriptional regulator, LysR family
+dde:Dde_2229	hypothetical protein
+dde:Dde_2230	ribosomal protein L17
+dde:Dde_2231	DNA-directed RNA polymerase, alpha subunit
+dde:Dde_2232	ribosomal protein S4
+dde:Dde_2233	30S ribosomal protein S11
+dde:Dde_2234	30S ribosomal protein S13
+dde:Dde_2235	ribosomal protein L36
+dde:Dde_2236	methionine aminopeptidase, type I
+dde:Dde_2237	preprotein translocase, SecY subunit
+dde:Dde_2238	ribosomal protein L15
+dde:Dde_2239	ribosomal protein L30
+dde:Dde_2240	ribosomal protein S5
+dde:Dde_2241	ribosomal protein L18
+dde:Dde_2242	ribosomal protein L6
+dde:Dde_2243	ribosomal protein S8
+dde:Dde_2244	ribosomal protein S14
+dde:Dde_2245	ribosomal protein L5
+dde:Dde_2246	ribosomal protein L24
+dde:Dde_2247	ribosomal protein L14
+dde:Dde_2248	30S ribosomal protein S17
+dde:Dde_2249	ribosomal protein L29
+dde:Dde_2250	ribosomal protein L16
+dde:Dde_2251	ribosomal protein S3
+dde:Dde_2252	ribosomal protein L22
+dde:Dde_2253	ribosomal protein S19
+dde:Dde_2254	ribosomal protein L2
+dde:Dde_2255	Ribosomal protein L25/L23
+dde:Dde_2256	ribosomal protein L4/L1e
+dde:Dde_2257	50S ribosomal protein L3
+dde:Dde_2258	30S ribosomal protein S10
+dde:Dde_2261	translation elongation factor G
+dde:Dde_2262	ribosomal protein S7
+dde:Dde_2263	ribosomal protein S12
+dde:Dde_2265	sulfate adenylyltransferase
+dde:Dde_2267	protein of unknown function DUF45
+dde:Dde_2268	hypothetical protein
+dde:Dde_2270	hypothetical protein
+dde:Dde_2271	Inner membrane protein binds 2 heme b
+dde:Dde_2272	Cytoplasmic, binds 2 (4Fe-4S)
+dde:Dde_2273	Periplasmic (Sec) triheme cytochrome c
+dde:Dde_2274	Periplasmic (Tat), binds 2(4Fe-4S)
+dde:Dde_2275	Integral membrane protein
+dde:Dde_2276	small GTP-binding protein
+dde:Dde_2277	Radical SAM domain protein
+dde:Dde_2278	biotin and thiamin synthesis associated
+dde:Dde_2279	transcriptional regulator
+dde:Dde_2280	Periplasmic Fe hydrogenase small subunit
+dde:Dde_2281	Iron only hydrogenase large subunit-like protein
+dde:Dde_2282	Hydantoinase/oxoprolinase
+dde:Dde_2283	4-hydroxythreonine-4-phosphate dehydrogenase
+dde:Dde_2284	Asparaginase
+dde:Dde_2285	1,4-alpha-glucan-branching enzyme
+dde:Dde_2286	glycogen/starch synthase, ADP-glucose type
+dde:Dde_2287	NUDIX hydrolase
+dde:Dde_2289	Sua5/YciO/YrdC/YwlC family protein
+dde:Dde_2291	SPOUT methyltransferase
+dde:Dde_2292	hypothetical protein
+dde:Dde_2293	glucose inhibited division protein
+dde:Dde_2294	(Acyl-carrier-protein) S-malonyltransferase
+dde:Dde_2295	arginyl-tRNA synthetase
+dde:Dde_2296	Sporulation domain-containing protein
+dde:Dde_2297	protein of unknown function DUF140
+dde:Dde_2298	Fe(3+)-transporting ATPase
+dde:Dde_2299	Mammalian cell entry related domain protein
+dde:Dde_2300	toluene tolerance family protein
+dde:Dde_2301	VacJ family lipoprotein
+dde:Dde_2303	Cupin 2 conserved barrel domain protein
+dde:Dde_2304	hypothetical protein
+dde:Dde_2305	protein of unknown function DUF340 membrane
+dde:Dde_2306	ABC-type transporter, periplasmic subunit family 3
+dde:Dde_2307	polar amino acid ABC transporter, inner membrane subunit
+dde:Dde_2308	Phosphonate-transporting ATPase
+dde:Dde_2309	UTP-GlnB uridylyltransferase, GlnD
+dde:Dde_2310	nitrogen regulatory protein P-II
+dde:Dde_2311	ammonium transporter
+dde:Dde_2313	Redoxin domain protein
+dde:Dde_2314	hypothetical protein
+dde:Dde_2315	hypothetical protein
+dde:Dde_2316	Tex-like protein
+dde:Dde_2317	Butyrate--CoA ligase
+dde:Dde_2318	Cupin 2 conserved barrel domain protein
+dde:Dde_2320	chromosomal replication initiator protein DnaA
+dde:Dde_2321	thymidylate synthase, flavin-dependent
+dde:Dde_2322	Holliday junction DNA helicase RuvB
+dde:Dde_2323	Holliday junction DNA helicase RuvA
+dde:Dde_2324	crossover junction endodeoxyribonuclease RuvC
+dde:Dde_2325	protein of unknown function DUF28
+dde:Dde_2326	ribosomal RNA methyltransferase RrmJ/FtsJ
+dde:Dde_2327	hypothetical protein
+dde:Dde_2328	5-methyltetrahydropteroyltriglutamate/homocysteine S-methyltransferase
+dde:Dde_2330	Methyltransferase type 11
+dde:Dde_2331	indolepyruvate/phenylpyruvate decarboxylase
+dde:Dde_2334	Succinyl-CoA synthetase, alpha/beta subunit (sucCD)
+dde:Dde_2335	protein of unknown function DUF1121
+dde:Dde_2336	hypothetical protein
+dde:Dde_2337	histone deacetylase superfamily
+dde:Dde_2338	thymidylate kinase
+dde:Dde_2339	metal dependent phosphohydrolase
+dde:Dde_2340	stationary-phase survival protein SurE
+dde:Dde_2341	fructose-1,6-bisphosphate aldolase, class II
+dde:Dde_2342	glyceraldehyde-3-phosphate dehydrogenase, type I
+dde:Dde_2343	diguanylate phosphodiesterase metal dependent hydrolase domain-containing protein
+dde:Dde_2344	protein of unknown function DUF814
+dde:Dde_2345	transcriptional regulator, TraR/DksA family
+dde:Dde_R0046	tRNA-Gly
+dde:Dde_R0047	tRNA-Cys
+dde:Dde_R0048	tRNA-Gly
+dde:Dde_R0049	tRNA-Gly
+dde:Dde_R0050	tRNA-Gly
+dde:Dde_2347	hypothetical protein
+dde:Dde_2348	YcaO-domain protein
+dde:Dde_4038	hypothetical protein
+dde:Dde_2349	regulatory protein TetR
+dde:Dde_2350	small multidrug resistance protein
+dde:Dde_2351	hypothetical protein
+dde:Dde_2352	hypothetical protein
+dde:Dde_2353	trehalose synthase
+dde:Dde_2354	nuclease (SNase domain-containing protein)
+dde:Dde_2355	two component, sigma54 specific, transcriptional regulator, Fis family
+dde:Dde_2357	Flp/Fap pilin component
+dde:Dde_2358	peptidase A24A prepilin type IV
+dde:Dde_2359	Flp pilus assembly protein CpaB
+dde:Dde_2360	type II and III secretion system protein
+dde:Dde_2361	hypothetical protein
+dde:Dde_2362	response regulator receiver protein
+dde:Dde_2363	type II secretion system protein E
+dde:Dde_2364	Type II secretion system F domain-containing protein
+dde:Dde_2365	Type II secretion system F domain-containing protein
+dde:Dde_2366	Sporulation domain-containing protein
+dde:Dde_2367	TadE family protein
+dde:Dde_2368	Protein of unknown function DUF2134, membrane
+dde:Dde_2369	TadE family protein
+dde:Dde_2370	PAS/PAC sensor hybrid histidine kinase
+dde:Dde_2371	sodium:neurotransmitter symporter
+dde:Dde_2372	thiamine biosynthesis protein
+dde:Dde_2373	recA protein
+dde:Dde_2374	alanyl-tRNA synthetase
+dde:Dde_2375	heavy metal-binding domain-containing protein
+dde:Dde_2377	hypothetical protein
+dde:Dde_2378	RNA modification enzyme, MiaB family
+dde:Dde_2379	protein of unknown function DUF151
+dde:Dde_2380	hypothetical protein
+dde:Dde_2381	acriflavin resistance protein
+dde:Dde_2382	hypothetical protein
+dde:Dde_2384	response regulator receiver
+dde:Dde_2385	phosphate uptake regulator, PhoU
+dde:Dde_2386	phosphate ABC transporter, ATPase subunit
+dde:Dde_2387	two component transcriptional regulator, winged helix family
+dde:Dde_2388	3'-5' exonuclease
+dde:Dde_2389	4Fe-4S ferredoxin iron-sulfur binding domain-containing protein
+dde:Dde_2390	nitrite and sulphite reductase 4Fe-4S region
+dde:Dde_2392	tRNA modification GTPase TrmE
+dde:Dde_2393	single-stranded nucleic acid binding R3H domain-containing protein
+dde:Dde_2394	membrane protein insertase, YidC/Oxa1 family
+dde:Dde_2395	protein of unknown function DUF37
+dde:Dde_2396	Ribonuclease P protein component
+dde:Dde_2398	hypothetical protein
+dde:Dde_2399	hypothetical protein
+dde:Dde_2400	Hpt domain protein
+dde:Dde_2401	hypothetical protein
+dde:Dde_2402	apurinic endonuclease Apn1
+dde:Dde_2403	hypothetical protein
+dde:Dde_2405	small multidrug resistance protein
+dde:Dde_2406	small multidrug resistance protein
+dde:Dde_2408	YcaO-domain protein
+dde:Dde_2409	Na+/Ca+ antiporter, CaCA family
+dde:Dde_2410	hypothetical protein
+dde:Dde_2411	methyl-accepting chemotaxis sensory transducer with Cache sensor
+dde:Dde_2412	metallophosphoesterase
+dde:Dde_2413	nitroreductase
+dde:Dde_2414	hypothetical protein
+dde:Dde_2415	protein of unknown function DUF115
+dde:Dde_2417	protein of unknown function DUF77
+dde:Dde_2418	MATE efflux family protein
+dde:Dde_2419	phosphoesterase PA-phosphatase related protein
+dde:Dde_2420	glycosyl transferase family protein
+dde:Dde_2421	Rhomboid family protein
+dde:Dde_2422	FxsA cytoplasmic membrane protein
+dde:Dde_2424	protein of unknown function DUF6 transmembrane
+dde:Dde_2425	ribosomal protein L28
+dde:Dde_2426	protein of unknown function DUF177
+dde:Dde_4007	50S ribosomal protein L32
+dde:Dde_2427	fatty acid/phospholipid synthesis protein PlsX
+dde:Dde_2428	3-oxoacyl-(acyl-carrier-protein) synthase III
+dde:Dde_2429	3-oxoacyl-(acyl-carrier-protein) reductase
+dde:Dde_2430	acyl carrier protein
+dde:Dde_2431	3-oxoacyl-(acyl-carrier-protein) synthase 2
+dde:Dde_2432	Glycine hydroxymethyltransferase
+dde:Dde_2433	CMP/dCMP deaminase zinc-binding protein
+dde:Dde_2434	riboflavin biosynthesis protein RibD
+dde:Dde_2435	riboflavin synthase, alpha subunit
+dde:Dde_2436	GTP cyclohydrolase II
+dde:Dde_2437	6,7-dimethyl-8-ribityllumazine synthase
+dde:Dde_2438	NusB antitermination factor
+dde:Dde_2439	leucyl-tRNA synthetase
+dde:Dde_2440	putative lipoprotein
+dde:Dde_2441	hypothetical protein
+dde:Dde_4039	hypothetical protein
+dde:Dde_2442	DNA repair protein RadC
+dde:Dde_2443	acylphosphatase
+dde:Dde_2444	anti-sigma H sporulation factor, LonB
+dde:Dde_2445	hypothetical protein
+dde:Dde_2446	ATP-dependent DNA helicase RecQ
+dde:Dde_2447	diguanylate cyclase/phosphodiesterase with PAS/PAC and GAF sensor(s)
+dde:Dde_2448	protein of unknown function UPF0118
+dde:Dde_2449	hypothetical protein
+dde:Dde_2450	hypothetical protein
+dde:Dde_2451	hypothetical protein
+dde:Dde_2452	hypothetical protein
+dde:Dde_2453	MazG family protein
+dde:Dde_2454	Colicin V production protein
+dde:Dde_2455	metal dependent phosphohydrolase
+dde:Dde_2456	PAS domain containing protein
+dde:Dde_2457	response regulator receiver modulated metal dependent phosphohydrolase
+dde:Dde_2458	thiamineS protein
+dde:Dde_2459	UBA/THIF-type NAD/FAD binding protein
+dde:Dde_2460	Aldehyde ferredoxin oxidoreductase
+dde:Dde_2461	hypothetical protein
+dde:Dde_2462	hypothetical protein
+dde:Dde_2463	hypothetical protein
+dde:Dde_2464	hypothetical protein
+dde:Dde_2466	FAD dependent oxidoreductase
+dde:Dde_2468	virulence factor MVIN family protein
+dde:Dde_2470	hypothetical protein
+dde:Dde_2471	HAD-superfamily hydrolase, subfamily IA, variant 3
+dde:Dde_2473	chaperonin GroEL
+dde:Dde_2474	Chaperonin Cpn10
+dde:Dde_2476	methionine transporter from the Na+/H+ antiporter superfamily
+dde:Dde_2477	ABC transporter related protein
+dde:Dde_2478	hypothetical protein
+dde:Dde_2479	protein of unknown function DUF520
+dde:Dde_2480	DEAD/DEAH box helicase domain protein
+dde:Dde_2481	aminoglycoside phosphotransferase
+dde:Dde_2482	peptide methionine sulfoxide reductase
+dde:Dde_2483	hypothetical protein
+dde:Dde_2484	protein of unknown function DUF88
+dde:Dde_2486	excinuclease ABC, A subunit
+dde:Dde_2488	protein of unknown function DUF554
+dde:Dde_R0051	tRNA-Leu
+dde:Dde_2490	transcriptional regulator, LysR family
+dde:Dde_2491	hypothetical protein
+dde:Dde_2492	AAA family ATPase
+dde:Dde_2493	type III restriction protein res subunit
+dde:Dde_2494	filamentation induced by cAMP protein Fic
+dde:Dde_2495	hypothetical protein
+dde:Dde_2496	restriction modification system DNA specificity domain-containing protein
+dde:Dde_2497	hypothetical protein
+dde:Dde_2498	Site-specific DNA-methyltransferase (adenine-specific)
+dde:Dde_2499	Type I site-specific deoxyribonuclease
+dde:Dde_2500	helix-turn-helix domain protein
+dde:Dde_2501	hypothetical protein
+dde:Dde_2502	Protein of unknown function DUF2179
+dde:Dde_2506	sulfate transporter
+dde:Dde_2507	PEP motif putative anchor domain protein
+dde:Dde_2509	PEP motif putative anchor domain protein
+dde:Dde_2510	PEP motif putative anchor domain protein
+dde:Dde_2512	transcription elongation factor GreA
+dde:Dde_2513	Integrase catalytic region
+dde:Dde_2515	protein of unknown function DUF401
+dde:Dde_2516	monofunctional biosynthetic peptidoglycan transglycosylase
+dde:Dde_2518	diguanylate cyclase with PAS/PAC sensor
+dde:Dde_2519	phage/conjugal plasmid C-4 type zinc finger protein, TraR family
+dde:Dde_2520	Protein of unknown function DUF2179
+dde:Dde_2521	protein of unknown function DUF1498
+dde:Dde_2522	PfkB domain protein
+dde:Dde_2523	HAD-superfamily hydrolase, subfamily IA, variant 3
+dde:Dde_2524	nitroreductase
+dde:Dde_2525	5,10-methylenetetrahydrofolate reductase
+dde:Dde_2527	hypothetical protein
+dde:Dde_2528	hypothetical protein
+dde:Dde_2530	argininosuccinate lyase
+dde:Dde_2531	argininosuccinate synthase
+dde:Dde_2532	ornithine carbamoyltransferase
+dde:Dde_2533	response regulator receiver protein
+dde:Dde_2534	glycosyl transferase family 2
+dde:Dde_2535	ApbE family lipoprotein
+dde:Dde_2536	hypothetical protein
+dde:Dde_2537	transcriptional regulator, TetR family
+dde:Dde_2538	hypothetical protein
+dde:Dde_2542	hypothetical protein
+dde:Dde_2543	hypothetical protein
+dde:Dde_2544	hypothetical protein
+dde:Dde_2545	hypothetical protein
+dde:Dde_2546	hypothetical protein
+dde:Dde_4003	hypothetical protein
+dde:Dde_2547	hypothetical protein
+dde:Dde_2548	hypothetical protein
+dde:Dde_2549	hypothetical protein
+dde:Dde_2550	hypothetical protein
+dde:Dde_2551	hypothetical protein
+dde:Dde_2552	Lytic transglycosylase catalytic
+dde:Dde_2555	hypothetical protein
+dde:Dde_2556	phage uncharacterized protein
+dde:Dde_2557	hypothetical protein
+dde:Dde_2558	diguanylate cyclase/phosphodiesterase with PAS/PAC sensor(s)
+dde:Dde_2559	glycoside hydrolase family 3 domain protein
+dde:Dde_2560	Peroxiredoxin
+dde:Dde_2561	Rhodanese-like protein
+dde:Dde_2562	Pyridine nucleotide-disulfide oxidoreductase family protein
+dde:Dde_2563	metal dependent phosphohydrolase
+dde:Dde_2564	hypothetical protein
+dde:Dde_2565	MscS Mechanosensitive ion channel
+dde:Dde_4040	hypothetical protein
+dde:Dde_2566	dienelactone hydrolase-like protein
+dde:Dde_2567	hypothetical protein
+dde:Dde_2568	hypothetical protein
+dde:Dde_4041	hypothetical protein
+dde:Dde_2569	hypothetical protein
+dde:Dde_2572	hypothetical protein
+dde:Dde_2573	lipoprotein
+dde:Dde_2575	Radical SAM domain protein
+dde:Dde_2576	Porphobilinogen synthase
+dde:Dde_2577	Radical SAM domain protein
+dde:Dde_2578	Putative heme biosynthesis protein
+dde:Dde_2579	transcriptional regulator, GntR family
+dde:Dde_2580	Na+/H+ antiporter NhaC-like protein
+dde:Dde_2581	pyridoxal phosphate-dependent enzymes, D-cysteine desulfhydrase family
+dde:Dde_2582	endoribonuclease L-PSP
+dde:Dde_2584	ABC-type transporter, periplasmic subunit family 3
+dde:Dde_2585	methyl-accepting chemotaxis sensory transducer
+dde:Dde_R0087	5S ribosomal RNA
+dde:Dde_R0053	23S ribosomal RNA
+dde:Dde_R0054	tRNA-Ala
+dde:Dde_R0055	tRNA-Ile
+dde:Dde_R0056	16S ribosomal RNA
+dde:Dde_2591	hypothetical protein
+dde:Dde_2592	hypothetical protein
+dde:Dde_2593	ABC-type transporter, integral membrane subunit
+dde:Dde_2594	ABC-type transporter, integral membrane subunit
+dde:Dde_2596	SMC domain protein
+dde:Dde_2597	hypothetical protein
+dde:Dde_2598	ribonuclease R
+dde:Dde_2600	tetraacyldisaccharide 4'-kinase
+dde:Dde_2601	protein of unknown function UPF0005
+dde:Dde_2602	hypothetical protein
+dde:Dde_2603	glycoside hydrolase family protein
+dde:Dde_2604	CBS domain containing protein
+dde:Dde_2605	hypothetical protein
+dde:Dde_2607	ribosomal protein L13
+dde:Dde_2608	ribosomal protein S9
+dde:Dde_2609	shikimate kinase
+dde:Dde_2610	hypothetical protein
+dde:Dde_2611	putative lipoprotein
+dde:Dde_2613	transcriptional regulator, MucR family
+dde:Dde_2615	glutamyl-tRNA(Gln) amidotransferase, B subunit
+dde:Dde_2616	hypothetical protein
+dde:Dde_2617	hypothetical protein
+dde:Dde_2618	ATP-NAD/AcoX kinase
+dde:Dde_2619	Phosphoheptose isomerase
+dde:Dde_2620	regulatory protein, FmdB family
+dde:Dde_2621	porphobilinogen deaminase
+dde:Dde_2622	ABC-type sugar transport system, ATPase component
+dde:Dde_2623	Protein of unknown function DUF2219
+dde:Dde_2624	Protein of unknown function DUF2064
+dde:Dde_2625	glycosyl transferase family 2
+dde:Dde_2626	peptidase S16, lon domain-containing protein
+dde:Dde_2627	hypothetical protein
+dde:Dde_2628	hypothetical protein
+dde:Dde_2630	Phosphoglycerate kinase
+dde:Dde_2631	transketolase
+dde:Dde_2632	ribulose-phosphate 3-epimerase
+dde:Dde_2633	transcriptional regulator, MerR family
+dde:Dde_2634	phenylalanyl-tRNA synthetase, beta subunit
+dde:Dde_2635	phenylalanyl-tRNA synthetase, alpha subunit
+dde:Dde_2636	ribosomal protein L20
+dde:Dde_2637	ribosomal protein L35
+dde:Dde_2638	Translation initiation factor IF-3
+dde:Dde_2639	threonyl-tRNA synthetase
+dde:Dde_R0057	tRNA-Val
+dde:Dde_2641	hybrid cluster protein
+dde:Dde_2642	4Fe-4S ferredoxin iron-sulfur binding domain-containing protein
+dde:Dde_2643	UspA domain-containing protein
+dde:Dde_2644	transcriptional regulator, Crp/Fnr family
+dde:Dde_2645	hypothetical protein
+dde:Dde_2646	Uncharacterized protein family UPF0066
+dde:Dde_2647	phenylacetic acid degradation-related protein
+dde:Dde_2648	glutamyl-tRNA synthetase
+dde:Dde_2650	Uncharacterized conserved protein UCP018688
+dde:Dde_2651	MATE efflux family protein
+dde:Dde_2652	hypothetical protein
+dde:Dde_2653	hypothetical protein
+dde:Dde_2654	biotin/acetyl-CoA-carboxylase ligase
+dde:Dde_2655	biotin synthase
+dde:Dde_2656	adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+dde:Dde_2657	Beta-hydroxyacyl-(acyl-carrier-protein) dehydratase FabA/FabZ
+dde:Dde_2658	short-chain dehydrogenase/reductase SDR
+dde:Dde_2659	phosphopantetheine-binding protein
+dde:Dde_2660	Beta-ketoacyl-acyl-carrier-protein synthase I
+dde:Dde_2661	hypothetical protein
+dde:Dde_2662	8-amino-7-oxononanoate synthase
+dde:Dde_2663	dethiobiotin synthase
+dde:Dde_2664	diaminopimelate decarboxylase
+dde:Dde_2665	putative transcriptional regulator for lysine biosynthesis and transport
+dde:Dde_2667	amidohydrolase
+dde:Dde_2668	peptidylprolyl isomerase FKBP-type
+dde:Dde_2669	ferrous iron transport protein B
+dde:Dde_2670	ferrous iron transporter component feoA
+dde:Dde_2672	hypothetical protein
+dde:Dde_2673	ferrous iron transporter component feoA
+dde:Dde_2674	two component transcriptional regulator, LuxR family
+dde:Dde_2675	Hpt domain protein
+dde:Dde_2676	ferric uptake regulation protein
+dde:Dde_2677	metalloprotease, iron regulated
+dde:Dde_2679	hypothetical protein
+dde:Dde_2680	diguanylate cyclase
+dde:Dde_2681	hypothetical protein
+dde:Dde_2682	glycoside hydrolase family 13 domain protein
+dde:Dde_2684	DNA binding domain protein, excisionase family
+dde:Dde_2685	hypothetical protein
+dde:Dde_2687	PAS/PAC sensor signal transduction histidine kinase
+dde:Dde_2688	phosphomethylpyrimidine kinase
+dde:Dde_2689	glutamate 5-kinase
+dde:Dde_2690	GTPase obg
+dde:Dde_2691	ribosomal protein L27
+dde:Dde_2692	ribosomal protein L21
+dde:Dde_2693	glucose-1-phosphate thymidylyltransferase
+dde:Dde_4042	hypothetical protein
+dde:Dde_2695	RNA methyltransferase, TrmA family
+dde:Dde_2698	ATP synthase protein I
+dde:Dde_2699	hypothetical protein
+dde:Dde_2700	ATP synthase F0, A subunit
+dde:Dde_2701	ATP synthase subunit c
+dde:Dde_2702	CoA-binding domain protein
+dde:Dde_2703	protein of unknown function DUF62
+dde:Dde_2704	cobalamin-5-phosphate synthase CobS
+dde:Dde_2705	flagellar export protein FliJ
+dde:Dde_2706	hypothetical protein
+dde:Dde_2707	tRNA pseudouridine synthase A
+dde:Dde_2708	flagellar motor switch protein FliM
+dde:Dde_2710	hypothetical protein
+dde:Dde_2711	iron-sulfur cluster-binding protein
+dde:Dde_2712	Ribosomal small subunit Rsm22
+dde:Dde_2713	lipoate-protein ligase B
+dde:Dde_2714	lipoic acid synthetase
+dde:Dde_2715	single-stranded-DNA-specific exonuclease RecJ
+dde:Dde_2716	putative signal transduction protein
+dde:Dde_2717	Tetratricopeptide TPR_1 repeat-containing protein
+dde:Dde_2718	orotidine 5'-phosphate decarboxylase
+dde:Dde_2719	guanylate kinase
+dde:Dde_2720	protein of unknown function DUF370
+dde:Dde_2721	YicC-like domain-containing protein
+dde:Dde_2722	RNA modification enzyme, MiaB family
+dde:Dde_2724	NLP/P60 protein
+dde:Dde_2725	helicase, RecD/TraA family
+dde:Dde_2726	chorismate synthase
+dde:Dde_2727	UspA domain-containing protein
+dde:Dde_2728	Shikimate kinase
+dde:Dde_2729	major facilitator superfamily MFS_1
+dde:Dde_2730	LL-diaminopimelate aminotransferase
+dde:Dde_2731	homoserine dehydrogenase
+dde:Dde_2732	Phosphoglycerate mutase
+dde:Dde_2733	MltA domain protein
+dde:Dde_2734	methyl-accepting chemotaxis sensory transducer with Cache sensor
+dde:Dde_2735	4-hydroxybenzoyl-CoA thioesterase
+dde:Dde_2736	amidohydrolase 2
+dde:Dde_2738	ferredoxin thioredoxin reductase beta chain
+dde:Dde_2739	glutaredoxin
+dde:Dde_2740	hypothetical protein
+dde:Dde_2741	small GTP-binding protein
+dde:Dde_2742	Phosphomethylpyrimidine kinase type-1
+dde:Dde_2743	glutamate racemase
+dde:Dde_2744	Serine--pyruvate transaminase
+dde:Dde_2747	lysine 2,3-aminomutase YodO family protein
+dde:Dde_2749	Rubredoxin-type Fe(Cys)4 protein
+dde:Dde_2750	transport-associated protein
+dde:Dde_2751	Glycerate kinase
+dde:Dde_2752	histone family protein DNA-binding protein
+dde:Dde_2753	transcription activator effector binding protein
+dde:Dde_2754	hypothetical protein
+dde:Dde_2755	Tetratricopeptide TPR_1 repeat-containing protein
+dde:Dde_2758	peptidase M29 aminopeptidase II
+dde:Dde_2759	hypothetical protein
+dde:Dde_2760	type IV pilus assembly PilZ
+dde:Dde_2761	Tetratricopeptide TPR_1 repeat-containing protein
+dde:Dde_2762	histidine kinase
+dde:Dde_2763	Phosphonate-transporting ATPase
+dde:Dde_2764	ABC-type transporter, periplasmic subunit family 3
+dde:Dde_2765	polar amino acid ABC transporter, inner membrane subunit
+dde:Dde_2766	glycosyl transferase group 1
+dde:Dde_2767	phosphoribosylglycinamide formyltransferase 2
+dde:Dde_2768	Extracellular ligand-binding receptor
+dde:Dde_2769	multi-sensor hybrid histidine kinase
+dde:Dde_2770	hypothetical protein
+dde:Dde_2771	Na+/H+ antiporter NhaA
+dde:Dde_2772	protein of unknown function DUF23
+dde:Dde_2773	magnesium chelatase ChlI subunit
+dde:Dde_2774	Recombinase
+dde:Dde_2776	transcriptional regulator, ArsR family
+dde:Dde_2777	Protein of unknown function DUF318, transmembrane
+dde:Dde_2778	redox-active disulfide protein 2
+dde:Dde_4043	DGC domain protein
+dde:Dde_2781	Thioredoxin domain-containing protein
+dde:Dde_2782	cytochrome c biogenesis protein transmembrane region
+dde:Dde_2783	rhodanese domain-containing protein
+dde:Dde_2786	Rhodanese-like protein
+dde:Dde_2787	protein of unknown function DUF81
+dde:Dde_4044	hypothetical protein
+dde:Dde_4055	transcriptional regulator, ArsR family
+dde:Dde_2791	arsenical-resistance protein
+dde:Dde_2792	arsenate reductase
+dde:Dde_2793	arsenate reductase
+dde:Dde_2795	prophage antirepressor
+dde:Dde_2796	Phage P22, antirepressor protein
+dde:Dde_2798	heat shock protein Hsp20
+dde:Dde_2799	phage regulatory protein, Rha family
+dde:Dde_2800	restriction endonuclease
+dde:Dde_2801	pseudogene
+dde:Dde_2803	Resolvase domain-containing protein
+dde:Dde_2804	hypothetical protein
+dde:Dde_2805	prophage antirepressor
+dde:Dde_2806	phage regulatory protein, Rha family
+dde:Dde_2807	nuclease (SNase domain-containing protein)
+dde:Dde_2808	magnesium chelatase ChlI subunit
+dde:Dde_2809	hypothetical protein
+dde:Dde_2810	hypothetical protein
+dde:Dde_2811	hypothetical protein
+dde:Dde_2814	methyl-accepting chemotaxis sensory transducer
+dde:Dde_2816	signal peptidase I
+dde:Dde_2817	GTP-binding protein LepA
+dde:Dde_2819	hypothetical protein
+dde:Dde_2820	protein tyrosine phosphatase
+dde:Dde_2822	two component transcriptional regulator, LytTR family
+dde:Dde_2823	acetate/CoA ligase
+dde:Dde_2824	hypothetical protein
+dde:Dde_2825	PAS modulated sigma54 specific transcriptional regulator, Fis family
+dde:Dde_2826	PAS/PAC sensor signal transduction histidine kinase
+dde:Dde_2827	UspA domain-containing protein
+dde:Dde_2828	hypothetical protein
+dde:Dde_2829	major facilitator superfamily MFS_1
+dde:Dde_2830	AMMECR1 domain protein
+dde:Dde_2831	Extracellular ligand-binding receptor
+dde:Dde_2832	signal transduction histidine kinase, nitrogen specific, NtrB
+dde:Dde_2833	Lysine exporter protein (LYSE/YGGA)
+dde:Dde_2834	transcriptional regulator, LysR family
+dde:Dde_2835	phosphoribosylglycinamide formyltransferase
+dde:Dde_2836	MOSC domain containing protein
+dde:Dde_2837	uroporphyrin-III C-methyltransferase
+dde:Dde_2839	valyl-tRNA synthetase
+dde:Dde_2840	hypothetical protein
+dde:Dde_2841	Domain of unknown function DUF1848
+dde:Dde_2842	hypothetical protein
+dde:Dde_2843	hypothetical protein
+dde:Dde_2844	Queuine tRNA-ribosyltransferase
+dde:Dde_2846	protein of unknown function DUF218
+dde:Dde_2848	protein of unknown function DUF255
+dde:Dde_2849	transposase IS4 family protein
+dde:Dde_2850	protein of unknown function DUF255
+dde:Dde_2852	amino acid carrier protein
+dde:Dde_2853	hypothetical protein
+dde:Dde_2854	hypothetical protein
+dde:Dde_2855	sulphate transporter
+dde:Dde_2856	protein of unknown function DUF6 transmembrane
+dde:Dde_2857	methyl-accepting chemotaxis sensory transducer with Pas/Pac sensor
+dde:Dde_2858	cytochrome c family protein
+dde:Dde_2859	Integrase catalytic region
+dde:Dde_2862	hypothetical protein
+dde:Dde_2865	integrase family protein
+dde:Dde_2866	hypothetical protein
+dde:Dde_2867	filamentation induced by cAMP protein Fic
+dde:Dde_2868	N-6 DNA methylase
+dde:Dde_2869	restriction modification system DNA specificity domain-containing protein
+dde:Dde_2870	Restriction endonuclease, type I, EcoRI, R subunit/Type III
+dde:Dde_2871	transposase IS204/IS1001/IS1096/IS1165 family protein
+dde:Dde_2872	pseudogene
+dde:Dde_2875	methyltransferase FkbM family
+dde:Dde_2876	glycosyl transferase family 2
+dde:Dde_2877	glycosyl transferase family 11
+dde:Dde_2878	protein of unknown function DUF268
+dde:Dde_2879	glycosyl transferase family 2
+dde:Dde_2880	Methyltransferase type 11
+dde:Dde_2881	putative acetyltransferase
+dde:Dde_2882	hypothetical protein
+dde:Dde_2883	sugar transferase
+dde:Dde_2885	glycosyl transferase group 1
+dde:Dde_2886	methyltransferase FkbM family
+dde:Dde_2887	glycosyl transferase group 1
+dde:Dde_2888	UDP-glucose 4-epimerase
+dde:Dde_2889	glycosyl transferase family 2
+dde:Dde_2890	glycosyl transferase group 1
+dde:Dde_2891	asparagine synthase (glutamine-hydrolyzing)
+dde:Dde_2892	Methyltransferase type 11
+dde:Dde_2893	hypothetical protein
+dde:Dde_2894	methyltransferase FkbM family
+dde:Dde_2895	Teichoic-acid-transporting ATPase
+dde:Dde_2896	ABC-2 type transporter
+dde:Dde_2897	pseudogene
+dde:Dde_2900	GDP-L-fucose synthase
+dde:Dde_2901	GDP-mannose 4,6-dehydratase
+dde:Dde_2903	plasmid stabilization system
+dde:Dde_2904	transcriptional regulator, CopG family
+dde:Dde_2906	transposase IS3/IS911 family protein
+dde:Dde_2908	IstB domain protein ATP-binding protein
+dde:Dde_2909	Integrase catalytic region
+dde:Dde_2910	addiction module antidote protein, CC2985 family
+dde:Dde_2911	plasmid stabilization system
+dde:Dde_4045	hypothetical protein
+dde:Dde_2915	filamentation induced by cAMP protein Fic
+dde:Dde_2917	hypothetical protein
+dde:Dde_2919	hypothetical protein
+dde:Dde_2920	von Willebrand factor type A
+dde:Dde_2921	hypothetical protein
+dde:Dde_2922	ATPase associated with various cellular activities AAA_5
+dde:Dde_2923	hypothetical protein
+dde:Dde_2924	ERF family protein
+dde:Dde_2926	hypothetical protein
+dde:Dde_2927	hypothetical protein
+dde:Dde_2928	hypothetical protein
+dde:Dde_R0058	tRNA-Ser
+dde:Dde_2929	histidine kinase
+dde:Dde_2930	dTDP-4-dehydrorhamnose 3,5-epimerase
+dde:Dde_2931	mannose-1-phosphate guanylyltransferase/mannose-6-phosphate isomerase
+dde:Dde_2932	hypothetical protein
+dde:Dde_2933	molybdopterin oxidoreductase
+dde:Dde_2934	4Fe-4S ferredoxin iron-sulfur binding domain-containing protein
+dde:Dde_2935	polysulphide reductase NrfD
+dde:Dde_2939	hypothetical protein
+dde:Dde_2940	type IV pilus assembly PilZ
+dde:Dde_2941	Ribonuclease H
+dde:Dde_2942	hypothetical protein
+dde:Dde_2943	Aldehyde ferredoxin oxidoreductase
+dde:Dde_2944	4Fe-4S ferredoxin iron-sulfur binding domain-containing protein
+dde:Dde_2945	phosphoglucomutase/phosphomannomutase alpha/beta/alpha domain I
+dde:Dde_2946	HflK protein
+dde:Dde_2947	HflC protein
+dde:Dde_2949	CI repressor
+dde:Dde_2950	signal transduction histidine kinase, nitrogen specific, NtrB
+dde:Dde_2951	PAS/PAC sensor signal transduction histidine kinase
+dde:Dde_2952	two component, sigma54 specific, transcriptional regulator, Fis family
+dde:Dde_2953	ABC transporter related protein
+dde:Dde_2954	BioY protein
+dde:Dde_2955	Methyltransferase-16
+dde:Dde_2956	transcriptional regulator NikR, CopG family
+dde:Dde_2957	GTP cyclohydrolase I
+dde:Dde_2958	flagellar basal body rod protein
+dde:Dde_2959	sigma54 specific transcriptional regulator, Fis family
+dde:Dde_2960	Tetratricopeptide TPR_2 repeat-containing protein
+dde:Dde_2961	UPF0103/Mediator of ErbB2-driven cell motility-containing protein
+dde:Dde_2962	hypothetical protein
+dde:Dde_2963	S-adenosylhomocysteine deaminase
+dde:Dde_2964	aspartate carbamoyltransferase
+dde:Dde_2965	dihydroorotase, multifunctional complex type
+dde:Dde_2966	metal dependent phosphohydrolase
+dde:Dde_2967	radical SAM enzyme, Cfr family
+dde:Dde_2968	methyl-accepting chemotaxis sensory transducer with Cache sensor
+dde:Dde_2972	hypothetical protein
+dde:Dde_2973	DNA-directed DNA polymerase
+dde:Dde_2974	Peptidase S24/S26A/S26B, conserved region
+dde:Dde_2975	hypothetical protein
+dde:Dde_2976	hypothetical protein
+dde:Dde_2977	transcriptional regulator, MarR family
+dde:Dde_2978	protein of unknown function DUF204
+dde:Dde_2979	carbonic anhydrase
+dde:Dde_2980	hypothetical protein
+dde:Dde_2981	hemolysin A
+dde:Dde_2982	ribosomal protein L31
+dde:Dde_2983	protein of unknown function DUF1385
+dde:Dde_2984	peptide chain release factor 1
+dde:Dde_2985	protein-(glutamine-N5) methyltransferase, release factor-specific
+dde:Dde_2986	UDP-3-0-acyl N-acetylglucosamine deacetylase
+dde:Dde_2988	Integrase catalytic region, ISDde2
+dde:Dde_R0059	tRNA-Thr
+dde:Dde_R0060	tRNA-Tyr
+dde:Dde_R0061	tRNA-Gly
+dde:Dde_R0062	tRNA-Thr
+dde:Dde_2989	translation elongation factor Tu
+dde:Dde_4010	50S ribosomal protein L33
+dde:Dde_R0063	tRNA-Trp
+dde:Dde_2990	preprotein translocase, SecE subunit
+dde:Dde_2991	NusG antitermination factor
+dde:Dde_2992	ribosomal protein L11
+dde:Dde_2993	ribosomal protein L1
+dde:Dde_2994	ribosomal protein L10
+dde:Dde_2995	ribosomal protein L7/L12
+dde:Dde_2997	DNA-directed RNA polymerase, beta subunit
+dde:Dde_2998	DNA-directed RNA polymerase, beta' subunit
+dde:Dde_2999	hypothetical protein
+dde:Dde_3000	multi-sensor signal transduction histidine kinase
+dde:Dde_3001	domain of unknown function DUF1731
+dde:Dde_3002	putative PAS/PAC sensor protein
+dde:Dde_3003	two component, sigma54 specific, transcriptional regulator, Fis family
+dde:Dde_3004	phosphoglycerate mutase 1 family
+dde:Dde_3005	Ion transport protein
+dde:Dde_3006	Tetratricopeptide TPR_2 repeat-containing protein
+dde:Dde_3007	protein of unknown function DUF39
+dde:Dde_3008	hypothetical protein
+dde:Dde_4046	hypothetical protein
+dde:Dde_3010	regulatory protein, FmdB family
+dde:Dde_3011	adenylosuccinate lyase
+dde:Dde_3012	orotate phosphoribosyltransferase
+dde:Dde_3013	ErfK/YbiS/YcfS/YnhG family protein
+dde:Dde_3014	hypothetical protein
+dde:Dde_3015	hypothetical protein
+dde:Dde_3016	anaerobic ribonucleoside-triphosphate reductase
+dde:Dde_3018	flagellin domain protein
+dde:Dde_3019	protein of unknown function DUF6 transmembrane
+dde:Dde_3020	methyl-accepting chemotaxis sensory transducer with Cache sensor
+dde:Dde_3021	nitroreductase
+dde:Dde_3022	diguanylate cyclase/phosphodiesterase
+dde:Dde_3023	4Fe-4S ferredoxin iron-sulfur binding domain-containing protein
+dde:Dde_3024	GCN5-related N-acetyltransferase
+dde:Dde_R0064	tRNA-Asp
+dde:Dde_R0065	tRNA-Val
+dde:Dde_3025	hypothetical protein
+dde:Dde_3026	hypothetical protein
+dde:Dde_3027	transcriptional regulator, Crp/Fnr family
+dde:Dde_3028	carbon-monoxide dehydrogenase, catalytic subunit
+dde:Dde_3029	cobyrinic acid ac-diamide synthase
+dde:Dde_3030	hypothetical protein
+dde:Dde_3031	hypothetical protein
+dde:Dde_3032	hypothetical protein
+dde:Dde_3033	amidohydrolase
+dde:Dde_3034	L-serine ammonia-lyase
+dde:Dde_3035	methyltransferase FkbM family
+dde:Dde_3036	protein of unknown function DUF21
+dde:Dde_R0066	tRNA-Asp
+dde:Dde_3038	signal transduction histidine kinase, nitrogen specific, NtrB
+dde:Dde_3039	pyruvate formate-lyase PFL
+dde:Dde_3040	putative two component, sigma54 specific, transcriptional regulator
+dde:Dde_3041	lysine 2,3-aminomutase YodO family protein
+dde:Dde_3042	D-alanine--D-alanine ligase
+dde:Dde_3043	D-alanine--D-alanine ligase domain-containing protein
+dde:Dde_3044	GCN5-related N-acetyltransferase
+dde:Dde_3045	Domain of unknown function DUF1987-containing protein
+dde:Dde_3046	hypothetical protein
+dde:Dde_3047	protein serine/threonine phosphatase
+dde:Dde_3048	diguanylate cyclase with PAS/PAC sensor
+dde:Dde_3051	PAS modulated sigma54 specific transcriptional regulator, Fis family
+dde:Dde_3053	major facilitator superfamily MFS_1
+dde:Dde_3054	glycyl-radical enzyme activating protein family
+dde:Dde_3055	pyruvate formate-lyase PFL
+dde:Dde_R0067	tRNA-Arg
+dde:Dde_3058	FolC bifunctional protein
+dde:Dde_3059	L-seryl-tRNA(Sec) selenium transferase
+dde:Dde_3060	UDP-glucuronate decarboxylase
+dde:Dde_3061	Aspartyl aminopeptidase
+dde:Dde_3062	Alcohol dehydrogenase
+dde:Dde_3063	hypothetical protein
+dde:Dde_3064	ribonuclease BN
+dde:Dde_3065	membrane-bound lytic murein transglycosylase B-like protein
+dde:Dde_3068	response regulator receiver modulated CheW protein
+dde:Dde_3069	polar amino acid ABC transporter, inner membrane subunit
+dde:Dde_3070	ABC-type transporter, periplasmic subunit family 3
+dde:Dde_3071	polar amino acid ABC transporter, inner membrane subunit
+dde:Dde_3072	protein of unknown function UPF0047
+dde:Dde_3074	methyl-accepting chemotaxis sensory transducer with Pas/Pac sensor
+dde:Dde_3076	metal dependent phosphohydrolase
+dde:Dde_3077	metal dependent phosphohydrolase
+dde:Dde_3078	Fe-S cluster assembly protein NifU
+dde:Dde_3079	cysteine desulfurase NifS
+dde:Dde_3080	cysteine synthase A
+dde:Dde_3081	Serine O-acetyltransferase
+dde:Dde_3083	Glyoxalase/bleomycin resistance protein/dioxygenase
+dde:Dde_3084	diguanylate phosphodiesterase metal dependent hydrolase domain-containing protein
+dde:Dde_3085	hypothetical protein
+dde:Dde_3086	cobalamin B12-binding domain protein
+dde:Dde_3087	diguanylate cyclase
+dde:Dde_3088	glycogen/starch/alpha-glucan phosphorylase
+dde:Dde_3089	dihydrouridine synthase DuS
+dde:Dde_3090	phosphodiesterase, MJ0936 family
+dde:Dde_3091	heat shock protein Hsp20
+dde:Dde_3092	heat shock protein Hsp20
+dde:Dde_3093	protein of unknown function DUF343
+dde:Dde_3094	PHP domain protein
+dde:Dde_3095	peptidase U32
+dde:Dde_3096	PAS sensor protein
+dde:Dde_3097	putative two component, sigma54 specific, transcriptional regulator
+dde:Dde_3099	methylated-DNA/protein-cysteine methyltransferase
+dde:Dde_3100	response regulator receiver modulated CheW protein
+dde:Dde_3101	PAS fold domain protein
+dde:Dde_3102	nucleoside recognition domain protein
+dde:Dde_3103	Sirohydrochlorin cobaltochelatase
+dde:Dde_3104	ABC-type transporter, integral membrane subunit
+dde:Dde_3105	Iron-chelate-transporting ATPase
+dde:Dde_3106	ABC-type transporter, periplasmic subunit
+dde:Dde_3107	precorrin-2 C20-methyltransferase
+dde:Dde_3108	phenazine biosynthesis protein PhzF family
+dde:Dde_3109	protein of unknown function DUF124
+dde:Dde_3111	L-serine ammonia-lyase
+dde:Dde_3112	transcriptional regulator, BadM/Rrf2 family
+dde:Dde_3113	PAS/PAC sensor signal transduction histidine kinase
+dde:Dde_3114	response regulator receiver modulated metal dependent phosphohydrolase
+dde:Dde_3115	Carboxymuconolactone decarboxylase
+dde:Dde_3116	Molybdopterin-guanine dinucleotide biosynthesis protein A
+dde:Dde_3117	hypothetical protein
+dde:Dde_3118	hypothetical protein
+dde:Dde_3119	thiamine biosynthesis Thi4 protein
+dde:Dde_3121	Aldehyde dehydrogenase (NAD(+))
+dde:Dde_3122	glycosyl transferase family 39
+dde:Dde_3123	hypothetical protein
+dde:Dde_3124	penicillin-binding protein, 1A family
+dde:Dde_3125	Conserved hypothetical protein CHP02231
+dde:Dde_3126	Alcohol dehydrogenase
+dde:Dde_3127	regulatory protein TetR
+dde:Dde_3128	butyrate kinase
+dde:Dde_3129	Phosphate butyryltransferase
+dde:Dde_3130	acetolactate synthase, small subunit
+dde:Dde_3132	hypothetical protein
+dde:Dde_3133	Rhodanese-like protein
+dde:Dde_3134	adenosylhomocysteinase
+dde:Dde_3135	transcriptional regulator, ArsR family
+dde:Dde_3136	protein of unknown function DUF721
+dde:Dde_R0068	tRNA-Glu
+dde:Dde_3137	transcriptional regulator, AraC family
+dde:Dde_3138	membrane protein
+dde:Dde_3139	cupin 2 conserved barrel domain-containing protein
+dde:Dde_3140	Carboxymuconolactone decarboxylase
+dde:Dde_3141	NADPH-dependent FMN reductase
+dde:Dde_3142	hypothetical protein
+dde:Dde_3144	hypothetical protein
+dde:Dde_3146	hypothetical protein
+dde:Dde_3148	ABC-type transporter, periplasmic subunit family 3
+dde:Dde_3149	Flagellar assembly factor FliW
+dde:Dde_3150	carbon storage regulator, CsrA
+dde:Dde_3151	flagellar hook-associated protein 3
+dde:Dde_3152	flagellar hook-associated protein FlgK
+dde:Dde_3153	FlgN family protein
+dde:Dde_3154	Peptidase M23
+dde:Dde_3155	flagellar P-ring protein
+dde:Dde_3156	flagellar L-ring protein
+dde:Dde_3157	flagella basal body P-ring formation protein FlgA
+dde:Dde_3158	flagellar basal-body rod protein FlgG
+dde:Dde_3159	flagellar basal-body rod protein FlgF
+dde:Dde_3160	Ribosome maturation factor rimP
+dde:Dde_3161	NusA antitermination factor
+dde:Dde_4056	protein of unknown function DUF448
+dde:Dde_3162	translation initiation factor IF-2
+dde:Dde_3163	protein of unknown function DUF503
+dde:Dde_3164	phosphoesterase RecJ domain protein
+dde:Dde_3165	tRNA pseudouridine synthase B
+dde:Dde_3166	ribosomal protein S15
+dde:Dde_3167	polyribonucleotide nucleotidyltransferase
+dde:Dde_3169	hypothetical protein
+dde:Dde_3170	ribosome biogenesis GTPase RsgA
+dde:Dde_3171	GCN5-related N-acetyltransferase
+dde:Dde_4047	hypothetical protein
+dde:Dde_3173	selenocysteine-specific translation elongation factor
+dde:Dde_3174	ABC-type transporter, periplasmic subunit
+dde:Dde_3175	protein of unknown function UPF0047
+dde:Dde_3176	AzlC family protein
+dde:Dde_3177	branched-chain amino acid transport
+dde:Dde_3178	NAD-dependent glycerol-3-phosphate dehydrogenase domain protein
+dde:Dde_3179	Putative heme biosynthesis protein
+dde:Dde_3180	glutamate-1-semialdehyde-2,1-aminomutase
+dde:Dde_3181	precorrin-3B C17-methyltransferase
+dde:Dde_3182	cytochrome c class III
+dde:Dde_3183	hypothetical protein
+dde:Dde_3184	hypothetical protein
+dde:Dde_3185	ubiquinone/menaquinone biosynthesis methyltransferase
+dde:Dde_3186	Protein of unknown function DUF2065
+dde:Dde_3187	nucleotide sugar dehydrogenase
+dde:Dde_3188	futalosine nucleosidase
+dde:Dde_3189	Trans-hexaprenyltranstransferase
+dde:Dde_3190	diguanylate cyclase with PAS/PAC sensor
+dde:Dde_3191	Phosphoribosylformylglycinamidine synthase
+dde:Dde_3193	desulfoferrodoxin
+dde:Dde_3194	Rubredoxin-type Fe(Cys)4 protein
+dde:Dde_3195	flavodoxin/nitric oxide synthase
+dde:Dde_3196	PAS modulated sigma54 specific transcriptional regulator, Fis family
+dde:Dde_3197	hypothetical protein
+dde:Dde_3198	Dinitrogenase iron-molybdenum cofactor biosynthesis protein
+dde:Dde_3199	hypothetical protein
+dde:Dde_3200	Cobyrinic acid ac-diamide synthase
+dde:Dde_3201	Cobyrinic acid ac-diamide synthase
+dde:Dde_3202	ATPase-like, ParA/MinD
+dde:Dde_3204	cytochrome bd ubiquinol oxidase subunit I
+dde:Dde_3205	cytochrome d ubiquinol oxidase, subunit II
+dde:Dde_3206	PAS/PAC sensor signal transduction histidine kinase
+dde:Dde_3207	acetate/CoA ligase
+dde:Dde_3208	GCN5-related N-acetyltransferase
+dde:Dde_3209	hypothetical protein
+dde:Dde_3211	split soret cytochrome c precursor
+dde:Dde_3212	CheD
+dde:Dde_3213	histone family protein DNA-binding protein
+dde:Dde_3214	protein of unknown function DUF523
+dde:Dde_3215	Haloacid dehalogenase domain protein hydrolase
+dde:Dde_3216	phosphatidylserine decarboxylase related protein
+dde:Dde_3217	CDP-diacylglycerol/serine O-phosphatidyltransferase
+dde:Dde_3218	2-isopropylmalate synthase
+dde:Dde_3219	homoaconitate hydratase family protein
+dde:Dde_3220	3-isopropylmalate dehydratase, small subunit
+dde:Dde_3221	protein of unknown function DUF89
+dde:Dde_3222	3-isopropylmalate dehydrogenase
+dde:Dde_3223	ABC-type transporter, periplasmic subunit family 3
+dde:Dde_3224	phage shock protein C
+dde:Dde_3225	phage shock protein B
+dde:Dde_3226	phage shock protein A, PspA
+dde:Dde_3227	sigma54 specific transcriptional activator, PspF, Fis family
+dde:Dde_3228	molybdenum cofactor synthesis domain protein
+dde:Dde_3229	YbhB YbcL family protein
+dde:Dde_3230	hypothetical protein
+dde:Dde_3231	putative signal transduction protein
+dde:Dde_3232	hypothetical protein
+dde:Dde_3233	multi-sensor hybrid histidine kinase
+dde:Dde_3234	putative two component, sigma54 specific, transcriptional regulator
+dde:Dde_3237	pyruvate ferredoxin/flavodoxin oxidoreductase
+dde:Dde_3238	L-lactate transport
+dde:Dde_3239	D-lactate dehydrogenase (cytochrome)
+dde:Dde_3240	protein of unknown function DUF224 cysteine-rich region domain protein
+dde:Dde_3241	phosphate acetyltransferase
+dde:Dde_3242	acetate kinase
+dde:Dde_3243	DRTGG domain protein
+dde:Dde_3244	Lactate utilization protein B/C
+dde:Dde_3245	Lactate utilization protein B/C
+dde:Dde_3246	methyl-accepting chemotaxis sensory transducer with Cache sensor
+dde:Dde_3247	protein of unknown function DUF362
+dde:Dde_3248	Rhodanese-like protein
+dde:Dde_R0069	tRNA-Pro
+dde:Dde_R0070	tRNA-Thr
+dde:Dde_3249	acetyltransferase
+dde:Dde_3250	polysaccharide deacetylase
+dde:Dde_3251	hypothetical protein
+dde:Dde_3252	Radical SAM domain protein
+dde:Dde_3253	capsule polysaccharide biosynthesis protein
+dde:Dde_3254	Methyltransferase type 11
+dde:Dde_3255	UDP-N-acetyl-D-glucosamine 2-epimerase, UDP-hydrolysing
+dde:Dde_3256	N-acetylneuraminate synthase
+dde:Dde_3257	N-acylneuraminate cytidylyltransferase
+dde:Dde_3261	methyl-accepting chemotaxis sensory transducer with Cache sensor
+dde:Dde_3263	Sigma 54 interacting domain protein
+dde:Dde_3264	microcompartments protein
+dde:Dde_3265	microcompartments protein
+dde:Dde_3266	Respiratory-chain NADH dehydrogenase domain 51 kDa subunit
+dde:Dde_3267	Alcohol dehydrogenase
+dde:Dde_3268	hypothetical protein
+dde:Dde_3270	microcompartments protein
+dde:Dde_3271	hypothetical protein
+dde:Dde_3272	microcompartments protein
+dde:Dde_3273	Ethanolamine utilization protein EutN/carboxysome structural protein Ccml
+dde:Dde_3274	hypothetical protein
+dde:Dde_3275	Putative shell protein
+dde:Dde_3276	Propanediol utilization protein
+dde:Dde_3278	microcompartments protein
+dde:Dde_3279	acetaldehyde dehydrogenase (acetylating)
+dde:Dde_3280	microcompartments protein
+dde:Dde_3281	glycyl-radical enzyme activating protein family
+dde:Dde_3282	Formate C-acetyltransferase
+dde:Dde_3283	Acetaldehyde dehydrogenase (acetylating)
+dde:Dde_3284	microcompartments protein
+dde:Dde_3288	protein of unknown function DUF6 transmembrane
+dde:Dde_3289	hypothetical protein
+dde:Dde_3291	transcriptional regulator, MerR family
+dde:Dde_3292	hypothetical protein
+dde:Dde_3293	methyl-accepting chemotaxis sensory transducer with Cache sensor
+dde:Dde_3294	hypothetical protein
+dde:Dde_3295	methyl-accepting chemotaxis sensory transducer with Cache sensor
+dde:Dde_3297	YceI family protein
+dde:Dde_3298	Tryptophan/tyrosine permease
+dde:Dde_3299	hypothetical protein
+dde:Dde_3301	Methyltransferase type 12
+dde:Dde_3303	protein of unknown function DUF81
+dde:Dde_3305	choline/carnitine/betaine transporter
+dde:Dde_3306	ABC-type glycine betaine transport, periplasmic subunit
+dde:Dde_3307	hypothetical protein
+dde:Dde_3308	diguanylate cyclase
+dde:Dde_3309	ABC transporter substrate-binding protein
+dde:Dde_3311	autoinducer 2-binding periplasmic protein LuxP precursor
+dde:Dde_3313	hypothetical protein
+dde:Dde_3314	hypothetical protein
+dde:Dde_3315	hypothetical protein
+dde:Dde_3316	glycosyl transferase group 1
+dde:Dde_3317	asparagine synthase (glutamine-hydrolyzing)
+dde:Dde_3318	Methyltransferase type 11
+dde:Dde_3319	hypothetical protein
+dde:Dde_3320	glycosyl transferase family 2
+dde:Dde_3321	sodium/pantothenate symporter
+dde:Dde_3322	protein of unknown function DUF997
+dde:Dde_3324	phosphonate ABC transporter, ATPase subunit
+dde:Dde_3325	phosphonate ABC transporter, periplasmic phosphonate binding protein
+dde:Dde_3326	phosphonate ABC transporter, inner membrane subunit
+dde:Dde_3327	transcriptional regulator, GntR family with UTRA sensor domain-containing protein
+dde:Dde_3328	phosphonate C-P lyase system protein PhnG
+dde:Dde_3329	phosphonate C-P lyase system protein PhnH
+dde:Dde_3330	phosphonate metabolism
+dde:Dde_3331	phosphonate metabolism PhnJ
+dde:Dde_3332	phosphonate C-P lyase system protein PhnK
+dde:Dde_3333	phosphonate C-P lyase system protein PhnL
+dde:Dde_3334	phosphonate metabolism protein PhnM
+dde:Dde_3335	phosphonate metabolism protein
+dde:Dde_3336	phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+dde:Dde_3337	Rubrerythrin
+dde:Dde_3339	glutathione-dependent formaldehyde-activating GFA
+dde:Dde_4048	pseudogene
+dde:Dde_3342	Integrase catalytic region
+dde:Dde_3343	pseudogene
+dde:Dde_3344	hypothetical protein
+dde:Dde_3345	helix-turn-helix domain protein
+dde:Dde_3347	hypothetical protein
+dde:Dde_3348	hypothetical protein
+dde:Dde_3349	hypothetical protein
+dde:Dde_3350	Transposase-like Mu
+dde:Dde_3351	hypothetical protein
+dde:Dde_3352	hypothetical protein
+dde:Dde_3353	hypothetical protein
+dde:Dde_3354	host-nuclease inhibitor protein Gam
+dde:Dde_3355	hypothetical protein
+dde:Dde_3356	histone family protein DNA-binding protein
+dde:Dde_3357	hypothetical protein
+dde:Dde_3358	protein of unknown function DUF1018
+dde:Dde_3359	hypothetical protein
+dde:Dde_3360	DNA-binding protein
+dde:Dde_4049	pseudogene
+dde:Dde_3361	Integrase catalytic region
+dde:Dde_3362	transposase IS3/IS911 family protein
+dde:Dde_3363	pseudogene
+dde:Dde_3364	Integrase catalytic region
+dde:Dde_3367	Peptidase M15A
+dde:Dde_3368	hypothetical protein
+dde:Dde_3369	hypothetical protein
+dde:Dde_3370	hypothetical protein
+dde:Dde_3371	hypothetical protein
+dde:Dde_3372	portal protein, putative
+dde:Dde_3373	protein of unknown function DUF935
+dde:Dde_3374	phage head morphogenesis protein, SPP1 gp7 family
+dde:Dde_3375	hypothetical protein
+dde:Dde_3376	hypothetical protein
+dde:Dde_3377	hypothetical protein
+dde:Dde_3378	protein of unknown function DUF1320
+dde:Dde_3379	phage virion morphogenesis protein
+dde:Dde_3380	hypothetical protein
+dde:Dde_3381	hypothetical protein
+dde:Dde_3382	hypothetical protein
+dde:Dde_3383	hypothetical protein
+dde:Dde_3384	hypothetical protein
+dde:Dde_3385	hypothetical protein
+dde:Dde_3386	phage tail tape measure protein, TP901 family
+dde:Dde_3387	hypothetical protein
+dde:Dde_3388	hypothetical protein
+dde:Dde_3389	baseplate assembly protein
+dde:Dde_3390	baseplate assembly protein
+dde:Dde_3391	Baseplate J family protein
+dde:Dde_3392	hypothetical protein
+dde:Dde_3393	tail fiber protein, putative
+dde:Dde_3394	hypothetical protein
+dde:Dde_3396	hypothetical protein
+dde:Dde_3397	Formyltetrahydrofolate dehydrogenase
+dde:Dde_3398	integrase family protein
+dde:Dde_3399	hypothetical protein
+dde:Dde_3401	hypothetical protein
+dde:Dde_3402	pseudogene
+dde:Dde_3403	hypothetical protein
+dde:Dde_3404	hypothetical protein
+dde:Dde_3406	IstB domain protein ATP-binding protein
+dde:Dde_3407	Integrase catalytic region
+dde:Dde_4004	Protein of unknown function DUF2188
+dde:Dde_4050	hypothetical protein
+dde:Dde_4057	DNA binding domain protein, excisionase family
+dde:Dde_3412	heat shock protein Hsp20
+dde:Dde_3413	ATPase AAA-2 domain protein
+dde:Dde_3414	hypothetical protein
+dde:Dde_3415	ATP-dependent metalloprotease FtsH
+dde:Dde_3416	thioredoxin
+dde:Dde_3417	diguanylate cyclase/phosphodiesterase with PAS/PAC sensor(s)
+dde:Dde_3418	hypothetical protein
+dde:Dde_3419	peptidase M48 Ste24p
+dde:Dde_3420	peptidase S1 and S6 chymotrypsin/Hap
+dde:Dde_3421	glycoside hydrolase family 24
+dde:Dde_3422	pseudogene
+dde:Dde_4051	pseudogene
+dde:Dde_3424	type I site-specific deoxyribonuclease, HsdR family
+dde:Dde_3425	restriction modification system DNA specificity domain-containing protein
+dde:Dde_3426	AAA-4 family protein
+dde:Dde_3427	Site-specific DNA-methyltransferase (adenine-specific)
+dde:Dde_3428	hypothetical protein
+dde:Dde_3429	type I restriction-modification system, M subunit
+dde:Dde_3430	DNA binding domain protein, excisionase family
+dde:Dde_3431	ERF family protein
+dde:Dde_3432	hypothetical protein
+dde:Dde_3433	ATPase associated with various cellular activities AAA_5
+dde:Dde_3434	hypothetical protein
+dde:Dde_3435	von Willebrand factor type A
+dde:Dde_3436	hypothetical protein
+dde:Dde_3439	hypothetical protein
+dde:Dde_3441	filamentation induced by cAMP protein Fic
+dde:Dde_4052	hypothetical protein
+dde:Dde_3444	hypothetical protein
+dde:Dde_R0071	tRNA-Ala
+dde:Dde_3447	MscS Mechanosensitive ion channel
+dde:Dde_3449	hypothetical protein
+dde:Dde_3450	DNA polymerase I
+dde:Dde_3451	hypothetical protein
+dde:Dde_3452	Serine--pyruvate transaminase
+dde:Dde_3453	Domain of unknown function DUF1844
+dde:Dde_3455	N-acetyl-gamma-glutamyl-phosphate reductase
+dde:Dde_3456	metal dependent phosphohydrolase
+dde:Dde_3457	Phenylacetate--CoA ligase
+dde:Dde_3458	Phosphoribosylamine--glycine ligase
+dde:Dde_3459	phosphoribosylaminoimidazole carboxylase, catalytic subunit
+dde:Dde_3460	hypothetical protein
+dde:Dde_3461	Conserved hypothetical protein CHP00245
+dde:Dde_3464	DNA mismatch repair protein MutL
+dde:Dde_3465	multi-sensor signal transduction histidine kinase
+dde:Dde_3466	ADP-L-glycero-D-manno-heptose-6-epimerase
+dde:Dde_3467	hypothetical protein
+dde:Dde_3468	serine/threonine protein kinase
+dde:Dde_3469	metallophosphoesterase
+dde:Dde_3470	6-phosphogluconate dehydrogenase, decarboxylating
+dde:Dde_3471	glucose-6-phosphate 1-dehydrogenase
+dde:Dde_3472	GCN5-related N-acetyltransferase
+dde:Dde_3473	Conserved hypothetical protein CHP00730
+dde:Dde_3474	transcriptional regulator, ArgP, LysR family
+dde:Dde_3475	Lysine exporter protein (LYSE/YGGA)
+dde:Dde_3476	Isocitrate dehydrogenase (NADP(+))
+dde:Dde_3478	tryptophan synthase, alpha subunit
+dde:Dde_3479	tryptophan synthase, beta subunit
+dde:Dde_3480	Phosphoribosylanthranilate isomerase
+dde:Dde_3481	Indole-3-glycerol-phosphate synthase
+dde:Dde_3482	anthranilate phosphoribosyltransferase
+dde:Dde_3483	glutamine amidotransferase of anthranilate synthase
+dde:Dde_3484	Anthranilate synthase
+dde:Dde_3485	Prephenate dehydrogenase
+dde:Dde_3486	3-phosphoshikimate 1-carboxyvinyltransferase
+dde:Dde_3487	prephenate dehydratase
+dde:Dde_3488	3-dehydroquinate synthase
+dde:Dde_3489	phospho-2-dehydro-3-deoxyheptonate aldolase
+dde:Dde_3490	phospho-2-dehydro-3-deoxyheptonate aldolase
+dde:Dde_3492	ammonium transporter
+dde:Dde_3493	nitrogen regulatory protein P-II
+dde:Dde_3494	phosphoesterase RecJ domain protein
+dde:Dde_3495	cobalbumin biosynthesis protein
+dde:Dde_3496	hypothetical protein
+dde:Dde_3499	UvrD/REP helicase
+dde:Dde_3501	methyltransferase small
+dde:Dde_3502	Fructose-bisphosphate aldolase
+dde:Dde_3503	hypothetical protein
+dde:Dde_3504	Cl-channel voltage-gated family protein
+dde:Dde_3505	riboflavin biosynthesis protein RibF
+dde:Dde_R0072	tRNA-Leu
+dde:Dde_3506	hypothetical protein
+dde:Dde_3508	methyl-accepting chemotaxis sensory transducer
+dde:Dde_3509	protein of unknown function DUF898 transmembrane
+dde:Dde_3510	peptidase M48 Ste24p
+dde:Dde_3511	putative transcriptional regulator, ModE family
+dde:Dde_3512	molybdopterin oxidoreductase Fe4S4 region
+dde:Dde_3513	formate dehydrogenase, alpha subunit
+dde:Dde_3514	Formate dehydrogenase beta subunit
+dde:Dde_3515	formate dehydrogenase accessory protein
+dde:Dde_3516	formate dehydrogenase family accessory protein FdhD
+dde:Dde_3517	molybdenum-pterin binding protein
+dde:Dde_3518	molybdenum ABC transporter, periplasmic molybdate-binding protein
+dde:Dde_3519	molybdate ABC transporter, inner membrane subunit
+dde:Dde_3520	Molybdate-transporting ATPase
+dde:Dde_3521	putative transcriptional regulator, ModE family
+dde:Dde_3523	Alcohol dehydrogenase
+dde:Dde_3524	heterodisulfide reductase, C subunit
+dde:Dde_3525	CoB--CoM heterodisulfide reductase
+dde:Dde_3526	FAD dependent oxidoreductase
+dde:Dde_3527	methyl-viologen-reducing hydrogenase delta subunit
+dde:Dde_3528	4Fe-4S ferredoxin iron-sulfur binding domain-containing protein
+dde:Dde_3529	iron-sulfur binding protein
+dde:Dde_3530	oxidoreductase FAD/NAD(P)-binding domain protein
+dde:Dde_3531	hypothetical protein
+dde:Dde_3532	hypothetical protein
+dde:Dde_3534	Alcohol dehydrogenase
+dde:Dde_3535	PAS/PAC sensor signal transduction histidine kinase
+dde:Dde_3536	two component, sigma54 specific, transcriptional regulator, Fis family
+dde:Dde_3538	molybdopterin binding domain-containing protein
+dde:Dde_3539	Aldehyde dehydrogenase (FAD-independent)
+dde:Dde_3540	amine oxidase
+dde:Dde_3541	hypothetical protein
+dde:Dde_3542	Methyltransferase type 11
+dde:Dde_3543	C_GCAxxG_C_C family protein
+dde:Dde_3544	Radical SAM domain protein
+dde:Dde_3545	Coenzyme F390 synthetase family, putatively involved in CO dehydrogenase maturation
+dde:Dde_3546	XshC-Cox1-family protein
+dde:Dde_3547	metal dependent phosphohydrolase
+dde:Dde_3548	putative transposase for insertion sequence element
+dde:Dde_3549	hypothetical protein
+dde:Dde_3550	Phosphoglycerate mutase
+dde:Dde_3551	protein of unknown function DUF1045
+dde:Dde_3552	Aspartate ammonia-lyase
+dde:Dde_3553	hypothetical protein
+dde:Dde_R0073	tRNA-Phe
+dde:Dde_3554	hypothetical protein
+dde:Dde_3555	zinc/iron permease
+dde:Dde_3556	acyltransferase 3
+dde:Dde_3561	methyl-accepting chemotaxis sensory transducer
+dde:Dde_3562	protein of unknown function DUF302
+dde:Dde_3563	copper resistance lipoprotein NlpE
+dde:Dde_3564	shikimate 5-dehydrogenase
+dde:Dde_3566	ATP phosphoribosyltransferase
+dde:Dde_3567	Phosphoribosyl-AMP cyclohydrolase
+dde:Dde_3569	Uncharacterized protein family UPF0066
+dde:Dde_3570	thiamine-monophosphate kinase
+dde:Dde_3571	UvrD/REP helicase
+dde:Dde_3572	type I phosphodiesterase/nucleotide pyrophosphatase
+dde:Dde_3573	hypothetical protein
+dde:Dde_R0074	tRNA-Leu
+dde:Dde_R0088	5S ribosomal RNA
+dde:Dde_R0076	23S ribosomal RNA
+dde:Dde_R0077	tRNA-Ala
+dde:Dde_R0078	tRNA-Ile
+dde:Dde_R0079	16S ribosomal RNA
+dde:Dde_3580	Lytic transglycosylase catalytic
+dde:Dde_3581	RNA methyltransferase, TrmH family, group 3
+dde:Dde_3582	flagellar biosynthetic protein FliQ
+dde:Dde_3583	flagellar biosynthetic protein FliP
+dde:Dde_3584	flagellar biosynthetic protein FliO
+dde:Dde_3585	flagellar motor switch protein FliN
+dde:Dde_3586	flagellar basal body-associated protein FliL
+dde:Dde_3587	OmpA/MotB domain protein
+dde:Dde_3588	OmpA/MotB domain protein
+dde:Dde_3589	MotA/TolQ/ExbB proton channel
+dde:Dde_3590	protein of unknown function UPF0001
+dde:Dde_3591	GTP-binding protein Era
+dde:Dde_3592	Integrase catalytic region
+dde:Dde_3593	hypothetical protein
+dde:Dde_3594	sugar fermentation stimulation protein
+dde:Dde_3596	Aspartate transaminase
+dde:Dde_3597	phosphoglucose isomerase (PGI)
+dde:Dde_3598	integral membrane sensor signal transduction histidine kinase
+dde:Dde_3599	two component, sigma54 specific, transcriptional regulator, Fis family
+dde:Dde_3600	protein of unknown function UPF0052 and CofD
+dde:Dde_3601	hypothetical protein
+dde:Dde_3602	hypothetical protein
+dde:Dde_3603	Protein of unknown function DUF1998
+dde:Dde_3604	D-lactate dehydrogenase (cytochrome)
+dde:Dde_3605	rfaE bifunctional protein
+dde:Dde_3606	protein of unknown function UPF0153
+dde:Dde_3607	tryptophanyl-tRNA synthetase
+dde:Dde_3608	peptidase M50
+dde:Dde_3609	response regulator receiver protein
+dde:Dde_3610	hypothetical protein
+dde:Dde_3611	protein of unknown function UPF0021
+dde:Dde_3612	glycosyl transferase family 2
+dde:Dde_3613	glycosyl transferase group 1
+dde:Dde_3614	translation initiation factor IF-1
+dde:Dde_R0080	tRNA-Met
+dde:Dde_3615	hypothetical protein
+dde:Dde_4006	5-formyltetrahydrofolate cyclo-ligase
+dde:Dde_3616	Multi-copper polyphenol oxidoreductase, laccase
+dde:Dde_3617	Anthranilate synthase
+dde:Dde_3618	Anthranilate synthase
+dde:Dde_3619	aminotransferase class IV
+dde:Dde_3620	hypothetical protein
+dde:Dde_3621	DNA-directed DNA polymerase
+dde:Dde_3622	hypothetical protein
+dde:Dde_3623	metallophosphoesterase
+dde:Dde_3624	hypothetical protein
+dde:Dde_3625	hypothetical protein
+dde:Dde_3627	outer membrane efflux protein
+dde:Dde_3628	efflux transporter, RND family, MFP subunit
+dde:Dde_3629	protein TolQ
+dde:Dde_3630	protein TolR
+dde:Dde_3631	protein TolA
+dde:Dde_3632	Tol-Pal system beta propeller repeat protein TolB
+dde:Dde_3633	peptidoglycan-associated lipoprotein
+dde:Dde_3635	glutamate synthase (NADPH), homotetrameric
+dde:Dde_3636	oxidoreductase FAD/NAD(P)-binding domain protein
+dde:Dde_3637	malic protein NAD-binding protein
+dde:Dde_3638	hydro-lyase, Fe-S type, tartrate/fumarate subfamily, beta subunit
+dde:Dde_3639	hydro-lyase, Fe-S type, tartrate/fumarate subfamily, alpha subunit
+dde:Dde_3640	hexapeptide repeat-containing transferase
+dde:Dde_3641	sulfate transporter
+dde:Dde_3645	TPR repeat-containing protein
+dde:Dde_3646	carbamoyl-phosphate synthase, small subunit
+dde:Dde_3647	3-deoxy-D-manno-octulosonate cytidylyltransferase
+dde:Dde_3649	Peptide chain release factor 3
+dde:Dde_3650	hypothetical protein
+dde:Dde_3652	galactose-1-phosphate uridylyltransferase
+dde:Dde_3653	Galactokinase
+dde:Dde_3654	transcriptional regulator, LacI family
+dde:Dde_3655	Aldose 1-epimerase
+dde:Dde_3656	Glycerol-3-phosphate-transporting ATPase
+dde:Dde_3657	extracellular solute-binding protein family 1
+dde:Dde_3658	ABC-type transporter, integral membrane subunit
+dde:Dde_3659	ABC-type transporter, integral membrane subunit
+dde:Dde_3660	transcriptional regulator, TraR/DksA family
+dde:Dde_3661	phospholipid/glycerol acyltransferase
+dde:Dde_3662	protein of unknown function DUF523
+dde:Dde_3664	hypothetical protein
+dde:Dde_3666	hypothetical protein
+dde:Dde_4053	hypothetical protein
+dde:Dde_3667	flavodoxin
+dde:Dde_3670	spermidine/putrescine ABC transporter ATPase subunit
+dde:Dde_3671	ABC-type transporter, integral membrane subunit
+dde:Dde_3672	ABC-type transporter, integral membrane subunit
+dde:Dde_3673	extracellular solute-binding protein family 1
+dde:Dde_3674	ferric uptake regulator, Fur family
+dde:Dde_3675	hypothetical protein
+dde:Dde_3676	acetyltransferase
+dde:Dde_3677	asparagine synthase (glutamine-hydrolyzing)
+dde:Dde_3678	glycosyl transferase family 2
+dde:Dde_3679	acylneuraminate cytidylyltransferase
+dde:Dde_3680	hypothetical protein
+dde:Dde_3681	N-acetylneuraminate synthase
+dde:Dde_3683	Xenobiotic-transporting ATPase
+dde:Dde_3684	hypothetical protein
+dde:Dde_3685	HpcH/HpaI aldolase
+dde:Dde_3686	NAD-dependent epimerase/dehydratase
+dde:Dde_3687	3-deoxy-D-manno-octulosonate cytidylyltransferase
+dde:Dde_3688	hexapeptide repeat-containing transferase
+dde:Dde_3689	Phosphoglycerate dehydrogenase
+dde:Dde_3690	Haloacid dehalogenase domain protein hydrolase
+dde:Dde_3691	dTDP-glucose 4,6-dehydratase
+dde:Dde_3692	hypothetical protein
+dde:Dde_3693	DegT/DnrJ/EryC1/StrS aminotransferase
+dde:Dde_3694	glucose-1-phosphate cytidylyltransferase
+dde:Dde_3695	CDP-glucose 4,6-dehydratase
+dde:Dde_3696	polysaccharide biosynthesis domain-containing protein
+dde:Dde_3697	DegT/DnrJ/EryC1/StrS aminotransferase
+dde:Dde_3698	glycosyl transferase family 2
+dde:Dde_3699	Oligosaccharyl transferase STT3 subunit
+dde:Dde_3700	hypothetical protein
+dde:Dde_3701	DNA-3-methyladenine glycosylase I
+dde:Dde_3702	transcriptional regulator, AraC family
+dde:Dde_3703	amino acid-binding ACT domain protein
+dde:Dde_3704	protein of unknown function DUF711
+dde:Dde_3705	export-related chaperone CsaA
+dde:Dde_3707	hypothetical protein
+dde:Dde_3708	Transmembrane complex, integral membrane protein
+dde:Dde_3709	Transmembrane complex, ferredoxin, 2 (4Fe-4S)
+dde:Dde_3710	Transmembrane complex, tetraheme cytochrome c3
+dde:Dde_3711	hypothetical protein
+dde:Dde_3712	UspA domain-containing protein
+dde:Dde_3713	response regulator receiver protein
+dde:Dde_3714	response regulator receiver protein
+dde:Dde_3715	multi-sensor signal transduction histidine kinase
+dde:Dde_3717	response regulator receiver sensor signal transduction histidine kinase
+dde:Dde_3718	multi-sensor signal transduction histidine kinase
+dde:Dde_3719	transcriptional regulator, BadM/Rrf2 family
+dde:Dde_3721	transcriptional regulator, ArsR family
+dde:Dde_3722	Protein of unknown function DUF318, transmembrane
+dde:Dde_3724	phosphonate ABC transporter, inner membrane subunit
+dde:Dde_3725	phosphonate ABC transporter, inner membrane subunit
+dde:Dde_3726	Phosphonate-transporting ATPase
+dde:Dde_3727	putative transposase for insertion sequence element
+dde:Dde_3728	hypothetical protein
+dde:Dde_3729	ABC transporter related protein
+dde:Dde_3730	phosphonate ABC transporter, periplasmic phosphonate-binding protein
+dde:Dde_3731	transcriptional regulator, DeoR family
+dde:Dde_3732	HAD-superfamily hydrolase, subfamily IIA
+dde:Dde_3733	Glycerol-3-phosphate dehydrogenase
+dde:Dde_3735	alpha/beta hydrolase fold protein
+dde:Dde_3736	glyceraldehyde-3-phosphate dehydrogenase, type I
+dde:Dde_3737	putative GAF sensor protein
+dde:Dde_3739	hypothetical protein
+dde:Dde_3740	PAS sensor protein
+dde:Dde_3742	ABC-type transporter, periplasmic subunit family 3
+dde:Dde_3743	polar amino acid ABC transporter, inner membrane subunit
+dde:Dde_3744	Phosphonate-transporting ATPase
+dde:Dde_3747	pseudogene
+dde:Dde_3749	ATPase domain protein
+dde:Dde_3750	pseudogene
+dde:Dde_3752	diguanylate cyclase
+dde:Dde_3754	cytochrome c class III
+dde:Dde_3755	hydrogenase (NiFe) small subunit HydA
+dde:Dde_3756	Cytochrome-c3 hydrogenase
+dde:Dde_3758	hypothetical protein
+dde:Dde_3759	hypothetical protein
+dde:Dde_3760	Uncharacterized protein family UPF0150
+dde:Dde_3763	pseudogene
+dde:Dde_3764	hypothetical protein
+dde:Dde_R0081	tRNA-Ala
+dde:Dde_3766	glutaredoxin
+dde:Dde_3768	prolipoprotein diacylglyceryl transferase
+dde:Dde_3769	translation initiation factor IF-1
+dde:Dde_3772	Tetratricopeptide TPR_1 repeat-containing protein
+dde:Dde_3773	hypothetical protein
+dde:Dde_3774	protein of unknown function UPF0153
+dde:Dde_3775	4Fe-4S ferredoxin iron-sulfur binding domain-containing protein
+dde:Dde_3776	HtrA2 peptidase
+dde:Dde_3777	nicotinate-nucleotide/dimethylbenzimidazole phosphoribosyltransferase
+dde:Dde_3778	oligopeptide/dipeptide ABC transporter, ATPase subunit
+dde:Dde_3779	MerR family transcriptional regulator
+dde:Dde_4054	hypothetical protein
+dde:Dde_3780	putative phosphate transport regulator
+dde:Dde_3781	phosphate transporter
+dde:Dde_3782	multi-sensor signal transduction histidine kinase
+dde:Dde_3784	Peptidase M23
