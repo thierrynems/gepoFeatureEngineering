@@ -40,6 +40,9 @@ colnames(a3) <- paste("DC", colnames(a3), sep = "_")
 #colnames(a4) <- paste("DC", colnames(a4), sep = "_")
 
 #colnames(c2) <- paste("DC", colnames(c2), sep = "_")
+##
+featureFileSave=paste(featureFile,"Feature_collection_Dipetite.csv",sep="")
+write.table(a3,featureFileSave,quote=FALSE,sep=",")
 
 a5 = t(sapply(peptide_list_essential, extractTC))
 #a6 = t(sapply(peptide_list_nessential, extractTC))
@@ -50,6 +53,9 @@ colnames(a5) <- paste("TC", colnames(a5), sep = "_")
 #colnames(a6) <- paste("TC", colnames(a6), sep = "_")
 
 #colnames(c3) <- paste("TC", colnames(c3), sep = "_")
+##
+featureFileSave=paste(featureFile,"Feature_collection_Tripetite.csv",sep="")
+write.table(a5,featureFileSave,quote=FALSE,sep=",")
 
 a7 = t(sapply(peptide_list_essential, extractCTriad))
 #a8 = t(sapply(peptide_list_nessential, extractCTriad))
@@ -60,6 +66,9 @@ colnames(a7) <- paste("CTriad", colnames(a7), sep = "_")
 #colnames(a8) <- paste("CTriad", colnames(a8), sep = "_")
 
 #colnames(c4) <- paste("CTriad", colnames(c4), sep = "_")
+##
+featureFileSave=paste(featureFile,"Feature_collection_Ctriad.csv",sep="")
+write.table(a7,featureFileSave,quote=FALSE,sep=",")
 
 a9 = t(sapply(peptide_list_essential, extractCTDC))
 #a10 = t(sapply(peptide_list_nessential, extractCTDC))
@@ -90,6 +99,10 @@ colnames(a13) <- paste("CTDD", colnames(a13), sep = "_")
 #colnames(a14) <- paste("CTDD", colnames(a14), sep = "_")
 
 #colnames(c7) <- paste("CTDD", colnames(c7), sep = "_")
+##
+featureFileSave=paste(featureFile,"Feature_collection_CTDD.csv",sep="")
+write.table(a13,featureFileSave,quote=FALSE,sep=",")
+
 
 a15 = t(sapply(peptide_list_essential, extractMoreauBroto, nlag=30))
 #a16 = t(sapply(peptide_list_nessential, extractMoreauBroto, nlag=10))
@@ -100,6 +113,9 @@ colnames(a15) <- paste("Moreau", colnames(a15), sep = "_")
 #colnames(a16) <- paste("Moreau", colnames(a16), sep = "_")
 
 #colnames(c8) <- paste("Moreau", colnames(c8), sep = "_")
+##
+featureFileSave=paste(featureFile,"Feature_collection_Moreau.csv",sep="")
+write.table(a15,featureFileSave,quote=FALSE,sep=",")
 
 a17 = t(sapply(peptide_list_essential, extractMoran, nlag=30))
 #a18 = t(sapply(peptide_list_nessential, extractMoran, nlag=10))
@@ -110,6 +126,9 @@ colnames(a17) <- paste("Moran", colnames(a17), sep = "_")
 #colnames(a18) <- paste("Moran", colnames(a18), sep = "_")
 
 #colnames(c9) <- paste("Moran", colnames(c9), sep = "_")
+##
+featureFileSave=paste(featureFile,"Feature_collection_Moran.csv",sep="")
+write.table(a17,featureFileSave,quote=FALSE,sep=",")
 
 a19 = t(sapply(peptide_list_essential, extractGeary, nlag=30))
 #a20 = t(sapply(peptide_list_nessential, extractGeary, nlag=10))
@@ -140,6 +159,10 @@ colnames(a23) <- paste("QSO", colnames(a23), sep = "_")
 #colnames(a24) <- paste("QSO", colnames(a24), sep = "_")
 
 #colnames(c12) <- paste("QSO", colnames(c12), sep = "_")
+##
+featureFileSave=paste(featureFile,"Feature_collection_QSO.csv",sep="")
+write.table(a23,featureFileSave,quote=FALSE,sep=",")
+
 
 a25 = t(sapply(peptide_list_essential, extractPAAC,lambda=30))
 #a26 = t(sapply(peptide_list_nessential, extractPAAC,lambda=10))
@@ -161,6 +184,9 @@ colnames(a27) <- paste("APAAC", colnames(a27), sep = "_")
 
 #colnames(c14) <- paste("APAAC", colnames(c14), sep = "_")
 
+##
+featureFileSave=paste(featureFile,"Feature_collection_APAAC.csv",sep="")
+write.table(a27,featureFileSave,quote=FALSE,sep=",")
 
 print("Fin extraction Protr")
 ##rDNAse sequence features
@@ -331,9 +357,13 @@ x1=cbind(x1,a27)
 
 #x3=cbind(x3,c14)
 
+#save sequences features 
+featureFileSave=paste(featureFile,"Feature_collection_Protein.csv",sep="")
+write.table(x1,featureFileSave,quote=FALSE,sep=",")
 ##
 
 x1=cbind(x1,a29)
+x2=cbind(a29,a31)
 #x2=cbind(x2,a30)
 
 #x3=cbind(x3,c15)
@@ -344,36 +374,43 @@ x1=cbind(x1,a31)
 #x3=cbind(x3,c16)
 
 x1=cbind(x1,a33)
+x2=cbind(x2,a33)
 #x2=cbind(x2,a34)
 
 #x3=cbind(x3,c17)
 
 x1=cbind(x1,a35)
+x2=cbind(x2,a35)
 #x2=cbind(x2,a36)
 
 #x3=cbind(x3,c18)
 
 x1=cbind(x1,a37)
+x2=cbind(x2,a37)
 #x2=cbind(x2,a38)
 
 #x3=cbind(x3,c19)
 
 x1=cbind(x1,a39)
+x2=cbind(x2,a39)
 #x2=cbind(x2,a40)
 
 #x3=cbind(x3,c20)
 
 x1=cbind(x1,a41)
+x2=cbind(x2,a41)
 #x2=cbind(x2,a42)
 
 #x3=cbind(x3,c21)
 
 x1=cbind(x1,a43)
+x2=cbind(x2,a43)
 #x2=cbind(x2,a44)
 
 #x3=cbind(x3,c22)
 
 x1=cbind(x1,a45)
+x2=cbind(x2,a45)
 #x2=cbind(x2,a46)
 
 #x3=cbind(x3,c23)
@@ -384,6 +421,11 @@ codonwFile=paste(featureFile,"codonwFeature.out",sep="")
 Essential_Codon=read.table(codonwFile,sep="\t",header=T)
 #print(Essential_Codon)
 x1=cbind(x1,as.matrix(as.data.frame(lapply(Essential_Codon[,3:dim(Essential_Codon)[2]],as.numeric))))
+
+x2=cbind(x2,as.matrix(as.data.frame(lapply(Essential_Codon[,3:dim(Essential_Codon)[2]],as.numeric))))
+##
+featureFileSave=paste(featureFile,"Feature_collection_Nucleotide.csv",sep="")
+write.table(x2,featureFileSave,quote=FALSE,sep=",")
 #print(x1)
 print(dim(x1))
 
